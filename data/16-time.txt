@@ -1,0 +1,115 @@
+@theme time TIM general
+# Time and quantities
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 31: time expressions, frequency, duration ---
+TIM001 | time zone | المنطقة الزمنية | B2 | n | a | - | - | - | New York and Los Angeles are in different time zones. | Calling home is hard because of the time zone difference.
+TIM002 | daylight saving time | التوقيت الصيفي | C1 | n | - | - | uncountable | daylight savings time | Daylight saving time starts in March in the US. | Don't forget to change your clock for daylight saving time.
+TIM003 | decade | عَقد (عشر سنوات) | B2 | n | a | - | - | - | She has worked as a nurse for two decades. | Survival rates have improved over the last decade.
+TIM004 | quarter | رُبع | B2 | n | a | - | a quarter past / to | - | The meeting starts at a quarter past nine. | Take one quarter of the tablet with water.
+TIM005 | half an hour | نصف ساعة | B2 | n | - | - | - | a half hour | The test takes about half an hour. | I'll be there in half an hour.
+TIM006 | in advance | قبل الموعد بوقت كافٍ | B2 | expr | - | - | - | - | Book your flight home well in advance. | Thank you in advance for your help.
+TIM007 | ahead of time | قبل الموعد المحدّد | B2 | expr | - | - | - | - | Prepare your presentation ahead of time. | We arrived ahead of time for the interview.
+TIM008 | at the latest | على أبعد تقدير | B2 | expr | - | - | - | - | Send me the report by Friday at the latest. | The results will be back by noon at the latest.
+TIM009 | so far | حتى الآن | B2 | expr | - | - | - | - | So far, the patient has responded well. | We have seen twenty patients so far today.
+TIM010 | from now on | من الآن فصاعدًا | B2 | expr | - | - | - | - | From now on, I will check the labs every morning. | From now on, all orders must be entered electronically.
+TIM011 | for the time being | في الوقت الحالي (مؤقّتًا) | B2 | expr | - | - | - | for now | For the time being, continue the same dose. | She is staying with her cousin for the time being.
+TIM012 | in the long run | على المدى البعيد | B2 | expr | - | - | - | - | Regular exercise saves money in the long run. | Quitting smoking pays off in the long run.
+TIM013 | in the meantime | في هذه الأثناء | B2 | expr | - | - | - | - | The CT is in an hour; in the meantime, keep him NPO. | In the meantime, try to rest at home.
+TIM014 | around the clock | على مدار الساعة | B2 | expr | - | - | - | - | Nurses care for patients around the clock. | The ICU is staffed around the clock.
+TIM015 | on short notice | دون إشعار مسبق كافٍ | C1 | expr | - | - | - | - | I covered the shift on short notice. | The surgery was scheduled on short notice.
+TIM016 | overnight | خلال الليل | B2 | adv | - | - | also an adjective | - | The patient stayed overnight for observation. | Her fever went down overnight.
+TIM017 | beforehand | سلفًا (قبل ذلك) | C1 | adv | - | - | - | - | Don't eat anything for eight hours beforehand. | Tell me beforehand if you need to leave early.
+TIM018 | afterward | بعد ذلك | B2 | adv | - | - | - | afterwards | We went out for dinner afterward. | She felt dizzy right afterward and sat down.
+TIM019 | eventually | في نهاية المطاف | B2 | adv | - | - | - | - | The pain eventually went away. | He eventually passed the exam on his third attempt.
+TIM020 | lately | مؤخّرًا | B2 | adv | - | - | - | recently | Have you been sleeping well lately? | I've been very busy lately.
+TIM021 | formerly | في السابق (كان يُعرف بـ) | C1 | adv | - | - | - | - | The building was formerly a school. | The disease was formerly called "consumption."
+TIM022 | temporarily | مؤقّتًا | B2 | adv | - | - | - | - | The clinic is temporarily closed for renovation. | Stop the blood thinner temporarily before surgery.
+TIM023 | permanently | بشكل دائم | B2 | adv | - | - | - | - | The injury left him permanently disabled. | She moved to the US permanently.
+TIM024 | simultaneously | بالتزامن | C1 | adv | - | - | - | at the same time | Two codes happened simultaneously on different floors. | Don't try to do everything simultaneously.
+TIM025 | annually | سنويًا | C1 | adv | - | - | - | yearly | The flu vaccine is given annually. | The program is reviewed annually.
+TIM026 | biweekly | كلّ أسبوعين | C1 | adv | - | - | can also mean twice a week | every two weeks | Most residents are paid biweekly. | The team meets biweekly to review cases.
+TIM027 | quarterly | كلّ ثلاثة أشهر | C1 | adv | - | - | - | - | The newsletter comes out quarterly. | Check the A1c quarterly in patients with poor control.
+TIM028 | hourly | كلّ ساعة | B2 | adv | - | - | - | every hour | Check his vital signs hourly. | Nurses check the patient hourly during the night.
+TIM029 | timely | في الوقت المناسب | C1 | adj | - | - | - | - | Timely treatment of sepsis saves lives. | We need a timely answer from the insurance company.
+TIM030 | upcoming | قادم (وشيك) | B2 | adj | - | - | - | - | I'm studying for the upcoming exam. | The upcoming changes affect all residents.
+TIM031 | ongoing | جارٍ (مستمرّ) | C1 | adj | - | - | - | - | The investigation into the error is ongoing. | She has ongoing back pain.
+TIM032 | lifelong | مدى الحياة | C1 | adj | - | - | - | - | Type 1 diabetes requires lifelong treatment. | She is a lifelong learner.
+TIM033 | subsequent | لاحق | C1 | adj | - | - | - | - | Subsequent tests were all normal. | The first dose and all subsequent doses were well tolerated.
+TIM034 | prior | سابق (قبلي) | C1 | adj | - | - | prior to sth = before | previous | Has she had any prior surgeries? | Prior to surgery, stop eating at midnight.
+TIM035 | timeframe | الإطار الزمني | C1 | n | a | - | - | time frame | What is the timeframe for the results? | Symptoms appeared within a short timeframe.
+TIM036 | interval | فاصل زمني | C1 | n | an | - | - | - | The doses are given at six-hour intervals. | The interval between seizures is getting shorter.
+TIM037 | span | مدّة (فترة زمنية) | C1 | n | a | - | - | - | Over a span of ten years, he had three heart attacks. | Young children have a short attention span.
+TIM038 | milestone | محطّة مهمّة (مرحلة بارزة) | C1 | n | a | - | - | - | Passing Step 1 is a big milestone. | The baby reached all her developmental milestones.
+TIM039 | anniversary | ذكرى سنوية | B2 | n | an | - | - | - | Today is the anniversary of my arrival in the US. | We celebrated our tenth wedding anniversary.
+TIM040 | elapse | يمضي (الوقت) | C1 | v | - | - | formal | pass | Ten minutes elapsed before the ambulance arrived. | Note the time that has elapsed since the last dose.
+TIM041 | overlap | يتداخل | C1 | v | - | - | overlap with sth | - | My shifts overlap with my roommate's. | The two courses overlap on Mondays.
+TIM042 | coincide | يتزامن | C1 | v | - | - | coincide with sth | - | My exam coincides with Ramadan. | His symptoms coincided with the start of the new drug.
+TIM043 | speed up | يسرّع | B2 | expr | - | - | - | - | We need to speed up the discharge process. | Exercise can speed up recovery.
+TIM044 | slow down | يُبطئ | B2 | expr | - | - | - | - | Slow down and read the question carefully. | The drug slows down the heart rate.
+TIM045 | be running behind | متأخّر عن الجدول | B2 | expr | - | - | informal | run behind | The clinic is running behind by an hour. | Sorry, I'm running behind this morning.
+TIM046 | in no time | في وقت قصير جدًا | B2 | expr | - | - | informal | - | You'll learn the ropes in no time. | The ambulance arrived in no time.
+TIM047 | time-consuming | يستغرق وقتًا طويلًا | B2 | adj | - | - | - | - | Hospital paperwork is very time-consuming. | Prior authorizations are time-consuming for doctors.
+TIM048 | in a row | على التوالي | B2 | expr | - | - | - | - | I worked six nights in a row. | She won the teaching award three years in a row.
+TIM049 | once in a while | من حين لآخر | B2 | expr | - | - | - | - | I eat fast food once in a while. | Once in a while, a patient brings us cookies.
+TIM050 | sooner or later | عاجلًا أم آجلًا | B2 | expr | - | - | - | - | Sooner or later, you will make a mistake, so learn from it. | Sooner or later, you will have to tell the family.
+TIM051 | the other day | قبل بضعة أيام | B2 | expr | - | - | informal | - | I saw your old roommate the other day. | The other day, a patient asked me where I was from.
+TIM052 | at the crack of dawn | عند بزوغ الفجر | C1 | expr | - | - | informal | - | Surgeons start at the crack of dawn. | I left home at the crack of dawn to catch the train.
+TIM053 | noon | الظهيرة | B2 | n | - | - | - | midday | The clinic closes at noon on Fridays. | Take the second dose at noon.
+TIM054 | midnight | منتصف الليل | B2 | n | - | - | - | - | Do not eat after midnight before your surgery. | My shift ends at midnight.
+# --- batch 32: quantities, statistics, calculation, US units ---
+TIM055 | quantity | كمّية | B2 | n | a | - | - | - | Drink small quantities of water often. | The pharmacy dispensed a large quantity of pills.
+TIM056 | proportion | نسبة (جزء من الكلّ) | C1 | n | a | - | - | - | A large proportion of patients are over 65. | The proportion of women in surgery is growing.
+TIM057 | percentage | نسبة مئوية | B2 | n | a | - | - | - | What percentage of patients improve on this drug? | A small percentage of people are allergic to penicillin.
+TIM058 | ratio | نسبة بين رقمين | C1 | n | a | - | - | - | The nurse-to-patient ratio in the ICU is one to two. | The ratio of men to women in the study was equal.
+TIM059 | majority | الأغلبية | B2 | n | - | - | usually: the majority of | - | The majority of residents live near the hospital. | The vast majority of patients recover fully.
+TIM060 | minority | الأقلّية | B2 | n | a | - | - | - | Only a minority of patients need surgery. | Doctors from minority groups are underrepresented.
+TIM061 | handful | حفنة (عدد قليل) | B2 | n | a | - | a handful of | - | Only a handful of programs sponsor that visa. | He takes a handful of pills every morning.
+TIM062 | dozen | دزينة (اثنا عشر) | B2 | n | a | - | dozens of = many | - | I bought a dozen eggs at the store. | Dozens of patients came to the free clinic.
+TIM063 | plenty of | الكثير من (أكثر من الكافي) | B2 | expr | - | - | - | - | Drink plenty of fluids while you have a fever. | There is plenty of time before the exam.
+TIM064 | a great deal of | قدر كبير من | B2 | expr | - | - | with uncountable nouns | - | Residency requires a great deal of energy. | She has a great deal of experience with children.
+TIM065 | a fraction of | جزء بسيط من | C1 | expr | - | - | - | - | The generic drug costs a fraction of the price. | Only a fraction of the patients had side effects.
+TIM066 | total | المجموع | B2 | n | a | - | in total | - | The total comes to 45 dollars. | In total, we admitted twelve patients.
+TIM067 | average | المتوسّط | B2 | n | an | - | on average | mean | The average age of the patients was 62. | On average, residents work 70 hours a week.
+TIM068 | median | الوسيط الإحصائي | C1 | n | a | - | - | - | The median survival was five years. | The median is less affected by extreme values.
+TIM069 | range | المدى (النطاق) | B2 | n | a | - | - | - | The age range of the patients was 18 to 90. | Doses in this range are safe for adults.
+TIM070 | peak | ذروة | B2 | n | a | - | - | - | Flu cases reach a peak in February. | The drug level reaches its peak after two hours.
+TIM071 | minimum | الحدّ الأدنى | B2 | n | a | minima | - | - | Sleep a minimum of six hours before an exam. | What is the minimum score to pass this exam?
+TIM072 | maximum | الحدّ الأقصى | B2 | n | a | maxima | - | - | The maximum dose of acetaminophen is four grams a day. | Each patient can have a maximum of two visitors.
+TIM073 | statistics | الإحصاء | B2 | n | - | - | the subject takes a singular verb | stats | Statistics is an important part of medical research. | The latest statistics show a drop in smoking.
+TIM074 | figure | رقم إحصائي | B2 | n | a | - | - | - | The latest figures show a rise in measles cases. | Can you give me an exact figure?
+TIM075 | digit | خانة رقمية | B2 | n | a | - | - | - | Enter the last four digits of your Social Security number. | The patient ID has eight digits.
+TIM076 | decimal point | الفاصلة العشرية | C1 | n | a | - | - | - | A misplaced decimal point can cause a serious dosing error. | Never write a zero after a decimal point in an order.
+TIM077 | double | يتضاعف (يضاعف) | B2 | v | - | - | - | - | The number of cases doubled in a month. | Do not double the dose if you miss one.
+TIM078 | halve | يُنقص إلى النصف | C1 | v | - | - | - | - | We halved the dose because of her kidney function. | The waiting time was halved by the new system.
+TIM079 | decrease | ينخفض | B2 | v | - | - | opposite: increase | - | His blood pressure decreased after the new drug. | Smoking rates have decreased in the US.
+TIM080 | fluctuate | يتذبذب | C1 | v | - | - | - | - | Her blood sugar fluctuates a lot during the day. | Prices fluctuate depending on the season.
+TIM081 | exceed | يتجاوز | C1 | v | - | - | - | - | Do not exceed the recommended dose. | The cost exceeded our budget.
+TIM082 | estimate | يقدّر تقريبيًا | B2 | v | - | - | - | - | We estimate that the surgery will take three hours. | Estimate the patient's weight if you cannot weigh her.
+TIM083 | calculate | يحسب | B2 | v | - | - | - | - | Calculate the dose based on the child's weight. | She calculated the pack-years quickly.
+TIM084 | multiply | يضرب (عمليةً حسابية) | B2 | v | - | - | multiply A by B | - | Multiply the weight in kilograms by 0.6. | Multiply the daily dose by the number of days to get the total.
+TIM085 | divide | يقسم | B2 | v | - | - | divide A by B / into | - | Divide the total dose into three doses a day. | The class was divided into small groups.
+TIM086 | round up | يقرّب الرقم إلى الأعلى | B2 | expr | - | - | opposite: round down | - | Round up the dose to the nearest whole tablet. | Always round the volume up to the nearest milliliter.
+TIM087 | add up | يتراكم (يصبح منطقيًا) | B2 | expr | - | - | informal: the numbers don't add up | - | Small expenses add up quickly. | The numbers in the report don't add up.
+TIM088 | numerous | عديد | C1 | adj | - | - | formal | - | The drug has numerous side effects. | Numerous studies support this treatment.
+TIM089 | countless | لا يُحصى | C1 | adj | - | - | - | - | She has helped countless patients. | I spent countless hours studying for the exam.
+TIM090 | sufficient | كافٍ | B2 | adj | - | - | formal | enough | Is the sample sufficient for testing? | One dose is not sufficient to treat the infection.
+TIM091 | insufficient | غير كافٍ | C1 | adj | - | - | - | - | The sample was insufficient, so it must be repeated. | There is insufficient evidence to recommend this test.
+TIM092 | excessive | مفرط | C1 | adj | - | - | - | - | Excessive alcohol use damages the liver. | He complained of excessive sweating.
+TIM093 | considerable | معتبَر (كبير) | C1 | adj | - | - | - | - | The surgery carries a considerable risk. | She has considerable experience in pediatrics.
+TIM094 | negligible | ضئيل يمكن إهماله | C1 | adj | - | - | - | - | The risk of infection is negligible with this procedure. | The difference between the two groups was negligible.
+TIM095 | substantial | جوهري (كبير) | C1 | adj | - | - | - | - | There was a substantial improvement in her symptoms. | The new drug offers a substantial benefit.
+TIM096 | marginal | هامشي | C1 | adj | - | - | - | - | The benefit of the drug is marginal. | Marginal improvements are not worth the side effects.
+TIM097 | approximate | تقريبي | B2 | adj | - | - | - | - | What is the approximate cost of the surgery? | The approximate weight of the baby is three kilograms.
+TIM098 | exact | دقيق (بالضبط) | B2 | adj | - | - | - | - | I don't know the exact time the pain started. | The exact cause is unknown.
+TIM099 | tenfold | عشرة أضعاف | C1 | adj | - | - | also: twofold, threefold | - | There was a tenfold increase in cases. | A tenfold error in the dose can be fatal.
+TIM100 | pound | رطل (باوند) | B2 | n | a | - | abbreviation: lb | lb | He weighs about 180 pounds. | A pound is about 450 grams.
+TIM101 | ounce | أونصة | B2 | n | an | - | abbreviation: oz | oz | The baby drinks four ounces of formula every three hours. | An ounce is about 28 grams.
+TIM102 | inch | بوصة (إنش) | B2 | n | an | - | abbreviation: in. | - | The cut is about two inches long. | An inch is 2.54 centimeters.
+TIM103 | foot | قدم (وحدة طول) | B2 | n | a | feet | abbreviation: ft | ft | He is six feet tall. | A foot is about 30 centimeters.
+TIM104 | gallon | غالون | B2 | n | a | - | - | - | A gallon of milk costs about four dollars. | Gas is sold by the gallon in the US.
+TIM105 | Fahrenheit | فهرنهايت | B2 | n | - | - | abbreviation: °F | - | Americans measure temperature in Fahrenheit. | A normal body temperature is 98.6 degrees Fahrenheit.
+TIM106 | Celsius | سيلسيوس (الدرجة المئوية) | B2 | n | - | - | abbreviation: °C | centigrade | Most countries outside the US use Celsius. | Convert the temperature from Celsius to Fahrenheit.
+TIM107 | metric system | النظام المتري | B2 | n | - | - | used with "the" | - | Hospitals in the US use the metric system for doses. | Many patients do not know their weight in the metric system.
+TIM108 | a couple of | بضعة (اثنان أو ثلاثة) | B2 | expr | - | - | informal | - | I'll be back in a couple of minutes. | She had a couple of cups of coffee before the exam.
+TIM109 | more or less | إلى حدّ ما (تقريبًا) | B2 | expr | - | - | - | - | The pain is more or less the same. | The surgery took four hours, more or less.
+TIM110 | no more than | لا يزيد على | B2 | expr | - | - | - | - | Take no more than four tablets a day. | The test takes no more than ten minutes.

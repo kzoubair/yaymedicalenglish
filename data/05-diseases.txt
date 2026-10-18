@@ -1,0 +1,142 @@
+@theme diseases DIS medicine
+# Diseases and pathologies
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 9: common diseases, technical vs everyday names ---
+DIS001 | heart attack | نوبة قلبية (لغة عامة) | B2 | n | a | - | everyday; technical: myocardial infarction | - | My father had a heart attack at 55. | Chest pain and sweating can be signs of a heart attack.
+DIS002 | myocardial infarction | احتشاء عضلة القلب (مصطلح طبي) | C1 | n | a | - | technical; everyday: heart attack; abbreviation: MI | MI | The ECG confirmed an acute myocardial infarction. | He was admitted with a myocardial infarction last night.
+DIS003 | stroke | سكتة دماغية | B2 | n | a | - | - | - | The patient had a stroke that affected his speech. | High blood pressure is the main risk factor for stroke.
+DIS004 | transient ischemic attack | نوبة إقفارية عابرة | C1 | n | a | - | abbreviation: TIA; everyday: mini-stroke | TIA; mini-stroke | A transient ischemic attack is a warning sign of a stroke. | Her symptoms resolved within an hour, so we diagnosed a transient ischemic attack.
+DIS005 | high blood pressure | ارتفاع ضغط الدم (لغة عامة) | B2 | n | - | - | everyday; technical: hypertension | - | High blood pressure often has no symptoms. | Her high blood pressure is well controlled with medication.
+DIS006 | hypertension | فرط ضغط الدم (مصطلح طبي) | C1 | n | - | - | technical; everyday: high blood pressure | - | He has a ten-year history of hypertension. | Uncontrolled hypertension damages the kidneys.
+DIS007 | heart failure | قصور القلب | C1 | n | - | - | uncountable | - | He was admitted with worsening heart failure. | Swollen ankles and breathlessness suggest heart failure.
+DIS008 | atrial fibrillation | الرجفان الأذيني | C1 | n | - | - | abbreviation: AFib | AFib; A-fib | Atrial fibrillation increases the risk of stroke. | She was started on a blood thinner for atrial fibrillation.
+DIS009 | blood clot | جلطة دموية (لغة عامة) | B2 | n | a | - | everyday; technical: thrombus | - | She has a blood clot in her leg. | Long flights increase the risk of a blood clot.
+DIS010 | thrombosis | الخُثار (مصطلح طبي) | C1 | n | - | - | technical; deep vein thrombosis (DVT) | - | The scan showed deep vein thrombosis in the left leg. | Immobility after surgery increases the risk of thrombosis.
+DIS011 | pulmonary embolism | الانصمام الرئوي | C1 | n | a | - | abbreviation: PE | PE | A pulmonary embolism can cause sudden shortness of breath. | She developed a pulmonary embolism after hip surgery.
+DIS012 | aneurysm | أُمّ الدم (تمدّد وعائي) | C1 | n | an | - | - | - | He has an abdominal aortic aneurysm. | A ruptured brain aneurysm causes a sudden severe headache.
+DIS013 | asthma | الربو | B2 | n | - | - | uncountable | - | Her asthma is worse in the winter. | Asthma is the most common chronic disease in children.
+DIS014 | chronic obstructive pulmonary disease | الداء الرئوي الانسدادي المزمن | C1 | n | - | - | abbreviation: COPD | COPD | Chronic obstructive pulmonary disease is mostly caused by smoking. | He uses three inhalers for his chronic obstructive pulmonary disease.
+DIS015 | pneumonia | ذات الرئة (التهاب رئوي) | B2 | n | - | - | uncountable | - | The chest X-ray confirmed pneumonia in the right lower lobe. | Older patients with pneumonia may present with confusion.
+DIS016 | tuberculosis | السُّل | B2 | n | - | - | abbreviation: TB | TB | Tuberculosis is still common in many countries. | He was treated for tuberculosis for six months.
+DIS017 | pneumothorax | استرواح الصدر | C1 | n | a | - | - | - | A tall young man presented with a spontaneous pneumothorax. | A tension pneumothorax needs immediate decompression.
+DIS018 | type 2 diabetes | السكري من النوع الثاني | B2 | n | - | - | uncountable | type II diabetes | Type 2 diabetes is linked to obesity. | She was diagnosed with type 2 diabetes last year.
+DIS019 | hypoglycemia | نقص سكر الدم | C1 | n | - | - | technical; everyday: low blood sugar | low blood sugar | Sweating and confusion may be signs of hypoglycemia. | Too much insulin can cause hypoglycemia.
+DIS020 | hyperthyroidism | فرط نشاط الغدة الدرقية | C1 | n | - | - | uncountable | overactive thyroid | Weight loss and palpitations suggest hyperthyroidism. | Her hyperthyroidism was treated with radioactive iodine.
+DIS021 | hypothyroidism | قصور الغدة الدرقية | C1 | n | - | - | uncountable | underactive thyroid | Hypothyroidism can cause fatigue and weight gain. | She takes levothyroxine for hypothyroidism.
+DIS022 | obesity | السمنة | B2 | n | - | - | uncountable | - | Obesity increases the risk of many diseases. | Childhood obesity is a growing problem in the US.
+DIS023 | anemia | فقر الدم | B2 | n | - | - | uncountable | - | Iron deficiency is the most common cause of anemia. | Her anemia explains her fatigue.
+DIS024 | leukemia | ابيضاض الدم | C1 | n | - | - | uncountable | - | Leukemia is the most common cancer in children. | He is receiving chemotherapy for acute leukemia.
+DIS025 | lymphoma | لمفومة | C1 | n | a | - | - | - | The biopsy of the lymph node showed lymphoma. | She was cured of Hodgkin lymphoma ten years ago.
+DIS026 | tumor | ورم | B2 | n | a | - | - | - | The tumor was removed completely. | A benign tumor does not spread to other organs.
+DIS027 | malignancy | خباثة (ورم خبيث) | C1 | n | a | - | technical | - | The CT ruled out an underlying malignancy. | A history of malignancy increases the risk of blood clots.
+DIS028 | metastasis | نقيلة (انتقال الورم) | C1 | n | a | metastases | - | - | The scan showed a metastasis in the liver. | Bone metastases can cause severe pain.
+DIS029 | benign | حميد | B2 | adj | - | - | opposite: malignant | - | The biopsy showed that the lump was benign. | The tumor was benign and did not need further treatment.
+DIS030 | malignant | خبيث | C1 | adj | - | - | opposite: benign | - | Malignant cells were found in the fluid. | The mole turned out to be malignant.
+DIS031 | sepsis | الإنتان (تعفّن الدم) | C1 | n | - | - | uncountable | - | Sepsis is a life-threatening response to infection. | Start antibiotics within an hour if you suspect sepsis.
+DIS032 | urinary tract infection | التهاب المسالك البولية | B2 | n | a | - | abbreviation: UTI | UTI | She has had her third urinary tract infection this year. | A urinary tract infection can cause confusion in older adults.
+DIS033 | meningitis | التهاب السحايا | C1 | n | - | - | uncountable | - | Bacterial meningitis is a medical emergency. | The baby was treated for meningitis.
+DIS034 | appendicitis | التهاب الزائدة الدودية | B2 | n | - | - | uncountable | - | Appendicitis usually starts with pain around the navel. | She had surgery for acute appendicitis.
+DIS035 | gallstones | حصى المرارة | B2 | n | - | - | plural noun | - | Gallstones can cause pain after fatty meals. | The ultrasound showed several gallstones.
+DIS036 | kidney stone | حصاة الكلية | B2 | n | a | - | - | renal calculus | Drinking more water helps prevent kidney stones. | He passed a kidney stone after two days of pain.
+DIS037 | cirrhosis | تشمّع الكبد | C1 | n | - | - | uncountable | - | Long-term alcohol use can lead to cirrhosis. | Patients with cirrhosis may develop ascites.
+DIS038 | hepatitis | التهاب الكبد | B2 | n | - | - | uncountable | - | Hepatitis B can be prevented with a vaccine. | His hepatitis was caused by a virus.
+DIS039 | peptic ulcer | قرحة هضمية | C1 | n | a | - | - | - | NSAIDs can cause a peptic ulcer. | A bleeding peptic ulcer can cause black stools.
+DIS040 | gastroesophageal reflux disease | داء الارتجاع المعدي المريئي | C1 | n | - | - | abbreviation: GERD | GERD; acid reflux | Gastroesophageal reflux disease causes heartburn after meals. | Losing weight can improve gastroesophageal reflux disease.
+DIS041 | inflammatory bowel disease | الداء المعوي الالتهابي | C1 | n | - | - | abbreviation: IBD | IBD | Crohn's disease is a type of inflammatory bowel disease. | Inflammatory bowel disease often starts in young adults.
+DIS042 | osteoarthritis | الفُصال العظمي | C1 | n | - | - | uncountable | - | Osteoarthritis of the knee is common after 60. | Weight loss reduces pain in osteoarthritis.
+DIS043 | rheumatoid arthritis | التهاب المفاصل الروماتويدي | C1 | n | - | - | abbreviation: RA | RA | Rheumatoid arthritis often affects the small joints of the hands. | She takes methotrexate for rheumatoid arthritis.
+DIS044 | osteoporosis | هشاشة العظام | C1 | n | - | - | uncountable | - | Osteoporosis increases the risk of hip fractures. | Women should be screened for osteoporosis after menopause.
+DIS045 | fracture | كسر | B2 | n | a | - | - | - | The X-ray shows a fracture of the wrist. | Older women with osteoporosis can get a fracture from a minor fall.
+DIS046 | dislocation | خلع (مفصلي) | C1 | n | a | - | - | - | A shoulder dislocation needs to be reduced quickly. | The X-ray confirmed a dislocation of the elbow.
+DIS047 | sprain | التواء (ملخ) | B2 | n | a | - | - | - | An ankle sprain usually heals in a few weeks. | Is it a sprain or a fracture?
+DIS048 | epilepsy | الصرع | B2 | n | - | - | uncountable | - | He has had epilepsy since childhood. | Epilepsy is usually controlled with medication.
+DIS049 | dementia | الخَرَف | B2 | n | - | - | uncountable | - | Alzheimer's disease is the most common cause of dementia. | Her dementia has progressed over the last year.
+DIS050 | Parkinson's disease | داء باركنسون | C1 | n | - | - | uncountable | Parkinson's | Parkinson's disease causes tremor and slow movement. | Her husband was diagnosed with Parkinson's disease at 68.
+DIS051 | multiple sclerosis | التصلّب المتعدّد | C1 | n | - | - | abbreviation: MS | MS | Multiple sclerosis often begins with blurred vision in one eye. | She is on a new treatment for multiple sclerosis.
+DIS052 | migraine | الشقيقة (الصداع النصفي) | B2 | n | a | - | - | - | She gets a migraine every month before her period. | Migraines are often preceded by flashing lights.
+DIS053 | depression | الاكتئاب | B2 | n | - | - | uncountable | - | Depression is common after a heart attack. | Screen for depression at every annual visit.
+DIS054 | anxiety disorder | اضطراب القلق | C1 | n | an | - | - | - | Generalized anxiety disorder can cause chest pain and insomnia. | He was diagnosed with an anxiety disorder in college.
+DIS055 | schizophrenia | الفُصام | C1 | n | - | - | uncountable | - | Schizophrenia usually starts in early adulthood. | He has been stable on medication for his schizophrenia.
+DIS056 | eczema | الإكزيما | B2 | n | - | - | uncountable | - | Her eczema flares up in the winter. | Daily moisturizers help control eczema in children.
+DIS057 | psoriasis | الصُّداف (الصدفية) | C1 | n | - | - | uncountable | - | Psoriasis causes red, scaly patches on the elbows. | His psoriasis improved with light therapy.
+DIS058 | cellulitis | التهاب النسيج الخلوي | C1 | n | - | - | uncountable | - | Cellulitis of the leg is treated with antibiotics. | Diabetic patients are at higher risk of cellulitis.
+DIS059 | chronic kidney disease | الداء الكلوي المزمن | C1 | n | - | - | abbreviation: CKD | CKD | Diabetes is the leading cause of chronic kidney disease. | Patients with chronic kidney disease need careful drug dosing.
+DIS060 | kidney failure | الفشل الكلوي (لغة عامة) | B2 | n | - | - | everyday; technical: renal failure | - | Kidney failure may require dialysis. | His kidney failure was caused by uncontrolled diabetes.
+DIS061 | renal failure | القصور الكلوي (مصطلح طبي) | C1 | n | - | - | technical; everyday: kidney failure | - | Acute renal failure developed after the contrast scan. | The patient has end-stage renal failure and is on dialysis.
+DIS062 | HIV | فيروس العوز المناعي البشري | B2 | n | - | - | human immunodeficiency virus | human immunodeficiency virus | Antiretroviral drugs keep HIV under control. | She tested positive for HIV during her pregnancy.
+DIS063 | measles | الحصبة | B2 | n | - | - | uncountable, takes a singular verb | - | Measles is spreading in areas with low vaccination rates. | The child has measles with a high fever and a rash.
+DIS064 | chickenpox | جدري الماء | B2 | n | - | - | uncountable | - | Chickenpox causes an itchy rash with blisters. | Most adults had chickenpox as children.
+DIS065 | shingles | الحزام الناري (الهربس النطاقي) | B2 | n | - | - | uncountable, takes a singular verb | - | Shingles causes a painful rash on one side of the body. | A vaccine can prevent shingles in older adults.
+DIS066 | influenza | الإنفلونزا (مصطلح طبي) | C1 | n | - | - | technical; everyday: flu | flu | Influenza can be serious in older adults. | Get vaccinated against influenza every fall.
+DIS067 | common cold | الزكام (نزلة البرد) | B2 | n | - | - | used with "the" or "a" | cold | The common cold is caused by many different viruses. | Antibiotics do not help the common cold.
+DIS068 | hay fever | حمى القش (لغة عامة) | B2 | n | - | - | everyday; technical: allergic rhinitis | allergic rhinitis | His hay fever is worse in the spring. | Antihistamines can relieve the symptoms of hay fever.
+DIS069 | preeclampsia | مقدّمات الارتعاج | C1 | n | - | - | uncountable | pre-eclampsia | Preeclampsia causes high blood pressure in pregnancy. | She was induced early because of severe preeclampsia.
+DIS070 | miscarriage | إجهاض تلقائي | B2 | n | a | - | - | - | She had a miscarriage at ten weeks. | Most miscarriages happen in the first trimester.
+# --- batch 10: describing disease, epidemiology, course and outcome ---
+DIS071 | diagnosis | تشخيص | B2 | n | a | diagnoses | make a diagnosis | - | The diagnosis was confirmed by biopsy. | We need more tests before we can make a diagnosis.
+DIS072 | prognosis | إنذار المرض (توقّع سيره) | C1 | n | a | prognoses | - | - | The prognosis for this type of cancer is good. | Early treatment improves the prognosis.
+DIS073 | differential diagnosis | التشخيص التفريقي | C1 | n | a | differential diagnoses | informal: the differential; abbreviation: DDx | differential; DDx | The differential diagnosis includes pneumonia and heart failure. | Give me a differential diagnosis for chest pain.
+DIS074 | etiology | السببية (سبب المرض) | C1 | n | an | - | - | - | The etiology of his liver disease is unclear. | A virus is the most common etiology of myocarditis.
+DIS075 | pathophysiology | الفيزيولوجيا المرضية | C1 | n | - | - | uncountable | - | Understanding the pathophysiology helps you choose the right treatment. | The lecture covered the pathophysiology of heart failure.
+DIS076 | complication | مضاعفة | B2 | n | a | - | - | - | Infection is a common complication of surgery. | Diabetes can lead to complications in the eyes and kidneys.
+DIS077 | comorbidity | مرض مصاحب | C1 | n | a | - | - | - | Many older patients have several comorbidities. | Obesity is a common comorbidity in patients with sleep apnea.
+DIS078 | relapse | انتكاس | C1 | n | a | - | - | - | She had a relapse of her leukemia after two years. | Stress can trigger a relapse of depression.
+DIS079 | remission | هدأة (تراجع المرض) | C1 | n | - | - | in remission | - | Her lymphoma is in complete remission. | The disease went into remission after treatment.
+DIS080 | outbreak | تفشٍّ (فاشية) | B2 | n | an | - | - | - | There is an outbreak of measles in the city. | The hospital closed a ward because of a norovirus outbreak.
+DIS081 | epidemic | وباء | B2 | n | an | - | - | - | The country is facing an epidemic of obesity. | Cholera epidemics spread through dirty water.
+DIS082 | pandemic | جائحة | B2 | n | a | - | - | - | The COVID-19 pandemic changed how we work in hospitals. | Health systems must prepare for the next pandemic.
+DIS083 | incidence | معدّل الحدوث (الحالات الجديدة) | C1 | n | - | - | used with "the" | - | The incidence of melanoma is rising. | The incidence of the disease is highest in older men.
+DIS084 | prevalence | معدّل الانتشار | C1 | n | - | - | used with "the" | - | The prevalence of diabetes in American adults is about 11 percent. | The prevalence of asthma is higher in cities.
+DIS085 | susceptibility | قابلية الإصابة | C1 | n | - | - | susceptibility to sth | - | Smoking increases susceptibility to lung infections. | Genetic susceptibility plays a role in breast cancer.
+DIS086 | nodule | عُقيدة | C1 | n | a | - | - | - | A small nodule was found in the right lung. | Most thyroid nodules are benign.
+DIS087 | cyst | كيس (تكيّس) | B2 | n | a | - | - | - | A simple cyst in the kidney does not need treatment. | The cyst was drained under local anesthesia.
+DIS088 | abscess | خُرّاج | C1 | n | an | - | - | - | The abscess was drained in the emergency department. | A dental abscess can cause facial swelling.
+DIS089 | ulcer | قرحة | B2 | n | an | - | - | - | He has a pressure ulcer on his heel. | Diabetic foot ulcers heal slowly.
+DIS090 | blockage | انسداد (لغة عامة) | B2 | n | a | - | everyday; technical: obstruction | - | The angiogram showed a blockage in a coronary artery. | A blockage in the bowel causes vomiting and bloating.
+DIS091 | obstruction | انسداد (مصطلح طبي) | C1 | n | an | - | technical; everyday: blockage | - | Adhesions are a common cause of bowel obstruction. | The stone caused an obstruction of the ureter.
+DIS092 | stenosis | تضيّق | C1 | n | - | - | uncountable | - | She has severe aortic stenosis. | Carotid stenosis increases the risk of stroke.
+DIS093 | deficiency | عَوَز (نقص) | B2 | n | a | - | a deficiency of / in sth | - | Vitamin D deficiency is common in the winter. | Iron deficiency can cause hair loss.
+DIS094 | dehydration | التجفاف | B2 | n | - | - | uncountable | - | Diarrhea can quickly cause dehydration in babies. | Signs of dehydration include dry mouth and dark urine.
+DIS095 | malnutrition | سوء التغذية | B2 | n | - | - | uncountable | - | Malnutrition delays wound healing after surgery. | Older patients living alone are at risk of malnutrition.
+DIS096 | condition | حالة مرضية | B2 | n | a | - | - | - | Asthma is a chronic condition that needs long-term care. | His condition is stable after surgery.
+DIS097 | disorder | اضطراب | B2 | n | a | - | - | - | Sleep apnea is a common sleep disorder. | She has a rare genetic disorder.
+DIS098 | syndrome | متلازمة | C1 | n | a | - | - | - | Down syndrome is caused by an extra chromosome. | Irritable bowel syndrome causes pain and bloating.
+DIS099 | strain | سلالة (من فيروس أو جرثوم) | C1 | n | a | - | - | - | A new strain of the virus is spreading. | This strain of bacteria is resistant to most antibiotics.
+DIS100 | pathogen | العامل الممرض | C1 | n | a | - | - | - | Staphylococcus aureus is a common pathogen in skin infections. | Hand washing reduces the spread of pathogens.
+DIS101 | diagnose | يشخّص | B2 | v | - | - | diagnose sb with sth | - | She was diagnosed with breast cancer at 45. | It can be hard to diagnose appendicitis in children.
+DIS102 | develop | يُصاب بـ (تظهر لديه حالة) | B2 | v | - | - | develop a disease | - | He developed pneumonia after the surgery. | Many smokers develop COPD in their sixties.
+DIS103 | spread | ينتشر | B2 | v | - | - | irregular: spread, spread | - | The cancer has spread to the liver. | The virus spreads through coughing and sneezing.
+DIS104 | progress | يتطوّر (يتقدّم المرض) | B2 | v | - | - | stress on the second syllable | - | Her disease progressed despite chemotherapy. | The infection progressed quickly to sepsis.
+DIS105 | recover | يتعافى | B2 | v | - | - | recover from sth | - | Most patients recover from the flu in a week. | He is recovering well after the operation.
+DIS106 | suffer from | يعاني من | B2 | v | - | - | suffer from sth | - | She suffers from chronic back pain. | Many residents suffer from burnout.
+DIS107 | transmit | ينقل (العدوى) | C1 | v | - | - | noun: transmission | - | HIV can be transmitted through blood. | Malaria is transmitted by mosquitoes.
+DIS108 | predispose | يجعله عرضة لـ | C1 | v | - | - | predispose sb to sth | - | Obesity predisposes patients to diabetes. | Her genes predispose her to breast cancer.
+DIS109 | resolve | يزول (يتحسّن تمامًا) | C1 | v | - | - | - | - | The rash resolved without treatment after a week. | His symptoms resolved completely within two days.
+DIS110 | exacerbate | يفاقم | C1 | v | - | - | formal | - | Cold weather exacerbates her asthma. | Stress can exacerbate psoriasis and eczema.
+DIS111 | exacerbation | تفاقم (هجمة حادة) | C1 | n | an | - | - | - | He was admitted with an exacerbation of COPD. | Viral infections often trigger asthma exacerbations.
+DIS112 | manifest | يتظاهر (يظهر) | C1 | v | - | - | manifest as sth | - | The disease can manifest as joint pain. | A heart attack may manifest differently in women.
+DIS113 | acute | حادّ (مفاجئ وقصير) | B2 | adj | - | - | opposite: chronic | - | He was admitted with acute pancreatitis. | Acute pain usually lasts less than a month.
+DIS114 | chronic | مزمن | B2 | adj | - | - | opposite: acute | - | She has had chronic back pain for years. | Diabetes is a chronic disease that needs lifelong care.
+DIS115 | congenital | خِلقي | C1 | adj | - | - | - | - | The baby was born with a congenital heart defect. | Congenital conditions are present at birth.
+DIS116 | infectious | عدوائي (ناتج عن عامل ممرض) | B2 | adj | - | - | - | - | Tuberculosis is an infectious disease. | She was seen by an infectious disease specialist.
+DIS117 | contagious | مُعدٍ (ينتقل من شخص لآخر) | B2 | adj | - | - | - | - | Chickenpox is very contagious until the blisters crust over. | Is the patient still contagious after three days of antibiotics?
+DIS118 | terminal | عُضال (في مرحلة لا شفاء منها) | C1 | adj | - | - | - | - | He has terminal cancer and is in hospice care. | The family was told that her illness was terminal.
+DIS119 | life-threatening | مهدّد للحياة | B2 | adj | - | - | - | - | Anaphylaxis is a life-threatening allergic reaction. | Sepsis can quickly become life-threatening.
+DIS120 | asymptomatic | لا عَرَضي (بلا أعراض) | C1 | adj | - | - | - | - | Many people with hypertension are asymptomatic. | She was asymptomatic when the cancer was found.
+DIS121 | fatal | مميت | B2 | adj | - | - | - | - | The infection can be fatal if it is not treated. | Fatal drug reactions are rare.
+DIS122 | severe | شديد | B2 | adj | - | - | - | - | She has severe asthma and uses three inhalers. | Severe dehydration requires IV fluids.
+DIS123 | mild | خفيف | B2 | adj | - | - | - | - | He has a mild form of the disease. | Mild symptoms can be treated at home.
+DIS124 | moderate | متوسّط الشدة | B2 | adj | - | - | - | - | She has moderate pain after the operation. | Moderate asthma needs a daily inhaler.
+DIS125 | underlying | كامن (مستبطن) | C1 | adj | - | - | - | - | We need to find the underlying cause of his anemia. | Patients with underlying lung disease are at higher risk.
+DIS126 | idiopathic | مجهول السبب | C1 | adj | - | - | - | - | Her pulmonary fibrosis is idiopathic. | Idiopathic means that the cause is unknown.
+DIS127 | degenerative | تنكّسي | C1 | adj | - | - | - | - | Osteoarthritis is a degenerative joint disease. | Alzheimer's is a degenerative disease of the brain.
+DIS128 | autoimmune | مناعي ذاتي | C1 | adj | - | - | - | - | Lupus is an autoimmune disease that can affect the kidneys. | Autoimmune thyroid disease is common in women.
+DIS129 | inherited | موروث | B2 | adj | - | - | - | - | Cystic fibrosis is an inherited disease. | Some types of high cholesterol are inherited.
+DIS130 | resistant | مقاوم | B2 | adj | - | - | resistant to sth | - | The bacteria are resistant to penicillin. | Drug-resistant tuberculosis is hard to treat.
+DIS131 | be at risk of | معرّض لخطر | B2 | expr | - | - | be at (high) risk of sth | be at risk for | Smokers are at risk of lung cancer. | Older adults are at higher risk of falls.
+DIS132 | come down with | يُصاب بـ (مرض بسيط، لغة عامة) | B2 | expr | - | - | informal; irregular: came | - | I think I'm coming down with the flu. | Half the team came down with a stomach bug.
+DIS133 | take a turn for the worse | تسوء حالته فجأة | C1 | expr | - | - | irregular: took, taken | - | His condition took a turn for the worse overnight. | She took a turn for the worse and was moved to the ICU.
+DIS134 | on the mend | في طريقه إلى التعافي | C1 | expr | - | - | informal | - | After a week of antibiotics, she is on the mend. | Your father is on the mend and can go home soon.
+DIS135 | run its course | يأخذ مجراه الطبيعي | C1 | expr | - | - | irregular: ran, run | - | Most viral infections simply run their course. | We decided to let the cold run its course.
+DIS136 | make a full recovery | يتعافى تمامًا | B2 | expr | - | - | irregular: made | - | She is expected to make a full recovery. | Most children make a full recovery from measles.
+DIS137 | wear and tear | البِلى (الاهتراء مع الاستعمال) | B2 | expr | - | - | uncountable | - | Osteoarthritis is partly due to wear and tear on the joints. | Years of wear and tear damaged his knees.

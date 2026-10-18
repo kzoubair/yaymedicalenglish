@@ -1,0 +1,134 @@
+@theme history HIS medicine
+# Patient history taking
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 5: structure of the history, interviewing ---
+HIS001 | chief complaint | الشكوى الرئيسية | C1 | n | a | - | abbreviation: CC | CC | The chief complaint is chest pain for two hours. | Write the chief complaint in the patient's own words.
+HIS002 | history of present illness | قصة المرض الحالي | C1 | n | - | - | used with "the"; abbreviation: HPI | HPI | The history of present illness should describe the pain in detail. | Start the history of present illness with the onset of symptoms.
+HIS003 | past medical history | السوابق المرضية | C1 | n | - | - | abbreviation: PMH | PMH | Her past medical history includes asthma and hypertension. | Ask about the past medical history before you discuss medications.
+HIS004 | family history | السوابق العائلية | B2 | n | a | - | a family history of sth | - | There is a family history of breast cancer. | His family history is significant for early heart disease.
+HIS005 | social history | السوابق الاجتماعية (نمط الحياة) | C1 | n | a | - | - | - | The social history covers smoking, alcohol and occupation. | Her social history is notable for heavy drinking.
+HIS006 | review of systems | مراجعة الأجهزة | C1 | n | a | - | abbreviation: ROS | ROS | The review of systems was otherwise negative. | A complete review of systems takes about five minutes.
+HIS007 | allergy | حساسية | B2 | n | an | - | an allergy to sth | - | Does she have any drug allergies? | He has an allergy to penicillin.
+HIS008 | home medications | الأدوية التي يتناولها المريض في منزله | C1 | n | - | - | plural noun | home meds | Please list all your home medications, including vitamins. | We reconciled his home medications on admission.
+HIS009 | pack-year | سنة-علبة (وحدة قياس التدخين) | C1 | n | a | - | - | pack year | He has a 30-pack-year smoking history. | Calculate the pack-years by multiplying packs per day by years of smoking.
+HIS010 | alcohol intake | استهلاك الكحول | B2 | n | - | - | uncountable | - | Her alcohol intake has increased since she lost her job. | His alcohol intake is about six beers a day.
+HIS011 | recreational drug | مخدّر ترفيهي (غير طبي) | C1 | n | a | - | - | - | Do you use any recreational drugs? | She denies recreational drug use.
+HIS012 | occupation | المهنة | B2 | n | an | - | formal | - | His occupation exposed him to asbestos. | Ask about the patient's occupation and hobbies.
+HIS013 | duration | المدة | B2 | n | - | - | uncountable | - | What is the duration of the pain? | The duration of symptoms helps narrow the differential.
+HIS014 | frequency | التكرار (عدد المرات) | B2 | n | - | - | uncountable | - | Note the frequency of the headaches. | Urinary frequency is common in pregnancy.
+HIS015 | severity | الشدة | B2 | n | - | - | uncountable | - | Rate the severity of the pain from 0 to 10. | The severity of her asthma has increased this year.
+HIS016 | aggravating factor | عامل مُفاقِم | C1 | n | an | - | - | - | Are there any aggravating factors, such as exercise? | Movement is the main aggravating factor.
+HIS017 | relieving factor | عامل مُخفِّف | C1 | n | a | - | - | alleviating factor | Rest is the only relieving factor. | Ask about relieving factors like medication or position.
+HIS018 | associated symptom | عرَض مرافق | C1 | n | an | - | - | - | Ask about associated symptoms such as nausea or sweating. | The main associated symptom is vomiting.
+HIS019 | open-ended question | سؤال مفتوح | B2 | n | an | - | - | open question | Start with an open-ended question such as "What brings you in today?" | Open-ended questions let the patient tell the story.
+HIS020 | closed question | سؤال مغلق | B2 | n | a | - | - | closed-ended question | Use closed questions to clarify the details. | "Do you smoke?" is a closed question.
+HIS021 | rapport | الألفة (علاقة ثقة مع المريض) | C1 | n | - | - | build / establish rapport | - | Building rapport helps patients share sensitive information. | She quickly established rapport with the anxious teenager.
+HIS022 | interpreter | مترجم فوري | B2 | n | an | - | - | - | We requested a medical interpreter for the Arabic-speaking family. | Speak to the patient, not to the interpreter.
+HIS023 | caregiver | مقدّم الرعاية (المرافق) | B2 | n | a | - | - | - | The caregiver gave most of the history. | Her daughter is her main caregiver.
+HIS024 | next of kin | أقرب الأقارب | C1 | n | - | - | formal | - | We called his next of kin after the accident. | Write the next of kin's phone number in the chart.
+HIS025 | collateral history | قصة من مصدر آخر غير المريض | C1 | n | a | - | - | - | We obtained a collateral history from his wife. | A collateral history is essential in confused patients.
+HIS026 | informant | مصدر المعلومات (المُخبِر) | C1 | n | an | - | - | - | The informant was the patient's mother. | Document who the informant is if the patient cannot speak.
+HIS027 | risk factor | عامل خطر | B2 | n | a | - | - | - | Smoking is the main risk factor for lung cancer. | Does she have any risk factors for heart disease?
+HIS028 | lifestyle | نمط الحياة | B2 | n | a | - | - | - | A sedentary lifestyle increases cardiovascular risk. | We discussed lifestyle changes such as diet and exercise.
+HIS029 | complaint | شكوى (ما يشكو منه المريض) | B2 | n | a | - | - | - | Back pain is a very common complaint in primary care. | What is your main complaint today?
+HIS030 | episode | نوبة (حلقة مرضية) | B2 | n | an | - | - | - | How many episodes of vomiting did she have? | This is his third episode of chest pain this month.
+HIS031 | trigger | مُحرِّض (عامل مثير) | B2 | n | a | - | - | - | Cold air is a common trigger for asthma. | Do you know what triggers your headaches?
+HIS032 | timeline | التسلسل الزمني | B2 | n | a | - | - | - | Let's go over the timeline of your symptoms. | The timeline suggests a viral cause.
+HIS033 | exposure | التعرّض (لعامل ما) | B2 | n | - | - | exposure to sth | - | Ask about recent exposure to sick contacts. | Occupational exposure to dust can cause lung disease.
+HIS034 | travel history | سوابق السفر | C1 | n | a | - | - | - | A travel history is essential in a patient with fever. | Her travel history includes a trip to Nigeria last month.
+HIS035 | sexual history | السوابق الجنسية | C1 | n | a | - | - | - | Take a sexual history in a private setting. | A sexual history should be part of the routine assessment.
+HIS036 | obstetric history | السوابق الولادية | C1 | n | an | - | - | - | Her obstetric history includes two cesarean sections. | Record the obstetric history using gravida and para.
+HIS037 | surgical history | السوابق الجراحية | C1 | n | a | - | - | - | His surgical history includes an appendectomy. | Ask about the surgical history and any complications.
+HIS038 | immunization | التطعيم | B2 | n | an | - | - | vaccination | Are her immunizations up to date? | Check the immunization record before she starts school.
+HIS039 | complain of | يشكو من | B2 | v | - | - | complain of sth | - | She complains of pain in her right knee. | He came in complaining of chest pain.
+HIS040 | deny | ينفي | B2 | v | - | - | deny sth / deny doing sth | - | He denies chest pain or shortness of breath. | She denied any history of smoking.
+HIS041 | report | يُفيد (يذكر) | B2 | v | - | - | - | - | The patient reports two days of fever. | She reported feeling better after the first dose.
+HIS042 | elicit | يستخلص (معلومة من المريض) | C1 | v | - | - | formal | - | Use open questions to elicit the patient's concerns. | It took time to elicit a history of drug use.
+HIS043 | clarify | يوضّح | B2 | v | - | - | - | - | Can you clarify what you mean by "dizzy"? | Let me clarify a few details about your medications.
+HIS044 | summarize | يلخّص | B2 | v | - | - | - | - | Summarize the history before moving on to the exam. | Let me summarize what you have told me so far.
+HIS045 | recall | يتذكّر | B2 | v | - | - | - | - | He cannot recall when the pain started. | Do you recall the name of the medication?
+HIS046 | disclose | يُفصح عن | C1 | v | - | - | - | - | Patients may not disclose drug use in front of their family. | She disclosed a history of abuse during the interview.
+HIS047 | quit | يُقلع عن | B2 | v | - | - | irregular: quit, quit; quit doing sth | - | He quit smoking ten years ago. | Have you ever tried to quit drinking?
+HIS048 | inquire | يستفسر | C1 | v | - | - | inquire about sth; formal | - | Always inquire about over-the-counter drugs. | The resident inquired about the patient's living situation.
+HIS049 | prompt | يحثّ (يشجّع على الكلام) | C1 | v | - | - | - | - | Prompt the patient gently if he stops talking. | She needed no prompting to describe her symptoms.
+HIS050 | reassure | يُطَمْئِن | B2 | v | - | - | - | - | The doctor reassured her that the lump was benign. | Try to reassure the family without giving false hope.
+HIS051 | interrupt | يقاطع | B2 | v | - | - | - | - | Try not to interrupt the patient in the first minute. | Studies suggest that doctors often interrupt patients within 20 seconds.
+HIS052 | relevant | ذو صلة | B2 | adj | - | - | relevant to sth | - | Ask only relevant questions in an emergency. | Is there any relevant family history?
+HIS053 | sedentary | قليل الحركة | C1 | adj | - | - | - | - | He has a sedentary job and rarely exercises. | A sedentary lifestyle is a risk factor for diabetes.
+HIS054 | nonjudgmental | لا يُصدر أحكامًا | C1 | adj | - | - | - | non-judgmental | Ask about alcohol in a calm, nonjudgmental way. | A nonjudgmental tone helps patients answer honestly.
+HIS055 | hereditary | وراثي | C1 | adj | - | - | - | - | Some forms of colon cancer are hereditary. | Is there any hereditary disease in your family?
+HIS056 | sensitive | حسّاس (موضوع حسّاس) | B2 | adj | - | - | - | - | Ask sensitive questions after you have built rapport. | Sexual history is a sensitive topic for many patients.
+HIS057 | vague | مبهم | B2 | adj | - | - | - | - | His description of the pain was vague. | Vague symptoms such as tiredness can hide serious disease.
+HIS058 | occupational | مِهني | C1 | adj | - | - | - | - | Occupational asthma often improves on weekends. | Take an occupational history from every patient with lung disease.
+HIS059 | recurrent | متكرّر (ناكس) | C1 | adj | - | - | - | - | She has recurrent urinary tract infections. | Recurrent chest pain needs a cardiology referral.
+HIS060 | gradually | تدريجيًا | B2 | adv | - | - | - | - | The pain has gradually gotten worse. | His vision gradually declined over a year.
+HIS061 | constantly | باستمرار | B2 | adv | - | - | - | - | She says she is constantly tired. | The pain is there constantly, day and night.
+HIS062 | intermittently | بشكل متقطّع (مصطلح سريري) | C1 | adv | - | - | - | - | He has been taking the medication intermittently. | The chest pain occurs intermittently.
+HIS063 | progressively | بشكل متزايد مع الوقت | C1 | adv | - | - | - | - | Her breathing has become progressively worse. | The weakness progressively spread to both arms.
+HIS064 | previously | سابقًا | B2 | adv | - | - | - | - | He was previously healthy and active. | She had previously been treated for tuberculosis.
+HIS065 | roughly | تقريبًا (بشكل غير دقيق) | B2 | adv | - | - | informal | - | How many cigarettes do you smoke, roughly? | The pain started roughly three hours ago.
+HIS066 | approximately | على وجه التقريب | B2 | adv | - | - | formal | - | The pain started approximately two hours ago. | She smokes approximately one pack a day.
+HIS067 | heavily | بإفراط | B2 | adv | - | - | - | - | He drinks heavily on weekends. | She smoked heavily for twenty years.
+HIS068 | What brings you in today? | ما الذي أتى بك اليوم؟ (سؤال افتتاحي) | B2 | expr | - | - | opening question | What brings you here today? | The intern started with "What brings you in today?" | "What brings you in today?" is a good opening question.
+# --- batch 6: interview phrases, functional and social history ---
+HIS069 | How long has this been going on? | منذ متى وأنت تعاني من هذا؟ | B2 | expr | - | - | question about duration | - | Ask "How long has this been going on?" to establish the duration. | When she asked, "How long has this been going on?", he said two weeks.
+HIS070 | Does anything make it better? | هل هناك ما يخفّف الأعراض؟ | B2 | expr | - | - | question about relieving factors | - | Ask "Does anything make it better?" to find relieving factors. | She asked him, "Does anything make it better?"
+HIS071 | on a scale of 0 to 10 | على مقياس من 0 إلى 10 | B2 | expr | - | - | used to rate pain | on a scale from 0 to 10 | On a scale of 0 to 10, how bad is the pain? | She rated the pain as eight on a scale of 0 to 10.
+HIS072 | run in the family | يتوارث في العائلة | B2 | expr | - | - | irregular: ran, run | - | Heart disease runs in her family. | Does diabetes run in the family?
+HIS073 | have a history of | لديه سوابق من | B2 | expr | - | - | have a history of sth | - | He has a history of asthma. | She had a history of two miscarriages.
+HIS074 | be allergic to | لديه حساسية تجاه | B2 | expr | - | - | be allergic to sth | - | She is allergic to penicillin. | Are you allergic to any foods?
+HIS075 | take a history | يأخذ القصة المرضية | B2 | expr | - | - | irregular: took, taken | - | The student took a history from the patient in bed 4. | Always take a full history before ordering tests.
+HIS076 | go over | يراجع (بالتفصيل) | B2 | expr | - | - | irregular: went, gone; go over sth | - | Let's go over your medications one by one. | We went over the results with the patient.
+HIS077 | bring up | يطرح (موضوعًا للنقاش) | B2 | expr | - | - | irregular: brought; bring sth up | - | She brought up her fear of cancer at the end of the visit. | Patients often bring up the most important problem last.
+HIS078 | open up | يبوح بما في نفسه | B2 | expr | - | - | open up about sth | - | It took a while for him to open up about his drinking. | Patients open up more when they feel respected.
+HIS079 | put sb at ease | يُشعره بالارتياح | C1 | expr | - | - | irregular: put, put | - | A warm greeting puts patients at ease. | She tried to put the anxious child at ease.
+HIS080 | get to the point | يدخل في صلب الموضوع | B2 | expr | - | - | irregular: got, gotten | - | The patient took a long time to get to the point. | In a busy clinic, you need to get to the point quickly.
+HIS081 | in one's own words | بكلماته الخاصة | B2 | expr | - | - | - | - | Tell me in your own words what happened. | Record the complaint in the patient's own words.
+HIS082 | Take your time. | خذ وقتك. | B2 | expr | - | - | reassuring phrase | - | "Take your time," she said gently to the patient. | Take your time and tell me what happened.
+HIS083 | Is there anything else? | هل هناك أي شيء آخر؟ | B2 | expr | - | - | closing question | - | Before you finish, always ask, "Is there anything else?" | The question "Is there anything else?" often reveals the real reason for the visit.
+HIS084 | to the best of one's knowledge | على حدّ علمه | C1 | expr | - | - | formal | - | To the best of her knowledge, she has no allergies. | He has never had surgery, to the best of his knowledge.
+HIS085 | baseline | الحالة المعتادة (خط الأساس) | C1 | n | a | - | - | - | What is her baseline level of function? | His breathing is back to baseline.
+HIS086 | functional status | الحالة الوظيفية | C1 | n | - | - | uncountable | - | Ask about functional status, such as walking and dressing. | Her functional status has declined since the fall.
+HIS087 | activities of daily living | أنشطة الحياة اليومية | C1 | n | - | - | plural; abbreviation: ADLs | ADLs | He needs help with activities of daily living. | Assess the activities of daily living in every older patient.
+HIS088 | living situation | ظروف المعيشة والسكن | C1 | n | a | - | - | - | Ask about her living situation before discharge. | His living situation is unsafe because he lives alone.
+HIS089 | substance use | تعاطي المواد (الكحول والمخدرات) | C1 | n | - | - | uncountable | - | Screen every adolescent for substance use. | His substance use started in college.
+HIS090 | contraception | منع الحمل | C1 | n | - | - | uncountable | birth control | Ask about contraception before prescribing this drug. | She uses an implant for contraception.
+HIS091 | menstrual cycle | الدورة الشهرية | B2 | n | a | - | - | - | Her menstrual cycle is regular, every 28 days. | Stress can disrupt the menstrual cycle.
+HIS092 | last menstrual period | آخر دورة شهرية | C1 | n | - | - | used with "the" or "her"; abbreviation: LMP | LMP | Ask every woman of childbearing age about her last menstrual period. | Her last menstrual period was six weeks ago.
+HIS093 | sick contact | مخالطة شخص مريض | C1 | n | a | - | - | - | Has she had any sick contacts at home? | His only sick contact is his son with a cold.
+HIS094 | supplement | مكمّل غذائي | B2 | n | a | - | - | dietary supplement | Do you take any vitamins or supplements? | Some supplements interact with warfarin.
+HIS095 | concern | قلق (هاجس المريض) | B2 | n | a | - | - | - | What is your main concern about the surgery? | Address the patient's concerns before you leave the room.
+HIS096 | expectation | توقّع | B2 | n | an | - | - | - | Ask about the patient's expectations for this visit. | His expectation was to get antibiotics.
+HIS097 | cue | تلميح (إشارة غير مباشرة) | C1 | n | a | - | - | - | Watch for emotional cues during the interview. | She missed the cue that the patient was frightened.
+HIS098 | body language | لغة الجسد | B2 | n | - | - | uncountable | - | His body language suggested that he was in pain. | Open body language helps build trust.
+HIS099 | silence | الصمت | B2 | n | - | - | - | - | Use silence to give the patient time to think. | A short silence can encourage the patient to continue.
+HIS100 | empathy | التعاطف | B2 | n | - | - | uncountable | - | Show empathy when the patient describes a loss. | Empathy improves patient satisfaction and trust.
+HIS101 | history taking | أخذ القصة المرضية (مهارة) | C1 | n | - | - | uncountable | history-taking | History taking is the most important skill in medicine. | We practiced history taking with actors.
+HIS102 | patient-centered | متمحور حول المريض | C1 | adj | - | - | - | - | A patient-centered interview explores the patient's ideas. | Patient-centered care respects the patient's values.
+HIS103 | probe | يتقصّى (يتعمّق في السؤال) | C1 | v | - | - | probe into sth | - | The resident probed further into his drinking habits. | Probe gently if the patient seems reluctant.
+HIS104 | document | يوثّق | B2 | v | - | - | - | - | Document the allergies at the top of the note. | She documented the history in the electronic record.
+HIS105 | screen | يتحرّى (يفحص للكشف المبكر) | C1 | v | - | - | screen sb for sth | - | We screen all adults for depression. | She was screened for diabetes during the visit.
+HIS106 | suspect | يشتبه | B2 | v | - | - | - | - | I suspect a urinary tract infection. | The doctor suspected that the child had swallowed a battery.
+HIS107 | attribute | يعزو | C1 | v | - | - | attribute sth to sth | - | She attributes her fatigue to stress at work. | The pain was attributed to a pulled muscle.
+HIS108 | rate | يقيّم (يعطي درجة) | B2 | v | - | - | - | - | He rates the pain as seven out of ten. | Please rate your pain on this scale.
+HIS109 | consume | يستهلك | B2 | v | - | - | formal | - | How much alcohol do you consume in a week? | He consumes about four energy drinks a day.
+HIS110 | abstain | يمتنع (عن الكحول أو التدخين) | C1 | v | - | - | abstain from sth | - | She has abstained from alcohol for two years. | He was told to abstain from smoking before surgery.
+HIS111 | reluctant | متردّد (غير راغب) | B2 | adj | - | - | reluctant to do sth | - | He was reluctant to talk about his mood. | Patients may be reluctant to admit drug use.
+HIS112 | reliable | موثوق | B2 | adj | - | - | - | - | The patient is a reliable historian. | Her account of the events seems reliable.
+HIS113 | unremarkable | لا شيء يُذكر (طبيعي) | C1 | adj | - | - | - | - | His past medical history is unremarkable. | The review of systems is otherwise unremarkable.
+HIS114 | significant | ذو دلالة سريرية | B2 | adj | - | - | significant for sth | - | His family history is significant for colon cancer. | Is there anything significant in her past history?
+HIS115 | noncontributory | لا يضيف شيئًا (غير ذي صلة) | C1 | adj | - | - | used in notes | non-contributory | The family history is noncontributory. | Past surgical history is noncontributory.
+HIS116 | alert | يقظ (منتبه) | B2 | adj | - | - | - | - | The patient is alert and oriented. | She was alert and able to give a clear history.
+HIS117 | oriented | متوجّه (مدرك للزمان والمكان والأشخاص) | C1 | adj | - | - | oriented to person, place and time | - | He is oriented to person, place and time. | She was alert but not oriented to the date.
+HIS118 | cooperative | متعاون | B2 | adj | - | - | - | - | The child was calm and cooperative during the interview. | The patient was cooperative but drowsy.
+HIS119 | tearful | دامع (على وشك البكاء) | C1 | adj | - | - | - | - | She became tearful when she talked about her husband. | He was tearful throughout the interview.
+HIS120 | forthcoming | مستعدّ للإفصاح | C1 | adj | - | - | forthcoming about sth | - | He was not very forthcoming about his alcohol use. | The family was forthcoming with information.
+HIS121 | poor historian | مريض لا يقدّم قصة دقيقة | C1 | n | a | - | - | - | The patient is a poor historian because of his dementia. | When the patient is a poor historian, call the family.
+HIS122 | ballpark figure | رقم تقريبي | C1 | n | a | - | informal | ballpark | Can you give me a ballpark figure for how much you drink? | A ballpark figure is enough for now.
+HIS123 | handedness | اليد المسيطرة (أيمن أو أعسر) | C1 | n | - | - | uncountable | - | Record handedness in every neurological history. | Her handedness matters because the stroke affected the left side of her brain.
+HIS124 | sleep pattern | نمط النوم | B2 | n | a | - | - | - | Has your sleep pattern changed recently? | Night shifts disrupt the normal sleep pattern.
+HIS125 | bowel habits | عادات التغوّط | C1 | n | - | - | plural noun | - | Ask about any change in bowel habits. | A change in bowel habits in an older adult needs a colonoscopy.
+HIS126 | appetite | الشهية | B2 | n | an | - | - | - | How is your appetite these days? | Her appetite has been poor since the surgery.
+HIS127 | stressor | عامل ضغط نفسي | C1 | n | a | - | - | - | Are there any recent stressors at home or at work? | Losing his job was a major stressor.
+HIS128 | support system | شبكة الدعم | C1 | n | a | - | - | - | She has a strong support system of friends and family. | Ask about the patient's support system before discharge.
+HIS129 | primary care physician | طبيب الرعاية الأولية | B2 | n | a | - | abbreviation: PCP | PCP; primary care doctor | We will send the report to her primary care physician. | His primary care physician referred him to cardiology.

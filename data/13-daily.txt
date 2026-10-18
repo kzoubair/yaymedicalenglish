@@ -1,0 +1,114 @@
+@theme daily DAY general
+# Daily life
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 25: errands, food, shopping, phone, adapting to the US ---
+DAY001 | errand | مِشوار (مهمّة صغيرة خارج البيت) | B2 | n | an | - | - | - | I have a few errands to do after work. | Going to the bank is my least favorite errand.
+DAY002 | run errands | يقضي مشاويره | B2 | expr | - | - | irregular: ran, run | - | I usually run errands on Saturday morning. | He ran errands before his night shift.
+DAY003 | chores | الأعمال المنزلية | B2 | n | - | - | plural noun | household chores | We split the household chores between the roommates. | After a long shift, I have no energy for chores.
+DAY004 | groceries | مشتريات البقالة | B2 | n | - | - | plural noun | - | I buy groceries once a week. | The groceries cost more than I expected.
+DAY005 | grocery store | متجر البقالة | B2 | n | a | - | - | supermarket | There is a grocery store next to the hospital. | The grocery store has a halal meat section.
+DAY006 | halal | حلال | B2 | adj | - | - | - | - | It is not always easy to find halal food. | The cafeteria offers a halal option on Fridays.
+DAY007 | dietary restriction | قيد غذائي | C1 | n | a | - | - | - | Do you have any dietary restrictions? | The caterer asked about dietary restrictions before the event.
+DAY008 | vegetarian | نباتي | B2 | adj | - | - | also a noun | - | There are vegetarian options on the menu. | She has been vegetarian since college.
+DAY009 | takeout | طعام سفري | B2 | n | - | - | uncountable | take-out | We ordered takeout after the night shift. | Takeout is expensive if you eat it every day.
+DAY010 | leftovers | بقايا الطعام | B2 | n | - | - | plural noun | - | I brought leftovers for lunch. | Put the leftovers in the fridge.
+DAY011 | to-go box | علبة لأخذ الطعام المتبقي | B2 | n | a | - | - | doggy bag | Can I get a to-go box, please? | She asked the waiter for a to-go box.
+DAY012 | check | الحساب (فاتورة المطعم) | B2 | n | a | - | in a restaurant | - | Can we have the check, please? | The check came to sixty dollars.
+DAY013 | tip | بقشيش (إكرامية) | B2 | n | a | - | - | gratuity | In the US, people usually leave a tip of 15 to 20 percent. | Is the tip included in the check?
+DAY014 | split the bill | يتقاسم الحساب | B2 | expr | - | - | irregular: split | split the check | Let's split the bill three ways. | We always split the bill when we eat out.
+DAY015 | eat out | يأكل خارج البيت | B2 | expr | - | - | irregular: ate, eaten | - | We eat out once a week. | Eating out every day is bad for your budget.
+DAY016 | budget | ميزانية | B2 | n | a | - | - | - | I have a monthly budget for food and transportation. | A resident's budget is tight in a big city.
+DAY017 | return policy | سياسة الإرجاع | B2 | n | a | - | - | - | The store has a 30-day return policy. | Check the return policy before you buy electronics.
+DAY018 | warranty | ضمان المنتج (كفالة) | B2 | n | a | - | - | - | The laptop comes with a one-year warranty. | The repair was covered by the warranty.
+DAY019 | discount | خصم (تخفيض) | B2 | n | a | - | - | - | Students get a ten percent discount. | Many stores offer a discount to hospital staff.
+DAY020 | on sale | معروض بسعر مخفّض | B2 | expr | - | - | - | - | The winter coats are on sale this week. | I bought the shoes on sale.
+DAY021 | coupon | قسيمة خصم | B2 | n | a | - | - | - | Use this coupon to save five dollars. | She cuts coupons from the newspaper.
+DAY022 | sales tax | ضريبة المبيعات | C1 | n | - | - | uncountable | - | Prices in the US usually do not include sales tax. | Sales tax is different in every state.
+DAY023 | subscription | اشتراك | B2 | n | a | - | - | - | I canceled my streaming subscription. | The journal subscription is paid by the hospital.
+DAY024 | gym membership | عضوية النادي الرياضي | B2 | n | a | - | - | - | A gym membership costs about 40 dollars a month. | The hospital offers a free gym membership to residents.
+DAY025 | work out | يتمرّن | B2 | expr | - | - | - | exercise | I try to work out three times a week. | She works out before her shift.
+DAY026 | workout | حصّة تمرين | B2 | n | a | - | - | - | I did a short workout at home. | A 20-minute workout is better than nothing.
+DAY027 | cell phone plan | باقة الهاتف المحمول | B2 | n | a | - | - | phone plan | My cell phone plan includes unlimited data. | Compare cell phone plans before you sign a contract.
+DAY028 | voicemail | البريد الصوتي | B2 | n | a | - | - | - | Leave me a voicemail if I don't answer. | I have three voicemails from the bank.
+DAY029 | charger | شاحن | B2 | n | a | - | - | - | I forgot my phone charger at home. | Can I borrow your charger for a minute?
+DAY030 | text | يرسل رسالة نصية | B2 | v | - | - | text sb | - | Text me when you get home. | She texted her mother after the exam.
+DAY031 | laundry | الغسيل (الملابس) | B2 | n | - | - | do the laundry | - | I do my laundry on Sunday. | The laundry is still in the dryer.
+DAY032 | laundromat | مغسلة عامة ذاتية الخدمة | B2 | n | a | - | - | - | There is a laundromat on the corner. | I wash my clothes at the laundromat every week.
+DAY033 | dry cleaner | محلّ التنظيف الجاف | B2 | n | a | - | - | dry cleaner's | I took my suit to the dry cleaner before the interview. | The dry cleaner is closed on Sundays.
+DAY034 | haircut | قصّة شعر | B2 | n | a | - | - | - | I need a haircut before the interview. | Haircuts are expensive in Manhattan.
+DAY035 | package | طرد بريدي | B2 | n | a | - | - | parcel | I'm waiting for a package from my family. | A package arrived for you this morning.
+DAY036 | delivery | توصيل | B2 | n | a | - | - | - | Delivery is free for orders over 35 dollars. | The delivery was left at the front door.
+DAY037 | small talk | حديث عابر (دردشة خفيفة) | B2 | n | - | - | uncountable | - | Americans often make small talk about the weather. | Small talk with patients helps build rapport.
+DAY038 | catch up | يتبادل الأخبار (يعوّض ما فاته) | B2 | expr | - | - | irregular: caught; catch up on sth | - | Let's meet for coffee and catch up. | I need to catch up on sleep after nights.
+DAY039 | hang out | يقضي الوقت مع الأصدقاء | B2 | expr | - | - | informal; irregular: hung | - | We hang out with other residents on weekends. | Do you want to hang out after work?
+DAY040 | sleep in | ينام حتى وقت متأخّر | B2 | expr | - | - | irregular: slept | - | I like to sleep in on my day off. | She slept in and missed breakfast.
+DAY041 | stay up late | يسهر | B2 | expr | - | - | - | - | Don't stay up late before an exam. | He stayed up late studying pharmacology.
+DAY042 | wind down | يهدأ تدريجيًا بعد يوم طويل | C1 | expr | - | - | irregular: wound | - | I read a book to wind down after a shift. | It takes me an hour to wind down after a night shift.
+DAY043 | day off | يوم إجازة | B2 | n | a | days off | - | - | Tomorrow is my day off. | I spend my day off with my family.
+DAY044 | time off | وقت راحة (إجازة) | B2 | n | - | - | uncountable | vacation | Residents get four weeks of time off a year. | I need some time off to rest.
+DAY045 | homesick | يحنّ إلى الوطن | B2 | adj | - | - | - | - | I felt homesick during my first winter in Boston. | Calling family helps when you feel homesick.
+DAY046 | culture shock | الصدمة الثقافية | B2 | n | - | - | uncountable | - | Culture shock is normal in the first months abroad. | She experienced culture shock in American hospitals.
+DAY047 | adjust to | يتأقلم مع | B2 | expr | - | - | adjust to sth | - | It took me a year to adjust to life in the US. | Children adjust to a new country quickly.
+DAY048 | adapt | يتكيّف | B2 | v | - | - | adapt to sth | - | She adapted quickly to the new hospital. | We must adapt our communication to each patient.
+DAY049 | accent | لكنة | B2 | n | an | - | - | - | Patients understand me well despite my accent. | He has a strong Southern accent.
+DAY050 | slang | العامية | B2 | n | - | - | uncountable | - | Patients often use slang for parts of the body. | I learned a lot of American slang from my roommate.
+DAY051 | idiom | تعبير اصطلاحي | C1 | n | an | - | - | - | "Under the weather" is an idiom that means slightly sick. | Idioms are hard for language learners to understand.
+DAY052 | Thanksgiving | عيد الشكر | B2 | n | - | - | - | - | We celebrated Thanksgiving with our American friends. | Thanksgiving is on the fourth Thursday of November.
+DAY053 | potluck | وليمة مشتركة (كلٌّ يُحضر طبقًا) | C1 | n | a | - | - | - | The team is having a potluck on Friday. | Bring a dish from your country to the potluck.
+DAY054 | mosque | مسجد | B2 | n | a | - | - | - | There is a mosque ten minutes from the hospital. | I go to the mosque on Fridays.
+DAY055 | prayer room | مُصلّى (غرفة صلاة) | B2 | n | a | - | - | - | The hospital has a prayer room on the first floor. | Many airports have a prayer room.
+DAY056 | fast | يصوم | B2 | v | - | - | - | - | Many Muslim patients fast during Ramadan. | Diabetic patients should talk to their doctor before they fast.
+DAY057 | do the dishes | يغسل الصحون | B2 | expr | - | - | irregular: did, done | wash the dishes | My roommate never does the dishes. | I'll do the dishes after dinner.
+DAY058 | take out the trash | يُخرج النفايات | B2 | expr | - | - | irregular: took, taken | - | Can you take out the trash tonight? | He takes out the trash every Tuesday.
+# --- batch 26: free time, money, social life, everyday phrasal verbs ---
+DAY059 | daily routine | الروتين اليومي | B2 | n | a | - | - | - | My daily routine starts at five in the morning. | Night shifts can disrupt your daily routine.
+DAY060 | leisure | وقت الفراغ | C1 | n | - | - | uncountable | - | Residents have very little leisure time. | What do you do in your leisure time?
+DAY061 | volunteer | يتطوّع | B2 | v | - | - | - | - | She volunteers at a free clinic on weekends. | I volunteered at a refugee center last year.
+DAY062 | fundraiser | حملة جمع تبرّعات | C1 | n | a | - | - | - | The hospital held a fundraiser for the children's ward. | We organized a fundraiser for the earthquake victims.
+DAY063 | donation | تبرّع | B2 | n | a | - | - | - | She made a donation to the cancer center. | Donations of warm clothes are welcome.
+DAY064 | bargain | صفقة رابحة | B2 | n | a | - | - | - | The used car was a real bargain. | You can find bargains at the farmers market.
+DAY065 | secondhand | مستعمل | B2 | adj | - | - | - | second-hand; used | I bought a secondhand bike for 80 dollars. | Secondhand furniture is cheap on online marketplaces.
+DAY066 | overpriced | مبالغ في سعره | C1 | adj | - | - | - | - | Coffee in the hospital is overpriced. | The apartments downtown are overpriced.
+DAY067 | reasonable | معقول | B2 | adj | - | - | - | - | The rent is reasonable for this area. | The repair costs seem reasonable.
+DAY068 | convenient | مناسب (مريح) | B2 | adj | - | - | - | - | The apartment is convenient for the hospital. | Online shopping is convenient when you work long hours.
+DAY069 | inconvenient | غير مناسب | B2 | adj | - | - | - | - | The appointment time is inconvenient for me. | It is inconvenient to live so far from work.
+DAY070 | crowded | مزدحم | B2 | adj | - | - | - | - | The grocery store is crowded on Sunday afternoons. | The gym is less crowded early in the morning.
+DAY071 | cozy | دافئ ومريح | B2 | adj | - | - | - | - | Our apartment is small but cozy. | We found a cozy café near the hospital.
+DAY072 | tidy | مرتّب | B2 | adj | - | - | - | neat | Try to keep the shared kitchen tidy. | She is a very tidy roommate.
+DAY073 | messy | فوضوي | B2 | adj | - | - | - | - | My desk is messy during exam season. | His room is always messy and full of books.
+DAY074 | afford | يقدر على تكلفة | B2 | v | - | - | can / can't afford sth | - | I can't afford a car right now. | Many families cannot afford health insurance.
+DAY075 | save up | يدّخر | B2 | expr | - | - | save up for sth | - | I'm saving up for a trip home. | She saved up for a new laptop.
+DAY076 | splurge | يُسرف في الإنفاق | C1 | v | - | - | splurge on sth | - | I splurged on a nice dinner after the exam. | Don't splurge on clothes during your first month.
+DAY077 | reschedule | يغيّر الموعد | B2 | v | - | - | - | - | Can we reschedule our meeting for Thursday? | The dentist rescheduled my appointment.
+DAY078 | browse | يتصفّح | B2 | v | - | - | - | - | I like to browse the bookstore on weekends. | She browsed online for a new phone.
+DAY079 | upgrade | يُرقّي (يحدّث) | B2 | v | - | - | - | - | I upgraded my phone plan to get more data. | The hospital upgraded its computers.
+DAY080 | unwind | يسترخي | C1 | v | - | - | irregular: unwound | relax | I unwind by walking in the park. | Music helps me unwind after work.
+DAY081 | housewarming party | حفلة الانتقال إلى منزل جديد | C1 | n | a | - | - | housewarming | We had a housewarming party in our new apartment. | Bring a small gift to a housewarming party.
+DAY082 | RSVP | يؤكّد الحضور (يردّ على الدعوة) | C1 | v | - | - | - | - | Please RSVP by Friday so we can order food. | I forgot to RSVP to the wedding.
+DAY083 | rain check | تأجيل الدعوة إلى وقت لاحق | C1 | n | a | - | take a rain check | - | Can I take a rain check on dinner tonight? | She took a rain check because of her night shift.
+DAY084 | get-together | لقاء اجتماعي | B2 | n | a | - | - | - | We're having a small get-together on Saturday. | The department holds a get-together every summer.
+DAY085 | brunch | وجبة الفطور المتأخّر | B2 | n | - | - | - | - | We had brunch after the night shift. | Brunch is popular on Sundays in American cities.
+DAY086 | time management | إدارة الوقت | B2 | n | - | - | uncountable | - | Time management is essential during residency. | Good time management leaves time for family.
+DAY087 | to-do list | قائمة المهام | B2 | n | a | - | - | - | I write a to-do list every morning. | My to-do list is too long today.
+DAY088 | reminder | تذكير | B2 | n | a | - | - | - | Set a reminder on your phone for the appointment. | I got a reminder about my dentist appointment.
+DAY089 | under the weather | متوعّك قليلًا | C1 | expr | - | - | informal | - | I'm feeling a bit under the weather today. | She stayed home because she was under the weather.
+DAY090 | call it a day | يُنهي العمل لهذا اليوم | B2 | expr | - | - | informal | - | We're tired; let's call it a day. | After 14 hours, he called it a day.
+DAY091 | take it easy | يرتاح ولا يُجهد نفسه | B2 | expr | - | - | irregular: took, taken | - | Take it easy this weekend and rest. | The doctor told him to take it easy after the surgery.
+DAY092 | have a lot on one's plate | لديه الكثير من الالتزامات | C1 | expr | - | - | informal; irregular: had, has | - | I have a lot on my plate this month. | She has a lot on her plate with exams and night shifts.
+DAY093 | keep in touch | يبقى على تواصل | B2 | expr | - | - | irregular: kept | stay in touch | Let's keep in touch after the rotation. | I keep in touch with my family through video calls.
+DAY094 | feel at home | يشعر كأنه في بيته | B2 | expr | - | - | irregular: felt | - | My neighbors made me feel at home. | It took me a year to feel at home in Chicago.
+DAY095 | get used to | يعتاد على | B2 | expr | - | - | irregular: got, gotten; get used to sth / doing sth | - | I'm still getting used to the cold weather. | You will get used to the long hours.
+DAY096 | run out of | ينفد منه | B2 | expr | - | - | irregular: ran, run | - | We've run out of milk. | I ran out of time to finish the questions.
+DAY097 | figure out | يكتشف (يجد الحلّ) | B2 | expr | - | - | figure sth out | - | I can't figure out how to use the washing machine. | She figured out the bus routes in a week.
+DAY098 | look forward to | يتطلّع إلى | B2 | expr | - | - | look forward to sth / doing sth | - | I'm looking forward to my vacation. | We look forward to meeting you.
+DAY099 | put off | يؤجّل (يماطل) | B2 | expr | - | - | irregular: put; put off doing sth | - | Don't put off your dental checkup. | I keep putting off my tax return.
+DAY100 | come across | يصادف | B2 | expr | - | - | irregular: came | - | I came across a great Lebanese restaurant downtown. | You will come across many new words in clinic.
+DAY101 | throw away | يرمي (يتخلّص من) | B2 | expr | - | - | irregular: threw, thrown | throw out | Throw away the old food in the fridge. | Don't throw away your receipts.
+DAY102 | nap | قيلولة | B2 | n | a | - | take a nap | - | I took a short nap after my night shift. | A 20-minute nap can improve your focus.
+DAY103 | jet lag | إرهاق السفر عبر المناطق الزمنية | B2 | n | - | - | uncountable | - | I had jet lag for a week after the flight. | Jet lag makes it hard to sleep at night.
+DAY104 | snack | وجبة خفيفة | B2 | n | a | - | - | - | Keep a healthy snack in your bag. | I had a quick snack between patients.
+DAY105 | caffeine | الكافيين | B2 | n | - | - | uncountable | - | Too much caffeine makes me anxious. | Avoid caffeine six hours before sleep.
+DAY106 | weather forecast | النشرة الجوية | B2 | n | - | - | used with "the" | forecast | Check the weather forecast before you drive. | The weather forecast says it will snow tonight.
+DAY107 | snowstorm | عاصفة ثلجية | B2 | n | a | - | - | blizzard | The hospital stayed open during the snowstorm. | A snowstorm closed the schools for two days.
+DAY108 | humid | رطب (الجو) | B2 | adj | - | - | - | - | Summers in Houston are hot and humid. | The air is humid after the rain.
+DAY109 | freezing | شديد البرودة | B2 | adj | - | - | - | - | It's freezing outside this morning. | The winters in Minnesota are freezing.

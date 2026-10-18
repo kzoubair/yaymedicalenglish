@@ -1,0 +1,125 @@
+@theme exam EXA medicine
+# Physical examination
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 7: vital signs, instruments, techniques, instructions to the patient ---
+EXA001 | vital signs | العلامات الحيوية | B2 | n | - | - | plural noun | vitals | Check the vital signs every four hours. | Her vital signs are stable this morning.
+EXA002 | blood pressure cuff | كُمّ جهاز قياس الضغط | B2 | n | a | - | - | - | Use a larger blood pressure cuff for obese patients. | The blood pressure cuff is too small for his arm.
+EXA003 | heart rate | معدّل ضربات القلب | B2 | n | a | - | - | - | Her heart rate is 120 beats per minute. | His heart rate slowed down after the beta-blocker.
+EXA004 | respiratory rate | معدّل التنفس | B2 | n | a | - | - | - | Count the respiratory rate for a full minute. | A high respiratory rate is an early sign of sepsis.
+EXA005 | oxygen saturation | تشبّع الأكسجين | C1 | n | - | - | informal: sats | O2 sat; sats | Her oxygen saturation is 91 percent on room air. | His oxygen saturation dropped when he lay flat.
+EXA006 | pulse oximeter | مقياس التأكسج النبضي | C1 | n | a | - | - | - | Clip the pulse oximeter to her finger. | The pulse oximeter may be inaccurate if the hands are cold.
+EXA007 | stethoscope | سمّاعة الطبيب | B2 | n | a | - | - | - | Warm the stethoscope before you place it on the child's chest. | She forgot her stethoscope in the call room.
+EXA008 | reflex hammer | مطرقة المنعكسات | C1 | n | a | - | - | - | Use the reflex hammer to test the biceps reflex. | He keeps a reflex hammer in the pocket of his white coat.
+EXA009 | otoscope | منظار الأذن | C1 | n | an | - | - | - | Look at the eardrum with an otoscope. | Pull the ear back gently before inserting the otoscope.
+EXA010 | ophthalmoscope | منظار قاع العين | C1 | n | an | - | - | - | Use the ophthalmoscope to look at the optic disc. | The room was dark enough to use the ophthalmoscope.
+EXA011 | tongue depressor | خافض اللسان | B2 | n | a | - | - | - | Use a tongue depressor to look at the back of the throat. | The child gagged on the tongue depressor.
+EXA012 | inspection | المعاينة (الفحص بالنظر) | C1 | n | - | - | on inspection | - | Start every examination with inspection. | On inspection, the skin is red and warm.
+EXA013 | palpation | الجسّ | C1 | n | - | - | on palpation | - | On palpation, the liver edge is two centimeters below the ribs. | Palpation of the abdomen should start away from the pain.
+EXA014 | percussion | القرع | C1 | n | - | - | on percussion | - | Percussion of the chest is dull at the right base. | Dullness to percussion suggests fluid or consolidation.
+EXA015 | auscultation | الإصغاء (التسمّع) | C1 | n | - | - | on auscultation | - | On auscultation, there are crackles at both bases. | Auscultation of the heart reveals a soft murmur.
+EXA016 | palpate | يجسّ | C1 | v | - | - | - | - | Palpate the abdomen gently with a flat hand. | I could not palpate the spleen.
+EXA017 | percuss | يقرع (أثناء الفحص) | C1 | v | - | - | - | - | Percuss the chest from top to bottom on each side. | Percuss the liver span in the midclavicular line.
+EXA018 | auscultate | يتسمّع (بالسمّاعة) | C1 | v | - | - | - | - | Auscultate the lungs in all zones, front and back. | Always auscultate the carotid arteries for bruits.
+EXA019 | inspect | يعاين (يفحص بالنظر) | B2 | v | - | - | - | - | Inspect the skin for rashes and bruises. | The nurse inspected the wound for signs of infection.
+EXA020 | murmur | نفخة قلبية | C1 | n | a | - | - | heart murmur | There is a systolic murmur at the apex. | A new murmur with fever suggests endocarditis.
+EXA021 | crackles | خراخر (فرقعات رئوية) | C1 | n | - | - | plural noun | rales | We heard crackles at both lung bases. | Fine crackles are typical of pulmonary fibrosis.
+EXA022 | bruit | لغط وعائي | C1 | n | a | - | - | - | A bruit over the carotid artery may indicate stenosis. | Listen for a renal bruit in young patients with hypertension.
+EXA023 | bowel sounds | أصوات الأمعاء | B2 | n | - | - | plural noun | - | Bowel sounds are absent after the surgery. | High-pitched bowel sounds suggest obstruction.
+EXA024 | heart sounds | أصوات القلب | B2 | n | - | - | plural noun | - | The heart sounds are normal with no murmurs. | Muffled heart sounds can be a sign of fluid around the heart.
+EXA025 | breath sounds | أصوات التنفس | B2 | n | - | - | plural noun | - | Breath sounds are reduced on the left side. | Absent breath sounds after trauma suggest a pneumothorax.
+EXA026 | gait | المِشية | C1 | n | a | - | - | - | Watch the patient's gait as he walks down the hallway. | She has a shuffling gait typical of Parkinson's disease.
+EXA027 | posture | وضعية الجسم | B2 | n | - | - | uncountable | - | Poor posture can cause back pain. | Assess the posture while the patient is standing.
+EXA028 | range of motion | مدى الحركة | C1 | n | - | - | abbreviation: ROM | ROM | She has a reduced range of motion in her shoulder. | Check the range of motion of both hips.
+EXA029 | muscle strength | القوة العضلية | B2 | n | - | - | uncountable | - | Muscle strength is five out of five in all limbs. | Test muscle strength against resistance.
+EXA030 | pupil | حدقة العين | B2 | n | a | - | - | - | The pupils are equal and round. | A fixed, dilated pupil is a neurological emergency.
+EXA031 | capillary refill | امتلاء الشعيرات الدموية | C1 | n | - | - | uncountable | capillary refill time | Capillary refill is less than two seconds. | Delayed capillary refill suggests poor perfusion.
+EXA032 | pulse | النبض | B2 | n | a | - | - | - | Her pulse is 110 and regular. | Check the pulse in both feet.
+EXA033 | lymphadenopathy | اعتلال العقد اللمفية | C1 | n | - | - | uncountable | - | There is no cervical lymphadenopathy. | Generalized lymphadenopathy needs further tests.
+EXA034 | hepatomegaly | تضخّم الكبد | C1 | n | - | - | uncountable | - | The exam revealed hepatomegaly and jaundice. | Hepatomegaly can be caused by heart failure.
+EXA035 | splenomegaly | تضخّم الطحال | C1 | n | - | - | uncountable | - | Splenomegaly is common in mononucleosis. | Patients with splenomegaly should avoid contact sports.
+EXA036 | guarding | الدفاع العضلي (عند جسّ البطن) | C1 | n | - | - | uncountable | - | There is guarding in the right lower quadrant. | Involuntary guarding is a sign of peritonitis.
+EXA037 | rebound tenderness | الألم الارتدادي | C1 | n | - | - | uncountable | - | Rebound tenderness is a sign of peritoneal irritation. | She had rebound tenderness over McBurney's point.
+EXA038 | quadrant | رُبع (من أرباع البطن) | C1 | n | a | - | - | - | The pain is in the right upper quadrant. | Divide the abdomen into four quadrants.
+EXA039 | midline | خط الوسط | C1 | n | - | - | used with "the" | - | The scar runs along the midline of the abdomen. | The spine is tender in the midline at the level of the waist.
+EXA040 | bilateral | ثنائي الجانب | C1 | adj | - | - | opposite: unilateral | - | There is bilateral leg swelling. | She has bilateral pneumonia on the chest X-ray.
+EXA041 | unilateral | أحادي الجانب | C1 | adj | - | - | opposite: bilateral | - | Unilateral leg swelling suggests a deep vein thrombosis. | He has unilateral hearing loss.
+EXA042 | symmetrical | متناظر | B2 | adj | - | - | - | symmetric | The chest expansion is symmetrical. | The facial movements are symmetrical at rest.
+EXA043 | nontender | غير مؤلم عند الجسّ | C1 | adj | - | - | used in notes | non-tender | The calf is nontender and not swollen. | The thyroid is smooth and nontender.
+EXA044 | palpable | يمكن جسّه | C1 | adj | - | - | - | - | The spleen is not palpable. | There is a palpable mass in the left breast.
+EXA045 | distended | متمدّد (منتفخ) | C1 | adj | - | - | - | - | The abdomen is distended and tympanic. | His neck veins are distended.
+EXA046 | rigid | متصلّب | C1 | adj | - | - | - | - | A rigid abdomen suggests a perforation. | His muscles were rigid after the seizure.
+EXA047 | reactive | متفاعل (يستجيب) | C1 | adj | - | - | reactive to light | - | Both pupils are reactive to light. | Reactive lymph nodes are common after a sore throat.
+EXA048 | dilated | متوسّع | C1 | adj | - | - | - | - | Her pupils were dilated after the eye drops. | The echo shows a dilated left ventricle.
+EXA049 | well-appearing | يبدو بحالة جيدة | C1 | adj | - | - | used in notes | - | The child is well-appearing and playful. | She is a well-appearing woman who looks her stated age.
+EXA050 | ill-appearing | يبدو مريضًا | C1 | adj | - | - | used in notes | - | The infant is ill-appearing and mottled. | An ill-appearing patient needs urgent assessment.
+EXA051 | in no acute distress | لا يبدو عليه ضيق حاد (عبارة في تقرير الفحص) | C1 | expr | - | - | used in notes; abbreviation: NAD | NAD | The patient is sitting up in bed in no acute distress. | He appeared comfortable and in no acute distress.
+EXA052 | assess | يقيّم | B2 | v | - | - | noun: assessment | - | Always assess the airway first. | The nurse assessed his pain every hour.
+EXA053 | tap | ينقر بلطف | B2 | v | - | - | - | - | Tap the tendon with the reflex hammer. | She tapped over the sinuses to check for tenderness.
+EXA054 | lie flat | يستلقي بشكل مستوٍ | B2 | expr | - | - | irregular: lay, lain | - | Please lie flat on the bed with your arms by your sides. | He cannot lie flat because of his breathing.
+EXA055 | roll over | يتقلّب على جنبه | B2 | expr | - | - | roll over onto sth | - | Could you roll over onto your left side? | Help the patient roll over so we can examine her back.
+EXA056 | take a deep breath | يأخذ نفسًا عميقًا | B2 | expr | - | - | irregular: took, taken | - | Take a deep breath in and hold it. | I need you to take a deep breath while I listen.
+EXA057 | follow my finger | اتبع إصبعي بعينيك | B2 | expr | - | - | instruction to the patient | - | Keep your head still and follow my finger. | Can you follow my finger with your eyes only?
+EXA058 | squeeze my hands | اضغط على يديّ بقوة | B2 | expr | - | - | instruction to the patient | - | Squeeze my hands as hard as you can. | When I asked him to squeeze my hands, his grip was weaker on the left.
+EXA059 | bear down | يدفع إلى الأسفل (يكبس) | C1 | expr | - | - | irregular: bore, borne | - | Bear down as if you are having a bowel movement. | During labor, the nurse told her to bear down with each contraction.
+EXA060 | Let me know if this hurts. | أخبرني إن كان هذا يؤلمك. | B2 | expr | - | - | instruction to the patient | - | "Let me know if this hurts," she said as she pressed on his abdomen. | Let me know if this hurts when I press here.
+# --- batch 8: findings by system, signs, examination maneuvers ---
+EXA061 | general appearance | المظهر العام | B2 | n | - | - | uncountable | - | Describe the general appearance before the vital signs. | His general appearance improved after fluids.
+EXA062 | mental status | الحالة العقلية | C1 | n | - | - | uncountable | - | Assess mental status in every confused patient. | Her mental status changed suddenly overnight.
+EXA063 | jugular venous pressure | الضغط الوريدي الوداجي | C1 | n | - | - | abbreviation: JVP | JVP | The jugular venous pressure is elevated to the angle of the jaw. | Measure the jugular venous pressure with the patient at 45 degrees.
+EXA064 | point of maximal impulse | نقطة الدفع القصوى (ضربة القمة) | C1 | n | - | - | abbreviation: PMI | PMI; apex beat | The point of maximal impulse is displaced laterally. | Palpate the point of maximal impulse in the fifth intercostal space.
+EXA065 | intercostal space | المسافة الوربية | C1 | n | an | - | - | - | Listen in the second intercostal space to the right of the sternum. | The chest tube was inserted in the fifth intercostal space.
+EXA066 | chest expansion | تمدّد الصدر | C1 | n | - | - | uncountable | - | Chest expansion is reduced on the right. | Place your hands on the back to assess chest expansion.
+EXA067 | tactile fremitus | الرجفان اللمسي | C1 | n | - | - | uncountable | - | Tactile fremitus is increased over the consolidation. | Ask the patient to say "ninety-nine" to test tactile fremitus.
+EXA068 | dullness | الأَصَمِّية (عند القرع) | C1 | n | - | - | uncountable | - | There is dullness at the left base. | Shifting dullness is a classic sign of ascites.
+EXA069 | tympanic | طبلي (صوت القرع) | C1 | adj | - | - | - | - | The abdomen is tympanic on percussion. | A tympanic note over the chest suggests a pneumothorax.
+EXA070 | ascites | الحَبَن (استسقاء البطن) | C1 | n | - | - | uncountable | - | The patient has ascites due to cirrhosis. | We drained four liters of ascites.
+EXA071 | hernia | فتق | B2 | n | a | - | - | - | He has an inguinal hernia on the right. | Ask the patient to cough while you check for a hernia.
+EXA072 | mass | كتلة (مصطلح طبي) | B2 | n | a | - | technical; everyday word: lump | - | A firm mass was felt in the left lower quadrant. | The CT confirmed a mass in the pancreas.
+EXA073 | digital rectal exam | المسّ الشرجي | C1 | n | a | - | abbreviation: DRE | DRE; rectal exam | A digital rectal exam showed an enlarged prostate. | Explain the digital rectal exam before you start.
+EXA074 | pelvic exam | الفحص الحوضي (النسائي) | C1 | n | a | - | - | pelvic examination | A chaperone should be present during a pelvic exam. | The pelvic exam was normal except for mild tenderness.
+EXA075 | chaperone | مرافق (شاهد أثناء الفحص) | C1 | n | a | - | - | - | Offer a chaperone for every intimate examination. | A nurse acted as a chaperone during the breast exam.
+EXA076 | skin turgor | مرونة الجلد | C1 | n | - | - | uncountable | - | Poor skin turgor is a sign of dehydration. | Check skin turgor on the forearm or the chest.
+EXA077 | mucous membranes | الأغشية المخاطية | C1 | n | - | - | plural noun | - | Her mucous membranes are dry and her eyes look sunken. | Moist mucous membranes suggest adequate hydration.
+EXA078 | cranial nerves | الأعصاب القحفية | C1 | n | - | - | plural noun | - | Cranial nerves two to twelve are intact. | Test the cranial nerves in order.
+EXA079 | plantar reflex | المنعكس الأخمصي | C1 | n | a | - | - | - | The plantar reflex is downgoing on both sides. | An upgoing plantar reflex is called the Babinski sign.
+EXA080 | coordination | التناسق الحركي | B2 | n | - | - | uncountable | - | Test coordination with the finger-to-nose test. | Her coordination is poor on the left side.
+EXA081 | tone | المقوية العضلية | C1 | n | - | - | muscle tone | muscle tone | Tone is increased in the right arm. | Check tone by moving the limb passively.
+EXA082 | clonus | الرَّمَع | C1 | n | - | - | uncountable | - | There are three beats of clonus at the ankle. | Sustained clonus suggests an upper motor neuron lesion.
+EXA083 | nystagmus | الرأرأة | C1 | n | - | - | uncountable | - | Nystagmus on lateral gaze can be caused by alcohol. | Look for nystagmus while the patient follows your finger.
+EXA084 | visual acuity | حدّة البصر | C1 | n | - | - | uncountable | - | Test visual acuity with a Snellen chart. | Her visual acuity is 20/40 in the right eye.
+EXA085 | visual field | الساحة البصرية | C1 | n | a | - | - | - | A pituitary tumor can cause a visual field defect. | Test each visual field by confrontation.
+EXA086 | Romberg test | اختبار رومبرغ | C1 | n | a | - | - | - | The Romberg test is positive when the patient sways with eyes closed. | Stand close to the patient during the Romberg test.
+EXA087 | straight leg raise | اختبار رفع الساق المستقيمة | C1 | n | a | - | - | - | A positive straight leg raise suggests a herniated disc. | Perform the straight leg raise with the patient lying flat.
+EXA088 | peripheral pulses | النبضات المحيطية | C1 | n | - | - | plural noun | - | Peripheral pulses are present and equal. | Check the peripheral pulses after the cast is applied.
+EXA089 | pitting | انطباعي (يترك أثرًا عند الضغط) | C1 | adj | - | - | pitting edema | - | There is pitting edema of both ankles. | Press for ten seconds to check whether the swelling is pitting.
+EXA090 | erythema | الحُمامى (احمرار الجلد) | C1 | n | - | - | uncountable | - | There is erythema around the IV site. | Spreading erythema around a wound suggests cellulitis.
+EXA091 | lesion | آفة | C1 | n | a | - | - | - | A pigmented lesion on his back has changed shape. | The MRI showed a lesion in the frontal lobe.
+EXA092 | scar | ندبة | B2 | n | a | - | - | - | There is a healed scar from a previous appendectomy. | She has a long scar down the middle of her chest.
+EXA093 | deformity | تشوّه | C1 | n | a | - | - | - | There is an obvious deformity of the wrist after the fall. | Look for joint deformity in long-standing arthritis.
+EXA094 | effusion | انصباب | C1 | n | an | - | - | - | There is a large effusion in the right knee. | A pleural effusion was seen on the chest X-ray.
+EXA095 | crepitus | الفرقعة (الطقطقة) | C1 | n | - | - | uncountable | - | There is crepitus when the knee moves. | Crepitus under the skin suggests air in the tissues.
+EXA096 | elevate | يرفع (طرفًا أو رأس السرير) | B2 | v | - | - | - | - | Elevate the leg on two pillows. | The head of the bed was elevated to 30 degrees.
+EXA097 | flex | يثني (المفصل) | C1 | v | - | - | opposite: extend | - | Flex your knee as far as you can. | She cannot flex her right elbow.
+EXA098 | extend | يبسط (يمدّ المفصل) | B2 | v | - | - | opposite: flex | - | Extend your arms in front of you. | He is unable to extend his fingers fully.
+EXA099 | rotate | يدوّر | B2 | v | - | - | - | - | Rotate your head slowly to the left. | The hip is painful when it is rotated.
+EXA100 | visualize | يتمكّن من رؤية (بنية تشريحية) | C1 | v | - | - | - | - | The eardrum was not visualized because of wax. | We could not visualize the cervix clearly.
+EXA101 | resist | يقاوم | B2 | v | - | - | - | - | Resist me as I push your arm down. | She could not resist even light pressure on her ankle.
+EXA102 | withdraw | يسحب (يُبعد الطرف) | C1 | v | - | - | irregular: withdrew, withdrawn | - | He withdraws his hand from painful stimuli. | The baby withdrew her leg when we touched it.
+EXA103 | brisk | نشيط (منعكس سريع) | C1 | adj | - | - | - | - | The knee reflexes are brisk on both sides. | Brisk reflexes may indicate an upper motor neuron lesion.
+EXA104 | diminished | متناقص | C1 | adj | - | - | - | decreased | Breath sounds are diminished at the right base. | She has diminished sensation in both feet.
+EXA105 | irregular | غير منتظم | B2 | adj | - | - | - | - | His pulse is irregularly irregular. | An irregular pulse may be a sign of atrial fibrillation.
+EXA106 | warm to the touch | دافئ عند اللمس | B2 | expr | - | - | - | - | The joint is red and warm to the touch. | Her skin was warm to the touch.
+EXA107 | within normal limits | ضمن الحدود الطبيعية | C1 | expr | - | - | abbreviation: WNL | WNL | The vital signs are within normal limits. | Her blood count is within normal limits.
+EXA108 | head to toe | من الرأس إلى القدمين (فحص شامل) | B2 | expr | - | - | as an adjective: head-to-toe | head-to-toe | We examined the trauma patient from head to toe. | A head-to-toe exam is essential after a fall.
+EXA109 | thorough | شامل (دقيق) | B2 | adj | - | - | - | - | Perform a thorough skin exam every year. | Her physical exam was thorough and well documented.
+EXA110 | systematic | منهجي | B2 | adj | - | - | - | - | Use a systematic approach to the abdominal exam. | A systematic exam prevents missed findings.
+EXA111 | finding | موجودة سريرية (نتيجة الفحص) | B2 | n | a | - | - | - | The main finding was a heart murmur. | Report the positive findings first.
+EXA112 | bedside | جانب سرير المريض | B2 | n | - | - | at the bedside | - | The attending taught us at the bedside. | Bedside ultrasound helped confirm the diagnosis.
+EXA113 | physical exam | الفحص السريري | B2 | n | a | - | - | physical examination | The physical exam was otherwise normal. | A careful physical exam can save many tests.
+EXA114 | conjunctiva | الملتحمة | C1 | n | a | conjunctivae | - | - | The lower conjunctiva looks pale in this patient. | Pull down the lower eyelid to see the conjunctiva.
+EXA115 | uvula | اللهاة | C1 | n | a | - | - | - | The uvula is swollen and red. | Ask the patient to say "ah" so you can see the uvula.
+EXA116 | tonsils | اللوزتان | B2 | n | - | - | plural noun | - | Her tonsils are swollen with white spots. | His tonsils were removed when he was six.
+EXA117 | gums | اللثة | B2 | n | - | - | plural noun | - | His gums bleed when he brushes his teeth. | Swollen gums can be caused by some seizure drugs.
+EXA118 | nail bed | سرير الظفر | C1 | n | a | - | - | - | The nail beds look blue in cold weather. | Look at each nail bed for clubbing.
+EXA119 | mole | شامة | B2 | n | a | - | - | - | The mole on her back has changed color. | Any mole that bleeds should be checked.
+EXA120 | wart | ثؤلول | B2 | n | a | - | - | - | He has a wart on his finger. | Most warts are caused by a common virus.

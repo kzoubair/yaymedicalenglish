@@ -1,0 +1,169 @@
+@theme communication COM medicine
+# Communication, ethics and medical records
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 19: ethics, consent, end of life, difficult conversations ---
+COM001 | informed consent | الموافقة المستنيرة | C1 | n | - | - | uncountable | - | Obtain informed consent before any procedure. | Informed consent means the patient understands the risks and benefits.
+COM002 | confidentiality | السرّية | C1 | n | - | - | uncountable | - | Patient confidentiality must be respected at all times. | Discussing patients in the elevator breaks confidentiality.
+COM003 | privacy | الخصوصية | B2 | n | - | - | uncountable | - | Close the curtain to protect the patient's privacy. | Privacy laws limit who can see medical records.
+COM004 | autonomy | الاستقلالية (حق المريض في القرار) | C1 | n | - | - | uncountable | - | Respect the patient's autonomy, even if you disagree. | Autonomy is one of the four principles of medical ethics.
+COM005 | beneficence | مبدأ الإحسان | C1 | n | - | - | uncountable | - | Beneficence means acting in the patient's best interest. | The principle of beneficence guided the team's decision.
+COM006 | nonmaleficence | مبدأ عدم الإضرار | C1 | n | - | - | uncountable | non-maleficence | Nonmaleficence is the duty to do no harm. | The principle of nonmaleficence argues against futile surgery.
+COM007 | decision-making capacity | أهلية اتخاذ القرار | C1 | n | - | - | uncountable | capacity | The patient lacks decision-making capacity because of delirium. | Assess decision-making capacity before you accept a refusal.
+COM008 | surrogate | الوكيل في اتخاذ القرار | C1 | n | a | - | surrogate decision maker | - | His wife is his surrogate decision maker. | The surrogate should decide what the patient would have wanted.
+COM009 | power of attorney | توكيل قانوني (وكالة) | C1 | n | - | - | medical / durable power of attorney | - | Her son has medical power of attorney. | Ask whether the patient has a power of attorney for health care.
+COM010 | advance directive | التوجيه المسبق (وصية طبية) | C1 | n | an | - | - | - | Every adult should consider writing an advance directive. | Her advance directive says she does not want a feeding tube.
+COM011 | living will | وصية طبية مكتوبة (وصية الحياة) | C1 | n | a | - | - | - | His living will refuses mechanical ventilation. | A living will is a type of advance directive.
+COM012 | hospice | رعاية المحتضرين | C1 | n | - | - | hospice care | hospice care | She chose to receive hospice at home. | He was referred to hospice after the cancer spread.
+COM013 | palliative care | الرعاية التلطيفية | C1 | n | - | - | uncountable | - | Palliative care focuses on comfort and quality of life. | The palliative care team helped control her pain.
+COM014 | end-of-life care | رعاية نهاية الحياة | C1 | n | - | - | uncountable | end of life care | We discussed end-of-life care with the family. | Good end-of-life care respects the patient's wishes.
+COM015 | goals of care | أهداف الرعاية | C1 | n | - | - | plural noun | - | Have a goals of care conversation early. | His goals of care changed after the second stroke.
+COM016 | code status | حالة الإنعاش (رغبة المريض بشأنه) | C1 | n | - | - | - | - | Confirm the code status on admission. | Her code status is do not resuscitate.
+COM017 | comfort care | رعاية الراحة فقط | C1 | n | - | - | uncountable | comfort measures | The family chose comfort care only. | On comfort care, we stop unnecessary tests.
+COM018 | quality of life | جودة الحياة | B2 | n | - | - | uncountable | - | The treatment may extend his life but reduce his quality of life. | Knee replacement improved her quality of life.
+COM019 | bad news | أخبار سيئة | B2 | n | - | - | uncountable | - | Breaking bad news is a skill that can be learned. | Sit down when you give bad news.
+COM020 | break the news | يُبلغ بالخبر السيئ | B2 | expr | - | - | irregular: broke, broken; break the news to sb | - | The attending broke the news to the family in a quiet room. | How should I break the news that the cancer has returned?
+COM021 | grief | الحزن (على فقيد) | B2 | n | - | - | uncountable | - | Grief can cause physical symptoms. | The chaplain supported the family in their grief.
+COM022 | bereavement | الفقد (فقدان عزيز) | C1 | n | - | - | formal | - | The hospital offers bereavement support to families. | She took bereavement leave after her father died.
+COM023 | chaplain | المرشد الديني في المستشفى | C1 | n | a | - | - | - | The chaplain visited the patient before surgery. | Many hospitals have a Muslim chaplain or an imam.
+COM024 | consent | يوافق (يمنح موافقته) | C1 | v | - | - | consent to sth | - | The patient consented to the surgery. | Minors usually cannot consent to treatment.
+COM025 | decline | يرفض بلباقة | B2 | v | - | - | - | - | He declined the blood transfusion. | She declined further chemotherapy after the third cycle.
+COM026 | breach | يخرق (السرّية) | C1 | v | - | - | - | - | Sharing a photo of a patient breaches confidentiality. | Doctors may breach confidentiality to protect others from serious harm.
+COM027 | empathize | يتعاطف | C1 | v | - | - | empathize with sb | - | Try to empathize with the patient's fear. | She empathized with the parents of the sick child.
+COM028 | apologize | يعتذر | B2 | v | - | - | apologize for sth | - | The surgeon apologized for the delay. | Apologize sincerely when an error happens.
+COM029 | acknowledge | يُقرّ بـ | C1 | v | - | - | - | - | Acknowledge the patient's feelings before giving advice. | The hospital acknowledged the mistake.
+COM030 | withhold | يمتنع عن تقديم (علاج) | C1 | v | - | - | irregular: withheld, withheld | - | The family asked us to withhold antibiotics. | Withholding treatment can be ethical in some situations.
+COM031 | withdraw care | يسحب العلاج الداعم للحياة | C1 | expr | - | - | irregular: withdrew, withdrawn | - | The family decided to withdraw care after a week in the ICU. | Withdrawing care does not mean stopping comfort measures.
+COM032 | ethical | أخلاقي | B2 | adj | - | - | - | - | It is not ethical to lie to the patient. | The case raised several ethical questions.
+COM033 | confidential | سرّي | B2 | adj | - | - | - | - | All medical records are confidential. | Everything you tell me is confidential.
+COM034 | compassionate | رحيم (عطوف) | C1 | adj | - | - | - | - | She is known as a compassionate doctor. | Patients long remember compassionate care.
+COM035 | competent | كفء (أهل قانونيًا) | C1 | adj | - | - | - | - | A competent adult can refuse treatment. | She is a competent and careful resident.
+COM036 | futile | عقيم (لا جدوى منه) | C1 | adj | - | - | - | - | Further chemotherapy would be futile. | Is CPR futile in this patient?
+COM037 | frank | صريح | C1 | adj | - | - | - | - | We had a frank discussion about his prognosis. | Be frank but kind when you discuss the prognosis.
+COM038 | in sb's best interest | في المصلحة الفضلى لـ | C1 | expr | - | - | - | - | Surgery is not in his best interest. | Act in the patient's best interest at all times.
+COM039 | do no harm | لا تُلحق الضرر | B2 | expr | - | - | - | - | The first rule of medicine is to do no harm. | "Do no harm" is a basic principle of medical ethics.
+COM040 | shared decision-making | اتخاذ القرار المشترك | C1 | n | - | - | uncountable | shared decision making | Shared decision-making involves the patient in every choice. | Use shared decision-making for screening tests.
+COM041 | health literacy | الثقافة الصحية | C1 | n | - | - | uncountable | - | Low health literacy makes it hard to follow instructions. | Use simple words for patients with limited health literacy.
+COM042 | jargon | المصطلحات المتخصّصة | C1 | n | - | - | uncountable | - | Avoid medical jargon when you talk to patients. | "Myocardial infarction" is jargon; say "heart attack".
+COM043 | teach-back | التعليم الارتجاعي (يعيد المريض الشرح) | C1 | n | - | - | uncountable | teach back | Use teach-back to check that the patient understood. | With teach-back, the patient explains the plan in his own words.
+COM044 | in layman's terms | بعبارات مبسّطة | C1 | expr | - | - | - | in plain language | Explain the diagnosis in layman's terms. | In layman's terms, your heart is not pumping well.
+COM045 | cultural competence | الكفاءة الثقافية | C1 | n | - | - | uncountable | - | Cultural competence improves care for immigrant patients. | Training in cultural competence is required for residents.
+COM046 | health care proxy | وكيل الرعاية الصحية | C1 | n | a | - | - | healthcare proxy | She named her daughter as her health care proxy. | The health care proxy can make decisions when the patient cannot.
+COM047 | malpractice | سوء الممارسة الطبية | C1 | n | - | - | uncountable | - | The surgeon was sued for malpractice. | Malpractice insurance is very expensive in some specialties.
+COM048 | negligence | الإهمال | C1 | n | - | - | uncountable | - | The family claimed negligence after the missed diagnosis. | Negligence must be proven in a malpractice case.
+COM049 | lawsuit | دعوى قضائية | B2 | n | a | - | - | - | The patient filed a lawsuit against the hospital. | Good communication reduces the risk of a lawsuit.
+COM050 | liability | المسؤولية القانونية | C1 | n | - | - | uncountable | - | The hospital accepted liability for the error. | Clear notes protect you from liability.
+COM051 | medical error | خطأ طبي | B2 | n | a | - | - | - | Medical errors are a major cause of preventable harm. | Disclose a medical error honestly to the patient.
+COM052 | incident report | تقرير حادثة | C1 | n | an | - | - | - | File an incident report after any patient fall. | The nurse wrote an incident report about the wrong dose.
+COM053 | second opinion | رأي طبي ثانٍ | B2 | n | a | - | - | - | She asked for a second opinion before surgery. | Getting a second opinion is the patient's right.
+COM054 | tactfully | بلباقة | C1 | adv | - | - | - | - | The resident tactfully asked about his drinking. | Deliver bad news tactfully and clearly.
+COM055 | compassionately | برحمة | C1 | adv | - | - | - | - | She spoke compassionately to the grieving mother. | Treat every patient compassionately, whatever their background.
+COM056 | respectfully | باحترام | B2 | adv | - | - | - | - | Speak respectfully to patients and families. | He respectfully disagreed with the attending.
+COM057 | verbally | شفهيًا | B2 | adv | - | - | - | - | The patient verbally agreed to the procedure. | Orders given verbally must be written down later.
+COM058 | confidentially | بسرّية | C1 | adv | - | - | - | - | Results are shared confidentially with the patient. | The nurse spoke to him confidentially about his drug use.
+COM059 | trust | الثقة | B2 | n | - | - | uncountable | - | Trust between doctor and patient takes time to build. | Lying to patients destroys trust.
+COM060 | dignity | الكرامة | B2 | n | - | - | uncountable | - | Treat every patient with dignity and respect. | Cover the patient during the exam to protect her dignity.
+COM061 | wishes | رغبات المريض | B2 | n | - | - | plural noun | - | We must respect the patient's wishes. | Her wishes are written in her advance directive.
+COM062 | euthanasia | القتل الرحيم | C1 | n | - | - | uncountable | - | Euthanasia is illegal in the United States. | The debate about euthanasia raises difficult questions.
+COM063 | dilemma | معضلة | C1 | n | a | - | - | - | The case presented an ethical dilemma. | Doctors face dilemmas when resources are limited.
+COM064 | conflict of interest | تضارب المصالح | C1 | n | a | - | - | - | Disclose any conflict of interest before the talk. | Gifts from drug companies can create a conflict of interest.
+# --- batch 20: notes, records, presenting on rounds, team communication ---
+COM065 | medical record | السجل الطبي | B2 | n | a | - | - | - | All visits are documented in the medical record. | Patients have the right to see their medical records.
+COM066 | chart | الملف الطبي (لغة سريرية) | B2 | n | a | - | - | - | Check the chart for allergies before you prescribe. | The nurse wrote the vital signs in the chart.
+COM067 | electronic health record | السجل الصحي الإلكتروني | C1 | n | an | - | abbreviation: EHR | EHR; EMR | Orders are entered in the electronic health record. | The electronic health record shows all her past visits.
+COM068 | progress note | ملاحظة المتابعة اليومية | C1 | n | a | - | - | - | Write a progress note for each patient every day. | The progress note should be short and clear.
+COM069 | SOAP note | ملاحظة بنظام سواب (ذاتي، موضوعي، تقييم، خطة) | C1 | n | a | - | subjective, objective, assessment, plan | - | A SOAP note has four parts: subjective, objective, assessment and plan. | Write your SOAP note before rounds.
+COM070 | admission note | ملاحظة القبول | C1 | n | an | - | also: H&P | H&P | The intern wrote a detailed admission note. | The admission note includes the full history and exam.
+COM071 | discharge summary | ملخّص الخروج من المستشفى | C1 | n | a | - | - | - | Send the discharge summary to the primary care physician. | The discharge summary lists the new medications.
+COM072 | be discharged | يُخرَّج من المستشفى | B2 | expr | - | - | be discharged home / from the hospital | - | She was discharged home on day three. | He will be discharged after his pain is controlled.
+COM073 | handoff | تسليم المناوبة | C1 | n | a | - | - | sign-out; handover | Errors often happen during handoff. | Use a structured handoff at the end of every shift.
+COM074 | SBAR | نموذج سبار (الوضع، الخلفية، التقييم، التوصية) | C1 | n | - | - | situation, background, assessment, recommendation | - | Use SBAR when you call the attending at night. | SBAR stands for situation, background, assessment and recommendation.
+COM075 | referral | إحالة | B2 | n | a | - | - | - | The doctor gave her a referral to a cardiologist. | Referrals to dermatology can take months.
+COM076 | refer | يُحيل | B2 | v | - | - | refer sb to sb | - | I'm going to refer you to a specialist. | He was referred to the sleep clinic.
+COM077 | consult | استشارة (طلب رأي قسم آخر) | C1 | n | a | - | also a verb | consultation | We called a cardiology consult for the new murmur. | The surgery team saw the consult this morning.
+COM078 | rounds | الجولة الطبية | B2 | n | - | - | plural noun | - | Rounds start at seven every morning. | The students present new patients during rounds.
+COM079 | attending physician | الطبيب المشرف (الأخصائي المسؤول) | C1 | n | an | - | informal: attending | attending | The attending physician makes the final decisions. | Ask the attending physician before you change the plan.
+COM080 | case presentation | عرض الحالة السريرية | C1 | n | a | - | - | - | Keep your case presentation under three minutes. | She gave an excellent case presentation this morning.
+COM081 | one-liner | ملخّص الحالة في جملة واحدة | C1 | n | a | - | - | - | Start with a one-liner that summarizes the patient. | Her one-liner included age, sex and the main problem.
+COM082 | present with | يتقدّم بشكوى من | C1 | expr | - | - | present with sth | - | A 62-year-old man presents with chest pain. | She presented with three days of fever.
+COM083 | pertinent negative | سلبية ذات صلة (غياب عَرَض مهم) | C1 | n | a | - | - | - | No fever is a pertinent negative in this case. | Include pertinent negatives in your presentation.
+COM084 | assessment and plan | التقييم والخطة | C1 | n | an | - | abbreviation: A&P | A&P | The assessment and plan is the most important part of the note. | Present the assessment and plan by problem.
+COM085 | impression | الانطباع (التشخيص المرجّح) | C1 | n | an | - | - | - | My impression is community-acquired pneumonia. | Write your impression at the end of the note.
+COM086 | problem list | قائمة المشكلات | C1 | n | a | - | - | - | Update the problem list after each admission. | Her problem list includes diabetes and depression.
+COM087 | present | يعرض (حالة مريض) | B2 | v | - | - | present a patient / a case | - | The student presented the new patient to the team. | Present the history before the exam findings.
+COM088 | dictate | يُملي (تقريرًا) | C1 | v | - | - | - | - | The surgeon dictated the operative note. | Some doctors dictate their notes into a phone app.
+COM089 | sign out | يسلّم المرضى للمناوب التالي | C1 | expr | - | - | sign out to sb | - | I'll sign out my patients to the night team at six. | Sign out the sickest patients first.
+COM090 | page | يستدعي (عبر جهاز النداء) | B2 | v | - | - | - | - | The nurse paged the resident about the low blood pressure. | Page me if his pain gets worse.
+COM091 | pager | جهاز النداء | B2 | n | a | - | - | beeper | My pager went off five times during lunch. | Many hospitals still use pagers.
+COM092 | follow up | يتابع (حالة أو نتيجة) | B2 | expr | - | - | follow up on sth / with sb | - | Follow up with your doctor in two weeks. | I will follow up on the biopsy results.
+COM093 | escalate | يرفع (المشكلة إلى مستوى أعلى) | C1 | v | - | - | - | - | Escalate any concern about a deteriorating patient. | If the nurse is worried, she should escalate to the attending.
+COM094 | paraphrase | يعيد الصياغة | C1 | v | - | - | - | - | Paraphrase what the patient said to show you understood. | The interpreter paraphrased the doctor's explanation.
+COM095 | simplify | يبسّط | B2 | v | - | - | - | - | Simplify the instructions for older patients. | She simplified the diagnosis for the child.
+COM096 | legible | مقروء (واضح الخط) | C1 | adj | - | - | - | - | Handwritten orders must be legible. | His notes were barely legible.
+COM097 | concise | موجز | C1 | adj | - | - | - | - | Keep your presentation concise and focused. | A concise note is easier to read.
+COM098 | accurate | دقيق | B2 | adj | - | - | - | - | Accurate documentation protects the patient. | The history must be accurate and complete.
+COM099 | pertinent | وثيق الصلة | C1 | adj | - | - | pertinent to sth | - | Include only pertinent findings in the note. | Is this detail pertinent to the diagnosis?
+COM100 | subjective | ذاتي (ما يرويه المريض) | C1 | adj | - | - | - | - | Pain is a subjective experience. | The subjective part of the note describes the symptoms.
+COM101 | objective | موضوعي (ما يلاحظه الطبيب) | C1 | adj | - | - | - | - | Objective findings include vital signs and the exam. | Fever is an objective sign of infection.
+COM102 | on rounds | خلال الجولة الطبية | B2 | expr | - | - | - | - | The team discussed her case on rounds. | We will decide on rounds tomorrow.
+COM103 | keep sb in the loop | يُبقيه على اطّلاع | B2 | expr | - | - | informal; irregular: kept | - | Please keep me in the loop about the test results. | Keep the family in the loop every day.
+COM104 | touch base | يتواصل لتبادل المستجدات | B2 | expr | - | - | informal; touch base with sb | - | Let's touch base after the CT scan. | I'll touch base with the surgeon this afternoon.
+COM105 | get back to sb | يعود إليه بالرد | B2 | expr | - | - | irregular: got, gotten | - | I'll get back to you when the results come in. | The pharmacist got back to me within an hour.
+COM106 | be on the same page | يكونون على اتفاق | B2 | expr | - | - | informal | - | Make sure the whole team is on the same page. | The family and the doctors were not on the same page.
+COM107 | bear with me | اصبر عليّ قليلًا | B2 | expr | - | - | polite phrase | - | Bear with me while I check your chart. | Please bear with me; the computer is slow.
+COM108 | to put it simply | بعبارة بسيطة | B2 | expr | - | - | - | simply put | To put it simply, the artery is blocked. | To put it simply, your kidneys are not working well.
+COM109 | if I understand correctly | إن فهمتُ بشكل صحيح | B2 | expr | - | - | used to check understanding | - | If I understand correctly, the pain started yesterday. | So, if I understand correctly, you stopped the pills last week.
+COM110 | What matters most to you? | ما الأهمّ بالنسبة إليك؟ | C1 | expr | - | - | goals-of-care question | - | Ask "What matters most to you?" during a goals of care talk. | Her answer to "What matters most to you?" was being at home.
+COM111 | I'm sorry for your loss. | أعزّيك في مصابك. | B2 | expr | - | - | condolence | I am sorry for your loss. | "I'm sorry for your loss," the doctor said to the widow. | Say "I'm sorry for your loss" and then allow silence.
+COM112 | documentation | التوثيق | B2 | n | - | - | uncountable | - | Good documentation is part of good care. | The audit found gaps in the documentation.
+COM113 | addendum | ملحق (إضافة لاحقة إلى الملاحظة) | C1 | n | an | addenda | - | - | Write an addendum if you forgot something in the note. | The addendum was added two hours after the original note.
+COM114 | medical terminology | المصطلحات الطبية | B2 | n | - | - | uncountable | - | Learning medical terminology takes time. | Medical terminology is based on Latin and Greek.
+COM115 | communication skills | مهارات التواصل | B2 | n | - | - | plural noun | - | Communication skills are tested in many clinical exams. | She improved her communication skills with practice.
+COM116 | feedback | ملاحظات تقييمية (تغذية راجعة) | B2 | n | - | - | uncountable | - | The attending gave me useful feedback on my presentation. | Ask for feedback after every rotation.
+COM117 | HIPAA | قانون حماية خصوصية المعلومات الصحية الأمريكي | C1 | n | - | - | Health Insurance Portability and Accountability Act | - | HIPAA protects the privacy of health information. | Posting patient photos online is a HIPAA violation.
+COM118 | nonverbal | غير لفظي | C1 | adj | - | - | - | non-verbal | Nonverbal communication includes eye contact and posture. | Watch for nonverbal signs of pain.
+COM119 | empathetic | متعاطف | C1 | adj | - | - | - | empathic | An empathetic response can calm an angry patient. | She was empathetic but honest about the prognosis.
+# --- batch 21: lectures, small groups and reading scientific articles ---
+COM120 | lecture | محاضرة | B2 | n | a | - | - | - | The pharmacology lecture starts at eight. | I recorded the lecture to review it later.
+COM121 | lecturer | محاضِر | B2 | n | a | - | - | - | The lecturer explained the Krebs cycle clearly. | Our lecturer is a well-known cardiologist.
+COM122 | lecture hall | قاعة المحاضرات | B2 | n | a | - | - | auditorium | The lecture hall holds two hundred students. | Sit in the front of the lecture hall.
+COM123 | small-group session | جلسة مجموعة صغيرة (أعمال موجّهة) | C1 | n | a | - | - | small group | We discussed the case in a small-group session. | Small-group sessions are more interactive than lectures.
+COM124 | problem-based learning | التعلّم القائم على حلّ المشكلات | C1 | n | - | - | abbreviation: PBL | PBL | Problem-based learning starts with a clinical case. | Our school uses problem-based learning in the first two years.
+COM125 | syllabus | خطة المقرّر الدراسي | C1 | n | a | syllabi | - | - | Read the syllabus before the first class. | The syllabus lists all the exam dates.
+COM126 | handout | مطبوعة توزَّع على الطلاب | B2 | n | a | - | - | - | The professor gave us a handout with the key slides. | Bring the handout to the review session.
+COM127 | slide | شريحة عرض | B2 | n | a | - | - | - | The lecture had more than eighty slides. | Put only one idea on each slide.
+COM128 | take notes | يدوّن الملاحظات | B2 | expr | - | - | irregular: took, taken | - | I take notes on my tablet during lectures. | She took notes while the attending explained the case.
+COM129 | quiz | اختبار قصير | B2 | n | a | - | plural: quizzes | - | We have a short quiz every Monday. | The quiz counts for ten percent of the grade.
+COM130 | grade | علامة (درجة التقييم) | B2 | n | a | - | - | - | She got the highest grade in anatomy. | Clerkship grades are important for residency.
+COM131 | assignment | واجب دراسي | B2 | n | an | - | - | - | The assignment is due on Friday. | Our assignment is to present a case.
+COM132 | journal club | نادي المجلّة (مناقشة المقالات العلمية) | C1 | n | a | - | - | - | I'm presenting an article at journal club this week. | Journal club teaches residents to read papers critically.
+COM133 | research article | مقال بحثي | C1 | n | a | - | - | research paper; paper | She read a research article about a new heart drug. | Every research article has an abstract.
+COM134 | abstract | ملخّص المقال | C1 | n | an | - | - | - | Read the abstract first to see if the article is relevant. | The abstract summarizes the main results.
+COM135 | peer-reviewed | محكَّم (خاضع لمراجعة الأقران) | C1 | adj | - | - | - | peer reviewed | Use only peer-reviewed sources for your presentation. | The study was published in a peer-reviewed journal.
+COM136 | hypothesis | فرضية | C1 | n | a | hypotheses | - | - | The study tested the hypothesis that vitamin D prevents falls. | Their hypothesis was not supported by the data.
+COM137 | randomized controlled trial | تجربة معشّاة ذات شواهد | C1 | n | a | - | abbreviation: RCT | RCT | A randomized controlled trial is the best way to test a new drug. | The randomized controlled trial included 5,000 patients.
+COM138 | cohort study | دراسة أترابية | C1 | n | a | - | - | - | The cohort study followed nurses for twenty years. | A cohort study can show association but not causation.
+COM139 | meta-analysis | التحليل التلوي | C1 | n | a | meta-analyses | - | meta analysis | A meta-analysis combines the results of many studies. | The meta-analysis found a small benefit.
+COM140 | systematic review | مراجعة منهجية | C1 | n | a | - | - | - | A systematic review is a strong source of evidence. | The systematic review included 30 trials.
+COM141 | double-blind | مزدوج التعمية | C1 | adj | - | - | - | double blind | In a double-blind trial, neither patients nor doctors know who gets the drug. | The study was double-blind and placebo-controlled.
+COM142 | sample size | حجم العيّنة | C1 | n | a | - | - | - | The sample size was too small to detect a difference. | Calculate the sample size before the study begins.
+COM143 | outcome | المآل (النتيجة) | C1 | n | an | - | - | - | The main outcome was death from any cause. | Early treatment improves the outcome.
+COM144 | endpoint | نقطة النهاية (المعيار الرئيسي للدراسة) | C1 | n | an | - | primary / secondary endpoint | end point | The primary endpoint was hospital admission. | The trial met its primary endpoint.
+COM145 | confidence interval | فاصل الثقة | C1 | n | a | - | abbreviation: CI | CI | The confidence interval is wide because the study was small. | Report the result with a 95 percent confidence interval.
+COM146 | statistically significant | ذو دلالة إحصائية | C1 | adj | - | - | - | - | The difference was statistically significant. | A result can be statistically significant but not clinically important.
+COM147 | p-value | القيمة الاحتمالية | C1 | n | a | - | - | p value | A p-value below 0.05 is usually considered significant. | The p-value for the main result was 0.03.
+COM148 | confounding factor | عامل مُربك | C1 | n | a | - | - | confounder | Age is a common confounding factor. | The authors adjusted for confounding factors.
+COM149 | limitation | قيد (نقطة ضعف في الدراسة) | C1 | n | a | - | - | - | The main limitation of the study is its small size. | Discuss the limitations at the end of your presentation.
+COM150 | evidence-based | مُسنَد بالدليل | C1 | adj | - | - | - | evidence based | Evidence-based medicine uses the best available research. | Our sepsis protocols are evidence-based.
+COM151 | guideline | دليل إرشادي (توصية) | C1 | n | a | - | often plural | - | The new guidelines recommend screening at 45. | Follow the hospital guideline for sepsis.
+COM152 | cite | يستشهد بـ | C1 | v | - | - | noun: citation | - | Cite the study in your presentation. | The article was cited more than a thousand times.
+COM153 | publish | ينشر | B2 | v | - | - | - | - | The study was published last month in a major journal. | She hopes to publish her research before residency.
+COM154 | conduct | يُجري (دراسة) | C1 | v | - | - | conduct a study / a trial | - | They conducted a study of 2,000 patients. | The trial was conducted in ten hospitals.
+COM155 | recruit | يستقطب (مشاركين) | C1 | v | - | - | - | - | The trial recruited patients from five countries. | It was hard to recruit enough children.
+COM156 | skim | يقرأ قراءة سريعة | B2 | v | - | - | - | - | Skim the article before you read it in detail. | I skimmed the results section on the train.
+COM157 | critically appraise | يقيّم تقييمًا نقديًا | C1 | expr | - | - | noun: critical appraisal | - | Residents learn to critically appraise research. | Critically appraise the methods before you trust the results.
+COM158 | draw a conclusion | يستخلص نتيجة | C1 | expr | - | - | irregular: drew, drawn | - | It is too early to draw a conclusion. | The authors drew conclusions that the data did not support.
+COM159 | generalize | يعمّم | C1 | v | - | - | - | - | We cannot generalize these results to children. | Be careful when you generalize from a small study.
+COM160 | review session | جلسة مراجعة | B2 | n | a | - | - | - | The review session is the day before the exam. | I missed the review session because of a shift.
+COM161 | attendance | الحضور | B2 | n | - | - | uncountable | - | Attendance is required at morning report. | The school checks attendance at every lecture.
+COM162 | morning report | الاجتماع الصباحي لمناقشة الحالات | C1 | n | - | - | uncountable | - | The chief resident leads morning report. | We discussed an interesting case at morning report.
+COM163 | grand rounds | الجولات الكبرى (محاضرة القسم الأسبوعية) | C1 | n | - | - | plural form | - | The cardiology professor spoke at grand rounds. | Grand rounds take place every Wednesday at noon.

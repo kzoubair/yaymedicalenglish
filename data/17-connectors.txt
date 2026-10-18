@@ -1,0 +1,112 @@
+@theme connectors CON general
+# Connectors and expressions (B2-C1). Conjunctions and prepositions are listed as expressions.
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 33: contrast, addition, cause, condition, consequence ---
+CON001 | nevertheless | ومع ذلك | B2 | adv | - | - | - | - | The risks are small; nevertheless, we must explain them. | It was a long shift; nevertheless, she stayed to help.
+CON002 | nonetheless | رغم ذلك | C1 | adv | - | - | formal | - | The data are limited; nonetheless, the results are encouraging. | He felt tired but went to the lecture nonetheless.
+CON003 | furthermore | علاوة على ذلك | B2 | adv | - | - | - | - | The drug is cheap; furthermore, it has few side effects. | Furthermore, the patient has a history of kidney disease.
+CON004 | moreover | فضلًا عن ذلك | B2 | adv | - | - | formal | - | Exercise lowers blood pressure; moreover, it improves mood. | Moreover, the study was not randomized.
+CON005 | whereas | في حين أنّ | B2 | expr | - | - | conjunction | while | Type 1 diabetes usually starts in childhood, whereas type 2 is more common in adults. | Viral infections often resolve, whereas bacterial infections may need antibiotics.
+CON006 | thus | وبالتالي | C1 | adv | - | - | formal | - | The artery was blocked; thus, the muscle was damaged. | The drug lowers potassium and thus requires monitoring.
+CON007 | hence | ومن ثَمّ | C1 | adv | - | - | formal | - | The patient is allergic to penicillin, hence the change of antibiotic. | Hence, the dose must be reduced in older patients.
+CON008 | consequently | بناءً على ذلك | B2 | adv | - | - | - | - | He stopped his medication; consequently, his blood pressure rose. | The clinic was short-staffed and consequently very slow.
+CON009 | as a result | نتيجةً لذلك | B2 | expr | - | - | as a result of sth | - | She missed several doses and, as a result, had another seizure. | As a result of the snowstorm, the clinic closed early.
+CON010 | in contrast | على النقيض | B2 | expr | - | - | in contrast to sth | by contrast | In contrast to adults, young children often have no fever. | The first test was normal; in contrast, the second showed a clot.
+CON011 | on the contrary | بل على العكس | B2 | expr | - | - | - | - | The patient is not worse; on the contrary, he is much better. | On the contrary, the drug was very well tolerated.
+CON012 | conversely | وعلى العكس من ذلك | C1 | adv | - | - | formal | - | High potassium slows the heart; conversely, low potassium can cause arrhythmias. | Conversely, some patients gain weight on this drug.
+CON013 | likewise | وبالمثل | C1 | adv | - | - | - | - | Wash your hands before the exam, and likewise afterward. | The first patient improved, and likewise the second.
+CON014 | similarly | بشكل مماثل | B2 | adv | - | - | - | - | Similarly, the second study found no benefit. | The two drugs act similarly on the heart.
+CON015 | despite | على الرغم من | B2 | expr | - | - | preposition: despite sth / doing sth | - | Despite the treatment, his condition got worse. | She passed the exam despite working full-time.
+CON016 | in spite of | بالرغم من | B2 | expr | - | - | preposition | - | In spite of the pain, he walked to the clinic. | The surgery went ahead in spite of the risks.
+CON017 | even though | مع أنّ | B2 | expr | - | - | conjunction | - | Even though she was tired, she finished her notes. | He smokes even though he has COPD.
+CON018 | albeit | وإن كان | C1 | expr | - | - | conjunction, formal | - | The drug works, albeit more slowly than expected. | The results were positive, albeit in a small study.
+CON019 | provided that | شريطة أن | C1 | expr | - | - | conjunction | providing that | You can go home tomorrow, provided that the fever stays down. | Provided that the scan is normal, we will discharge her.
+CON020 | as long as | طالما أنّ | B2 | expr | - | - | conjunction | - | You can eat normally as long as you avoid fatty food. | As long as the pain is controlled, you can go home.
+CON021 | in case | تحسّبًا لـ (في حال) | B2 | expr | - | - | conjunction | - | Take an umbrella in case it rains. | Keep the inhaler with you in case you have an attack.
+CON022 | given that | نظرًا إلى أنّ | C1 | expr | - | - | conjunction | - | Given that she is pregnant, we will avoid X-rays. | Given that he has no symptoms, we can wait.
+CON023 | assuming that | على افتراض أنّ | C1 | expr | - | - | conjunction | - | Assuming that the labs are normal, she can go home today. | The plan works, assuming that the insurance approves it.
+CON024 | so that | لكي (بحيث) | B2 | expr | - | - | conjunction | - | Speak slowly so that the patient can understand. | I left early so that I would not miss the bus.
+CON025 | so as to | من أجل أن | C1 | expr | - | - | formal; so as not to | - | Fast overnight so as to get an accurate result. | Lower your voice so as not to wake the patients.
+CON026 | due to | بسبب | B2 | expr | - | - | preposition | - | The flight was delayed due to snow. | His death was due to a heart attack.
+CON027 | owing to | نظرًا لـ (رسمي) | C1 | expr | - | - | preposition, formal | - | Owing to the storm, the clinic is closed today. | The trial ended early owing to safety concerns.
+CON028 | on account of | من جرّاء | C1 | expr | - | - | preposition | - | He retired early on account of poor health. | Visits are limited on account of the flu outbreak.
+CON029 | in terms of | من حيث | B2 | expr | - | - | - | - | In terms of cost, the generic is the best choice. | The two drugs are similar in terms of side effects.
+CON030 | with regard to | فيما يتعلّق بـ | C1 | expr | - | - | formal | with respect to | With regard to your question, the answer is yes. | There is no change with regard to his medications.
+CON031 | regarding | بخصوص | B2 | expr | - | - | preposition | concerning | I am writing regarding my application. | Regarding the results, they are all normal.
+CON032 | as for | أمّا بالنسبة لـ | B2 | expr | - | - | - | - | As for the pain, it should improve in a few days. | As for me, I prefer night shifts.
+CON033 | in light of | في ضوء | C1 | expr | - | - | - | - | In light of the new results, we will change the plan. | The policy was updated in light of recent research.
+CON034 | notwithstanding | على الرغم من (رسمي جدًا) | C1 | expr | - | - | preposition, formal | - | Notwithstanding the risks, the surgery is the best option. | The project continued, notwithstanding the budget cuts.
+CON035 | to sum up | خلاصة القول | B2 | expr | - | - | - | in summary | To sum up, the patient needs surgery this week. | To sum up, we found three main problems.
+CON036 | in conclusion | في الختام | B2 | expr | - | - | - | - | In conclusion, early treatment saves lives. | In conclusion, more research is needed.
+CON037 | overall | إجمالًا (بشكل عام) | B2 | adv | - | - | - | - | Overall, the patient is improving. | Overall, the rotation was a great experience.
+CON038 | all in all | بعد احتساب كلّ شيء | B2 | expr | - | - | - | - | All in all, it was a good first year. | All in all, the surgery went well.
+CON039 | in short | باختصار | B2 | expr | - | - | - | - | In short, the drug works but costs too much. | In short, we need more data.
+CON040 | first and foremost | أولًا وقبل كلّ شيء | C1 | expr | - | - | - | - | First and foremost, make sure the airway is open. | Doctors are, first and foremost, there to help patients.
+CON041 | last but not least | وأخيرًا وليس آخرًا | B2 | expr | - | - | - | - | Last but not least, I want to thank my family. | Last but not least, always check the allergies.
+CON042 | on the one hand | من ناحية | B2 | expr | - | - | followed by: on the other hand | - | On the one hand, surgery cures the disease; on the other hand, it has risks. | On the one hand, I love the city, but it is very expensive.
+CON043 | on the other hand | من ناحية أخرى | B2 | expr | - | - | - | - | The drug is effective; on the other hand, it is very expensive. | On the other hand, waiting may be safer.
+CON044 | in other words | بعبارة أخرى | B2 | expr | - | - | - | - | Your heart is not pumping well; in other words, you have heart failure. | In other words, the test was normal.
+CON045 | that is to say | أي (بمعنى) | C1 | expr | - | - | formal; abbreviation: i.e. | i.e. | The dose is halved, that is to say 250 milligrams. | She is a primigravida, that is to say, pregnant for the first time.
+CON046 | namely | ألا وهو (وتحديدًا) | C1 | adv | - | - | - | - | Two drugs, namely aspirin and clopidogrel, were started. | One problem remains, namely the cost.
+CON047 | such as | مثل | B2 | expr | - | - | - | - | Avoid NSAIDs such as ibuprofen. | Risk factors such as smoking increase the risk of stroke.
+CON048 | in particular | على وجه الخصوص | B2 | expr | - | - | - | particularly | Older patients, in particular, are at risk of falls. | I enjoyed cardiology in particular.
+CON049 | notably | لا سيّما | C1 | adv | - | - | - | - | Several drugs, notably warfarin, interact with antibiotics. | Notably, none of the patients had serious side effects.
+CON050 | above all | قبل كلّ شيء (الأهمّ) | B2 | expr | - | - | - | - | Above all, be honest with your patients. | Above all, the patient wants to go home.
+CON051 | after all | في نهاية الأمر | B2 | expr | - | - | - | - | Don't be too hard on yourself; after all, it's your first week. | He decided to have the surgery after all.
+CON052 | at any rate | مهما يكن من أمر | C1 | expr | - | - | - | - | At any rate, we need to repeat the test. | It may or may not be serious; at any rate, we'll check.
+CON053 | as a matter of fact | في واقع الأمر | B2 | expr | - | - | - | in fact | As a matter of fact, I've met her before. | As a matter of fact, the pain started yesterday, not today.
+CON054 | indeed | حقًّا (بالفعل) | B2 | adv | - | - | - | - | The scan did indeed show a fracture. | It was indeed a difficult case.
+# --- batch 34: sequencing, alternatives, presentation phrases, formal prepositions ---
+CON055 | incidentally | بالمناسبة (عَرَضًا) | C1 | adv | - | - | - | - | Incidentally, the CT also showed a kidney stone. | The tumor was found incidentally on a chest X-ray.
+CON056 | meanwhile | في غضون ذلك | B2 | adv | - | - | - | - | The nurse called the doctor; meanwhile, the patient got worse. | Meanwhile, keep him on oxygen and monitor his saturation.
+CON057 | subsequently | لاحقًا (فيما بعد) | C1 | adv | - | - | formal | - | She was subsequently diagnosed with lupus. | He subsequently developed a wound infection.
+CON058 | thereafter | من ذلك الحين فصاعدًا | C1 | adv | - | - | formal | - | Take two tablets on the first day and one daily thereafter. | He was admitted and shortly thereafter went into surgery.
+CON059 | instead | بدلًا من ذلك | B2 | adv | - | - | instead of sth | - | We stopped the statin and started a different drug instead. | Don't drive; take a cab instead.
+CON060 | rather than | بدلًا من | B2 | expr | - | - | - | - | Treat the patient rather than the lab value. | She chose medicine rather than law.
+CON061 | otherwise | وإلّا | B2 | adv | - | - | - | - | Take the medicine with food; otherwise, it may upset your stomach. | Hurry up, otherwise we'll miss the bus.
+CON062 | regardless of | بغضّ النظر عن | C1 | expr | - | - | - | - | Treat every patient with respect, regardless of their background. | Regardless of the result, we will repeat the test.
+CON063 | irrespective of | بصرف النظر عن (رسمي) | C1 | expr | - | - | formal | - | The policy applies to all staff, irrespective of seniority. | Irrespective of age, all patients are screened.
+CON064 | whether or not | سواء أكان ذلك أم لا | B2 | expr | - | - | - | - | Whether or not you feel better, finish the antibiotics. | We will operate whether or not the CT shows a tumor.
+CON065 | in addition to | بالإضافة إلى | B2 | expr | - | - | - | - | In addition to the antibiotic, she needs fluids. | In addition to his work, he studies for the USMLE.
+CON066 | as well as | فضلًا عن | B2 | expr | - | - | - | - | The drug lowers blood pressure as well as heart rate. | She speaks Arabic and French as well as English.
+CON067 | not only ... but also | ليس فقط... بل أيضًا | B2 | expr | - | - | - | - | Smoking damages not only the lungs but also the heart. | She is not only a doctor but also a researcher.
+CON068 | either way | في كلتا الحالتين | B2 | expr | - | - | - | - | Surgery or medication, either way the pain should improve. | Either way, we need to tell the family.
+CON069 | for this reason | لهذا السبب | B2 | expr | - | - | - | - | For this reason, we check potassium daily. | The drug can harm the baby; for this reason, it is not used in pregnancy.
+CON070 | in turn | بدوره | C1 | expr | - | - | - | - | Poor sleep causes stress, which in turn raises blood pressure. | The intern reports to the resident, who in turn reports to the attending.
+CON071 | to some extent | إلى حدّ ما (بدرجة ما) | C1 | expr | - | - | - | to a certain extent | To some extent, the symptoms are caused by stress. | I agree with you to some extent.
+CON072 | by and large | على العموم | C1 | expr | - | - | - | - | By and large, patients are happy with the clinic. | By and large, the plan worked.
+CON073 | in the first place | منذ البداية (أساسًا) | B2 | expr | - | - | - | - | Why did you start the drug in the first place? | We should not have ordered the test in the first place.
+CON074 | as opposed to | خلافًا لـ (في مقابل) | C1 | expr | - | - | - | - | Viral, as opposed to bacterial, infections do not need antibiotics. | I prefer night shifts as opposed to evening shifts.
+CON075 | so to speak | إن صحّ التعبير | C1 | expr | - | - | - | - | She is the heart of the team, so to speak. | The first year is a trial by fire, so to speak.
+CON076 | that said | بعد قول هذا | C1 | expr | - | - | - | having said that | The risk is low; that said, we should still monitor her. | That said, the drug is very expensive for most patients.
+CON077 | even so | حتى مع ذلك | C1 | expr | - | - | - | - | The test was negative; even so, we will repeat it. | Even so, she felt nervous before the exam.
+CON078 | all the same | رغم كلّ شيء | C1 | expr | - | - | - | - | It's probably nothing, but I'll check it all the same. | Thanks all the same for offering to help.
+CON079 | not to mention | ناهيك عن | C1 | expr | - | - | - | - | The job is stressful, not to mention the long hours. | Smoking costs money, not to mention the damage to your health.
+CON080 | let alone | فما بالك بـ | C1 | expr | - | - | - | - | He can barely walk, let alone climb stairs. | I don't have time to eat, let alone cook.
+CON081 | to begin with | في البداية | B2 | expr | - | - | - | to start with | To begin with, let me summarize the history. | To begin with, the patient denies chest pain.
+CON082 | moving on | ننتقل الآن إلى | B2 | expr | - | - | moving on to sth | - | Moving on to the exam, the lungs are clear. | Moving on, let's discuss the plan.
+CON083 | speaking of | بالحديث عن | B2 | expr | - | - | - | - | Speaking of exams, when is your Step 2? | Speaking of the labs, the potassium is still low.
+CON084 | as I mentioned | كما ذكرتُ | B2 | expr | - | - | - | as I said | As I mentioned, the CT was normal. | As I mentioned earlier, she is allergic to sulfa.
+CON085 | to put it another way | بعبارة مختلفة | C1 | expr | - | - | - | - | To put it another way, the benefit is small. | To put it another way, nine out of ten patients will not benefit.
+CON086 | bearing in mind | مع مراعاة | C1 | expr | - | - | - | - | Bearing in mind her age, we chose a lower dose. | Bearing in mind the cost, the generic is better.
+CON087 | take into account | يأخذ بعين الاعتبار | C1 | expr | - | - | irregular: took, taken | take into consideration | Take into account the patient's wishes. | The dose takes into account her kidney function.
+CON088 | in accordance with | وفقًا لـ | C1 | expr | - | - | formal | - | The drug was given in accordance with the protocol. | Act in accordance with hospital policy.
+CON089 | accordingly | تبعًا لذلك | C1 | adv | - | - | - | - | The potassium was low, so we adjusted the dose accordingly. | Read the instructions and act accordingly.
+CON090 | therefore | لذلك | B2 | adv | - | - | - | - | The patient is pregnant; therefore, we will not order a CT. | He is allergic; therefore, we chose another drug.
+CON091 | whereby | الذي بموجبه | C1 | expr | - | - | relative adverb, formal | - | We set up a system whereby nurses can order basic tests. | It is a process whereby the body removes damaged cells.
+CON092 | upon | عند (بمجرّد) | C1 | expr | - | - | preposition, formal | on | Upon arrival, the patient was intubated. | Payment is due upon discharge.
+CON093 | throughout | طوال | B2 | expr | - | - | preposition | - | He was stable throughout the night. | Throughout her residency, she volunteered at a free clinic.
+CON094 | beyond | ما وراء (يتجاوز) | B2 | expr | - | - | preposition | - | The tumor has spread beyond the liver. | This case is beyond my experience.
+CON095 | apart from | باستثناء | B2 | expr | - | - | - | aside from | Apart from a mild cough, she feels well. | Apart from the cost, the drug is a good choice.
+CON096 | except for | ما عدا | B2 | expr | - | - | - | - | The labs are normal except for a low sodium. | Everyone came except for the intern.
+CON097 | along with | إلى جانب | B2 | expr | - | - | - | - | Take the antibiotic along with plenty of water. | She was admitted along with her husband after the accident.
+CON098 | by means of | بواسطة | C1 | expr | - | - | formal | - | The stone was removed by means of a scope. | Patients communicate by means of an interpreter.
+CON099 | in favor of | لصالح (مؤيّد لـ) | B2 | expr | - | - | - | - | The family is in favor of surgery. | The evidence is in favor of early treatment.
+CON100 | for the sake of | حرصًا على (من أجل) | C1 | expr | - | - | - | - | For the sake of the baby, she quit smoking. | Keep your presentation short for the sake of time.
+CON101 | in the event of | في حالة وقوع | C1 | expr | - | - | formal | - | In the event of a fire, use the stairs. | Call 911 in the event of chest pain.
+CON102 | on behalf of | نيابةً عن | B2 | expr | - | - | - | - | I'm calling on behalf of the cardiology team. | On behalf of the team, I want to thank you.
+CON103 | at the expense of | على حساب | C1 | expr | - | - | - | - | Don't study at the expense of your health. | The hospital cut costs at the expense of patient safety.
+CON104 | in the absence of | في غياب | C1 | expr | - | - | - | - | In the absence of symptoms, no treatment is needed. | In the absence of a family member, we called the social worker.
+CON105 | as far as I know | حسب ما أعرف | B2 | expr | - | - | - | - | As far as I know, she has no allergies. | As far as I know, the clinic is open on Saturday.
+CON106 | it goes without saying | غنيّ عن القول | C1 | expr | - | - | - | - | It goes without saying that you must wash your hands. | It goes without saying that patient safety comes first.
+CON107 | needless to say | لا حاجة إلى القول | C1 | expr | - | - | - | - | Needless to say, I was exhausted after the shift. | Needless to say, the family was very upset.

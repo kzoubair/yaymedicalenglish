@@ -1,0 +1,117 @@
+@theme surgery SUR medicine
+# Surgery and operating room
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 17: the operating room, instruments, common operations ---
+SUR001 | operating room | غرفة العمليات | B2 | n | an | - | abbreviation: OR | OR | The patient is on the way to the operating room. | Scrubs and masks are required in the operating room.
+SUR002 | surgeon | جرّاح | B2 | n | a | - | - | - | The surgeon explained the risks of the operation. | She wants to become a heart surgeon.
+SUR003 | anesthesiologist | طبيب التخدير | C1 | n | an | - | - | - | The anesthesiologist will meet you before surgery. | Tell the anesthesiologist about any problems with past anesthesia.
+SUR004 | anesthesia | التخدير | C1 | n | - | - | uncountable | - | Anesthesia carries small risks, especially in older patients. | She was nervous about going under anesthesia.
+SUR005 | local anesthetic | مخدّر موضعي | C1 | n | a | - | - | - | The dentist injected a local anesthetic. | The local anesthetic will numb the area for a few hours.
+SUR006 | scrub nurse | ممرّض الأدوات الجراحية | C1 | n | a | - | - | - | The scrub nurse handed the scalpel to the surgeon. | Count the sponges with the scrub nurse.
+SUR007 | scrub in | يتعقّم ويرتدي اللباس للمشاركة في العملية | C1 | expr | - | - | scrub in on a case | - | The medical student was allowed to scrub in on the case. | Can I scrub in on the appendectomy this afternoon?
+SUR008 | scrubs | ملابس العمليات | B2 | n | - | - | plural noun | - | She changed into scrubs before the operation. | Hospital scrubs are usually blue or green.
+SUR009 | scalpel | مِشرط | C1 | n | a | - | - | - | The surgeon made a small incision with the scalpel. | Never pass a scalpel directly from hand to hand.
+SUR010 | incision | شقّ جراحي | C1 | n | an | - | - | - | The surgeon made a five-centimeter incision. | Keep the incision clean and dry.
+SUR011 | suture | قُطبة جراحية (مصطلح طبي) | C1 | n | a | - | technical; everyday: stitch | - | The wound was closed with sutures. | These sutures will dissolve on their own.
+SUR012 | stitch | يخيط (الجرح) | B2 | v | - | - | stitch sth up | stitch up | The nurse practitioner stitched the cut on his chin. | The wound was stitched in two layers.
+SUR013 | staple | دبّوس جراحي | C1 | n | a | - | - | - | The skin was closed with staples. | We will remove the staples in ten days.
+SUR014 | sterile | معقّم | B2 | adj | - | - | - | - | Keep the field sterile at all times. | Put on sterile gloves before you touch the wound.
+SUR015 | sterilize | يعقّم | B2 | v | - | - | - | - | All instruments are sterilized after use. | Sterilize the skin with an antiseptic solution.
+SUR016 | antiseptic | مطهّر | B2 | n | an | - | - | - | Clean the wound with an antiseptic. | Chlorhexidine is a common antiseptic in hospitals.
+SUR017 | gown | رداء (جراحي أو للمريض) | B2 | n | a | - | - | - | Put on a sterile gown and gloves. | The patient changed into a hospital gown.
+SUR018 | surgical mask | كمامة جراحية | B2 | n | a | - | - | - | Wear a surgical mask in the operating room. | A surgical mask protects the patient from your germs.
+SUR019 | forceps | ملقط جراحي | C1 | n | - | - | plural noun: a pair of forceps | - | Hold the needle with the forceps. | The baby was delivered with forceps.
+SUR020 | retractor | مُبعِد جراحي | C1 | n | a | - | - | - | Hold the retractor still so I can see. | The student held a retractor for two hours.
+SUR021 | clamp | ملقط وعائي | C1 | n | a | - | - | - | Put a clamp on the bleeding vessel. | The surgeon removed the clamp from the artery.
+SUR022 | surgical drain | أنبوب تصريف جراحي | C1 | n | a | - | - | - | A surgical drain was left in the wound. | The surgical drain can be removed when the output is low.
+SUR023 | laparoscopy | تنظير البطن | C1 | n | a | - | - | - | The cyst was removed by laparoscopy. | Laparoscopy leaves only small scars.
+SUR024 | keyhole surgery | جراحة ثقب المفتاح (لغة عامة) | B2 | n | - | - | everyday; technical: laparoscopic surgery | laparoscopic surgery | Keyhole surgery usually means a faster recovery. | She had her gallbladder removed by keyhole surgery.
+SUR025 | open surgery | جراحة مفتوحة | B2 | n | - | - | uncountable | - | Open surgery needs a larger incision. | The surgeon had to switch to open surgery.
+SUR026 | appendectomy | استئصال الزائدة الدودية | C1 | n | an | - | - | - | He had an appendectomy when he was a child. | A laparoscopic appendectomy takes about an hour.
+SUR027 | cholecystectomy | استئصال المرارة | C1 | n | a | - | - | - | She is recovering from a laparoscopic cholecystectomy. | Cholecystectomy is one of the most common operations.
+SUR028 | hysterectomy | استئصال الرحم | C1 | n | a | - | - | - | She had a hysterectomy because of large fibroids. | After a hysterectomy, a woman can no longer get pregnant.
+SUR029 | mastectomy | استئصال الثدي | C1 | n | a | - | - | - | She chose a mastectomy instead of radiation. | Breast reconstruction can be done after a mastectomy.
+SUR030 | cesarean section | الولادة القيصرية | C1 | n | a | - | everyday: C-section | C-section; cesarean | The baby was delivered by cesarean section. | She had an emergency cesarean section.
+SUR031 | amputation | بتر | C1 | n | an | - | - | - | Diabetes is a leading cause of leg amputation. | He needed an amputation below the knee.
+SUR032 | transplant | زرع عضو | B2 | n | a | - | - | - | He is waiting for a kidney transplant. | Transplant patients take drugs to suppress the immune system.
+SUR033 | bypass surgery | جراحة المجازة القلبية | B2 | n | - | - | technical: CABG | CABG | He had bypass surgery for three blocked arteries. | Bypass surgery often uses a vein from the leg.
+SUR034 | graft | طُعم (رقعة نسيجية) | C1 | n | a | - | - | - | A skin graft was taken from her thigh. | The bypass graft is working well.
+SUR035 | implant | غرسة | C1 | n | an | - | - | - | She has a metal implant in her hip. | Breast implants can be seen on a mammogram.
+SUR036 | stent | دعامة | C1 | n | a | - | - | - | A stent was placed in the blocked artery. | Patients with a new stent need two blood thinners for a while.
+SUR037 | pacemaker | ناظم القلب | B2 | n | a | - | - | - | He had a pacemaker fitted for a slow heart rate. | Patients with a pacemaker must tell the MRI staff.
+SUR038 | hip replacement | استبدال مفصل الورك | B2 | n | a | - | - | - | She had a hip replacement after a fracture. | Hip replacement surgery relieves pain from arthritis.
+SUR039 | operate | يُجري عملية جراحية | B2 | v | - | - | operate on sb | - | The surgeon will operate on him tomorrow. | We need to operate as soon as possible.
+SUR040 | excise | يستأصل (جراحيًا) | C1 | v | - | - | noun: excision | - | The surgeon excised the tumor with a clear margin. | The mole was excised and sent to pathology.
+SUR041 | cauterize | يكوي | C1 | v | - | - | - | - | The small bleeding vessel was cauterized. | The doctor cauterized the nosebleed.
+SUR042 | dissect | يشرّح (يفصل الأنسجة) | C1 | v | - | - | noun: dissection | - | Medical students dissect a cadaver in the first year. | The surgeon carefully dissected the nerve away from the tumor.
+SUR043 | insert | يُدخل | B2 | v | - | - | - | - | Insert the catheter into the bladder. | The doctor inserted a chest tube under local anesthetic.
+SUR044 | heal | يلتئم | B2 | v | - | - | - | - | The wound healed well within two weeks. | Smoking slows down the healing of wounds.
+SUR045 | bandage | ضمادة | B2 | n | a | - | - | - | Change the bandage once a day. | The nurse wrapped a bandage around his ankle.
+SUR046 | dressing | غيار الجرح | C1 | n | a | - | - | - | The dressing was changed after surgery. | Keep the dressing dry for 48 hours.
+SUR047 | wound | جرح | B2 | n | a | - | - | - | The wound is red and swollen. | Clean the wound gently with saline.
+SUR048 | wound infection | التهاب الجرح | C1 | n | a | - | - | - | A wound infection delayed her recovery. | Fever on day five may suggest a wound infection.
+SUR049 | elective | اختياري (غير طارئ) | C1 | adj | - | - | opposite: emergency | - | Her hernia repair is an elective operation. | Elective surgery was canceled during the pandemic.
+SUR050 | laparoscopic | تنظيري (بالمنظار) | C1 | adj | - | - | - | - | A laparoscopic operation leaves small scars. | He had a laparoscopic repair of his hernia.
+SUR051 | postoperative | ما بعد الجراحة | C1 | adj | - | - | informal: post-op | post-op | Postoperative pain is controlled with morphine. | She developed a fever on postoperative day two.
+SUR052 | preoperative | ما قبل الجراحة | C1 | adj | - | - | informal: pre-op | pre-op | Preoperative tests include a blood count and an ECG. | The preoperative visit is a week before surgery.
+SUR053 | minimally invasive | طفيف التوغّل | C1 | adj | - | - | - | - | Minimally invasive surgery has a shorter recovery. | The valve was replaced with a minimally invasive procedure.
+SUR054 | go under the knife | يخضع لعملية جراحية (لغة عامة) | C1 | expr | - | - | informal; irregular: went, gone | - | She is nervous about going under the knife. | He went under the knife to repair his knee.
+SUR055 | be put under | يُخدَّر تخديرًا عامًّا | C1 | expr | - | - | informal; irregular: put | - | You will be put under for the operation. | Many children are scared of being put under.
+SUR056 | close up | يغلق (في نهاية العملية) | C1 | expr | - | - | - | - | The resident closed up after the surgeon left. | Let's close up and send the patient to recovery.
+SUR057 | time out | وقفة التحقّق قبل العملية | C1 | n | a | - | - | timeout | The team performs a time out before the first incision. | During the time out, we confirm the patient and the site.
+SUR058 | consent form | استمارة الموافقة | B2 | n | a | - | - | - | Please sign the consent form before the surgery. | The consent form lists the main risks.
+SUR059 | recovery room | غرفة الإفاقة | B2 | n | a | - | technical: PACU | PACU | You will wake up in the recovery room. | Patients stay in the recovery room for about an hour.
+SUR060 | blood loss | فقدان الدم | B2 | n | - | - | uncountable | - | Blood loss during the operation was minimal. | Heavy blood loss can require a transfusion.
+# --- batch 18: procedures, transplants, wound care, the ward ---
+SUR061 | surgical site | موضع الجراحة | C1 | n | a | - | - | - | Mark the surgical site before the patient goes to the OR. | Watch the surgical site for redness or discharge.
+SUR062 | sponge count | عدّ الشاش الجراحي | C1 | n | a | - | - | - | The sponge count was correct at the end of the case. | Never close until the sponge count is complete.
+SUR063 | instrument | أداة جراحية | B2 | n | an | - | - | - | Each instrument is counted before and after surgery. | The nurse prepared the instruments for the case.
+SUR064 | operating table | طاولة العمليات | B2 | n | an | - | - | - | The patient was moved onto the operating table. | Adjust the height of the operating table.
+SUR065 | hemostasis | الإرقاء (إيقاف النزف) | C1 | n | - | - | uncountable | - | Hemostasis was achieved with sutures. | Check for hemostasis before closing.
+SUR066 | adhesion | التصاق | C1 | n | an | - | - | - | Adhesions from old surgery can block the bowel. | The surgeon cut through several adhesions.
+SUR067 | hernia repair | إصلاح الفتق | C1 | n | a | - | - | - | He is scheduled for a hernia repair next month. | A hernia repair usually takes less than an hour.
+SUR068 | outpatient surgery | جراحة دون مبيت | C1 | n | - | - | uncountable | same-day surgery; ambulatory surgery | Cataract removal is usually outpatient surgery. | After outpatient surgery, someone must drive you home.
+SUR069 | general surgery | الجراحة العامة | B2 | n | - | - | uncountable | - | She is doing a residency in general surgery. | General surgery covers operations on the abdomen, the breast and the skin.
+SUR070 | orthopedic surgeon | جرّاح العظام | C1 | n | an | - | - | - | The orthopedic surgeon fixed the fracture with a plate. | An orthopedic surgeon will see you in clinic.
+SUR071 | neurosurgeon | جرّاح الأعصاب | C1 | n | a | - | - | - | The neurosurgeon removed the brain tumor. | A neurosurgeon reviewed the spine MRI.
+SUR072 | fixation | تثبيت الكسر | C1 | n | - | - | internal / external fixation | - | The fracture needs internal fixation. | External fixation is used for some open fractures.
+SUR073 | reduction | ردّ (الخلع أو الكسر) | C1 | n | a | - | - | - | A closed reduction of the shoulder was performed. | The reduction was successful on the first try.
+SUR074 | catheter | قثطار | C1 | n | a | - | - | - | A urinary catheter was inserted before the operation. | Remove the catheter as soon as possible.
+SUR075 | epidural | تخدير فوق الجافية | C1 | n | an | - | - | - | She had an epidural during labor. | An epidural can be used for pain after abdominal surgery.
+SUR076 | nerve block | إحصار عصبي | C1 | n | a | - | - | - | A nerve block numbed his whole arm. | The anesthesiologist gave a nerve block before the knee surgery.
+SUR077 | frozen section | مقطع مجمّد (فحص نسيجي أثناء العملية) | C1 | n | a | - | - | - | A frozen section showed cancer at the margin. | The surgeon waited for the frozen section result.
+SUR078 | margin | هامش الاستئصال | C1 | n | a | - | - | - | The tumor was removed with clear margins. | A positive margin may need more surgery.
+SUR079 | resection | استئصال (جزء من عضو) | C1 | n | a | - | - | - | He had a resection of part of his colon. | Bowel resection is needed for some cases of Crohn's disease.
+SUR080 | anastomosis | مفاغرة | C1 | n | an | anastomoses | - | - | The surgeon created an anastomosis between the two ends of the bowel. | A leak from the anastomosis is a serious complication.
+SUR081 | ostomy | فغر (فتحة صناعية) | C1 | n | an | - | - | stoma | After the surgery, he has an ostomy bag. | The nurse taught her how to care for her ostomy.
+SUR082 | tracheostomy | فغر الرغامى | C1 | n | a | - | - | trach | He needed a tracheostomy after weeks on the ventilator. | Keep the tracheostomy tube clean.
+SUR083 | circumcision | ختان | C1 | n | a | - | - | - | Circumcision of newborn boys is common in the US. | The circumcision was done on the second day of life.
+SUR084 | donor | متبرّع | B2 | n | a | - | - | - | Her brother was a perfect kidney donor. | Organ donors save many lives.
+SUR085 | recipient | المتلقّي | C1 | n | a | - | - | - | The transplant recipient takes medicine to prevent rejection. | The blood type of the donor must match the recipient.
+SUR086 | rejection | رفض العضو المزروع | C1 | n | - | - | - | - | Fever after a transplant may be a sign of rejection. | Drugs are given to prevent rejection of the new kidney.
+SUR087 | anesthetize | يخدّر | C1 | v | - | - | - | - | The patient was anesthetized and intubated. | Young children are often anesthetized with a mask.
+SUR088 | amputate | يبتر | C1 | v | - | - | - | - | The surgeons had to amputate his foot. | Her leg was amputated after a severe infection.
+SUR089 | repair | يُصلح (جراحيًا) | B2 | v | - | - | - | - | The surgeon repaired the torn tendon. | His hernia was repaired last year.
+SUR090 | irrigate | يغسل (الجرح بسائل) | C1 | v | - | - | - | - | Irrigate the wound with plenty of saline. | The abdomen was irrigated before closure.
+SUR091 | debride | ينضّر (يزيل الأنسجة الميتة) | C1 | v | - | - | noun: debridement | - | The burns were debrided in the operating room. | We need to debride the dead tissue.
+SUR092 | ligate | يربط (وعاءً دمويًا) | C1 | v | - | - | - | tie off | The surgeon ligated the bleeding artery. | Ligate the vessel before cutting it.
+SUR093 | schedule | يحدّد موعدًا | B2 | v | - | - | - | - | The operation is scheduled for Monday. | We will schedule your surgery after the tests.
+SUR094 | postpone | يؤجّل | B2 | v | - | - | - | - | The surgery was postponed because she had a cold. | We had to postpone the operation by a week.
+SUR095 | convalesce | يقضي فترة النقاهة | C1 | v | - | - | formal | - | She convalesced at home for six weeks. | Older patients need longer to convalesce.
+SUR096 | intraoperative | أثناء العملية | C1 | adj | - | - | - | - | There were no intraoperative complications. | Intraoperative blood loss was 200 milliliters.
+SUR097 | surgical | جراحي | B2 | adj | - | - | - | - | Surgical treatment is the best option for him. | Surgical masks must be changed between cases.
+SUR098 | uneventful | بلا مضاعفات (دون أحداث تُذكر) | C1 | adj | - | - | - | - | The operation was uneventful and took two hours. | She had an uneventful recovery and went home on day two.
+SUR099 | recovery | التعافي | B2 | n | - | - | - | - | Recovery after knee surgery takes several months. | Walking early speeds up recovery.
+SUR100 | inpatient | مريض مقيم (منوَّم) | C1 | n | an | - | also an adjective | - | Inpatients are seen by the team every morning. | She was treated as an inpatient for five days.
+SUR101 | outpatient | مريض خارجي | C1 | n | an | - | also an adjective | - | He was treated as an outpatient. | The outpatient clinic opens at eight.
+SUR102 | ward | جناح (قسم داخلي) | B2 | n | a | - | - | floor | She was moved from the ICU to the surgical ward. | The surgical ward has thirty beds.
+SUR103 | bedsore | قرحة الفراش (لغة عامة) | B2 | n | a | - | everyday; technical: pressure injury | - | Turn the patient every two hours to prevent bedsores. | He developed a bedsore on his lower back.
+SUR104 | pressure injury | إصابة الضغط (مصطلح طبي) | C1 | n | a | - | technical; everyday: bedsore | pressure ulcer | Pressure injuries are common in immobile patients. | The nurse staged the pressure injury on his heel.
+SUR105 | on the table | على طاولة العمليات | C1 | expr | - | - | informal | - | The patient is already on the table. | He was on the table for six hours.
+SUR106 | make an incision | يُحدث شقًّا جراحيًا | C1 | expr | - | - | irregular: made | - | The surgeon made an incision below the ribs. | Make an incision along the skin crease.
+SUR107 | close the wound | يغلق الجرح | B2 | expr | - | - | - | - | Close the wound with absorbable sutures. | The wound was closed with staples.
+SUR108 | under general anesthesia | تحت التخدير العام | C1 | expr | - | - | - | - | The operation was done under general anesthesia. | Most children have this procedure under general anesthesia.
+SUR109 | sterile field | الحقل المعقّم | C1 | n | a | - | - | - | Do not touch anything outside the sterile field. | The nurse set up the sterile field.
+SUR110 | hand hygiene | نظافة اليدين | B2 | n | - | - | uncountable | - | Hand hygiene prevents hospital infections. | Perform hand hygiene before and after every patient.
+SUR111 | cadaver | جثة للتشريح | C1 | n | a | - | - | - | Each group of students dissects one cadaver. | Treat the cadaver with respect, as a person who donated their body.
+SUR112 | assist | يساعد (في عملية) | B2 | v | - | - | assist with sth | - | The student assisted with the operation. | Two residents assisted the surgeon.

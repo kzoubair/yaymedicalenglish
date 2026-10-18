@@ -1,0 +1,128 @@
+@theme work WRK general
+# Work and colleagues (hospital team, career, US licensing)
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 21: the hospital team, shifts, workplace life ---
+WRK001 | resident | طبيب مقيم | B2 | n | a | - | - | - | She is a second-year resident in internal medicine. | The resident admitted three patients overnight.
+WRK002 | intern | طبيب مقيم في السنة الأولى | B2 | n | an | - | first-year resident | PGY-1 | Every intern spends a month in the ICU. | The intern presented the case to the team.
+WRK003 | medical student | طالب طب | B2 | n | a | - | - | - | The medical students follow the team on rounds. | As a medical student, you can examine patients under supervision.
+WRK004 | clerkship | التدريب السريري لطلاب الطب | C1 | n | a | - | - | - | Her surgery clerkship lasts eight weeks. | Students are graded during each clerkship.
+WRK005 | rotation | دورة تدريبية في قسم | C1 | n | a | - | - | - | My next rotation is in the emergency department. | He enjoyed his rotation in cardiology.
+WRK006 | fellowship | زمالة (تدريب تخصّصي دقيق) | C1 | n | a | - | - | - | After residency, she wants to do a cardiology fellowship. | The fellowship lasts three years.
+WRK007 | fellow | طبيب في برنامج الزمالة | C1 | n | a | - | - | - | The cardiology fellow read the echocardiogram. | Ask the fellow before you call the attending at night.
+WRK008 | residency program | برنامج الإقامة | C1 | n | a | - | - | - | He applied to twenty residency programs. | The residency program interviewed forty applicants.
+WRK009 | program director | مدير البرنامج | C1 | n | a | - | abbreviation: PD | PD | The program director wrote me a strong letter. | Email the program director to ask about the visa policy.
+WRK010 | chief resident | رئيس الأطباء المقيمين | C1 | n | a | - | - | - | The chief resident makes the call schedule. | She was chosen as chief resident in her final year.
+WRK011 | nurse practitioner | ممرّض ممارس متقدّم | C1 | n | a | - | abbreviation: NP | NP | The nurse practitioner sees patients in the clinic. | A nurse practitioner can prescribe most medications.
+WRK012 | physician assistant | مساعد طبيب | C1 | n | a | - | abbreviation: PA | PA | The physician assistant closed the wound. | Physician assistants work with a supervising doctor.
+WRK013 | charge nurse | الممرّض المسؤول عن المناوبة | C1 | n | a | - | - | - | Ask the charge nurse which bed is free. | The charge nurse assigns patients to the nurses.
+WRK014 | social worker | أخصائي اجتماعي | B2 | n | a | - | - | - | The social worker arranged a place in a nursing home. | Ask the social worker to help with insurance problems.
+WRK015 | coworker | زميل عمل | B2 | n | a | - | - | co-worker | My coworkers covered my shift when I was sick. | She gets along well with her coworkers.
+WRK016 | supervisor | مشرف | B2 | n | a | - | - | - | Discuss the problem with your supervisor. | My supervisor signed my evaluation form.
+WRK017 | mentor | موجّه مهني (مرشد) | B2 | n | a | - | - | - | A good mentor can guide your career. | She found a mentor during her research year.
+WRK018 | shift | مناوبة (نوبة عمل) | B2 | n | a | - | - | - | I work a twelve-hour shift tomorrow. | The night shift starts at seven.
+WRK019 | on call | مناوب (تحت الطلب) | B2 | expr | - | - | be on call | - | I'm on call tonight, so I can't come to dinner. | Residents are on call every fourth night on this rotation.
+WRK020 | call room | غرفة المناوبين | C1 | n | a | - | - | - | She slept for two hours in the call room. | The call room has a bed and a phone.
+WRK021 | call schedule | جدول المناوبات | C1 | n | a | - | - | - | The call schedule is posted every month. | Check the call schedule before you plan a vacation.
+WRK022 | workload | عبء العمل | B2 | n | a | - | - | - | The workload in the ICU is very heavy. | Her workload doubled when two residents left.
+WRK023 | burnout | الاحتراق الوظيفي | C1 | n | - | - | uncountable | - | Burnout is common among residents. | Sleep and exercise help prevent burnout.
+WRK024 | duty hours | ساعات العمل المسموح بها | C1 | n | - | - | plural noun | work hours | Duty hours for residents are limited to 80 a week. | Report any duty hour violations to the program.
+WRK025 | deadline | الموعد النهائي | B2 | n | a | - | - | - | The deadline for applications is in September. | She missed the deadline by one day.
+WRK026 | promotion | ترقية | B2 | n | a | - | - | - | She got a promotion to head nurse. | He is hoping for a promotion next year.
+WRK027 | paycheck | الراتب (شيك الأجر) | B2 | n | a | - | - | - | Residents get a paycheck every two weeks. | My first paycheck went to rent.
+WRK028 | benefits | المزايا الوظيفية | B2 | n | - | - | plural noun | - | The job comes with good benefits, including health insurance. | Ask about benefits before you sign the contract.
+WRK029 | job offer | عرض عمل | B2 | n | a | - | - | - | She accepted a job offer in Chicago. | Read the job offer carefully before you sign.
+WRK030 | performance review | تقييم الأداء | C1 | n | a | - | - | - | My performance review is next week. | The performance review was very positive.
+WRK031 | evaluation | تقييم | B2 | n | an | - | - | - | The attending wrote my evaluation at the end of the rotation. | Evaluations are used in the residency application.
+WRK032 | teamwork | العمل الجماعي | B2 | n | - | - | uncountable | - | Teamwork is essential in the operating room. | Good teamwork reduces medical errors.
+WRK033 | hierarchy | التسلسل الهرمي | C1 | n | a | - | - | - | The hospital hierarchy can be hard to understand. | Do not let the hierarchy stop you from speaking up.
+WRK034 | cover | يغطّي (مناوبة زميل) | B2 | v | - | - | cover for sb | - | Can you cover my shift on Friday? | She covered for him while he was at the conference.
+WRK035 | swap | يتبادل | B2 | v | - | - | swap sth with sb | - | I swapped shifts with another resident. | Can we swap call nights next week?
+WRK036 | delegate | يفوّض (مهمّة) | C1 | v | - | - | delegate sth to sb | - | Learn to delegate simple tasks to the team. | The resident delegated the discharge paperwork to the intern.
+WRK037 | prioritize | يُعطي الأولوية | B2 | v | - | - | - | - | Prioritize the sickest patients first. | You need to prioritize when you are on call.
+WRK038 | collaborate | يتعاون | B2 | v | - | - | collaborate with sb | - | Doctors collaborate with nurses and pharmacists. | We collaborated with the surgery team on the case.
+WRK039 | supervise | يُشرف على | B2 | v | - | - | - | - | The attending supervises the residents. | Students must be supervised when they do procedures.
+WRK040 | shadow sb | يرافق (للمراقبة والتعلّم) | C1 | v | - | - | - | - | She shadowed a surgeon for a week before applying. | Premed students often shadow doctors.
+WRK041 | resign | يستقيل | B2 | v | - | - | resign from sth | - | He resigned from the program after his first year. | She resigned to take a job in another state.
+WRK042 | hire | يوظّف | B2 | v | - | - | - | - | The hospital hired twenty new nurses. | They want to hire a second cardiologist.
+WRK043 | demanding | متطلّب (مُرهق) | B2 | adj | - | - | - | - | Surgery is a demanding specialty. | The schedule is demanding, but the training is excellent.
+WRK044 | exhausted | منهك | B2 | adj | - | - | - | - | I was exhausted after the 28-hour shift. | Exhausted doctors make more mistakes.
+WRK045 | overwhelmed | مُثقَل بالضغط | B2 | adj | - | - | - | - | Many interns feel overwhelmed at first. | She felt overwhelmed by the number of patients.
+WRK046 | punctual | دقيق في المواعيد | B2 | adj | - | - | - | - | Always be punctual for morning rounds. | He is punctual and well organized.
+WRK047 | approachable | ودود (يسهل التحدث إليه) | C1 | adj | - | - | - | - | Our attending is kind and very approachable. | Approachable seniors make it easier to ask questions.
+WRK048 | speak up | يعبّر عن رأيه (يرفع صوته) | B2 | expr | - | - | irregular: spoke, spoken | - | Speak up if you see a safety problem. | She spoke up when the dose looked wrong.
+WRK049 | pull an all-nighter | يسهر الليل كله | C1 | expr | - | - | informal | - | I pulled an all-nighter to study for the exam. | Residents should not have to pull an all-nighter every week.
+WRK050 | call in sick | يتّصل ليبلغ بمرضه | B2 | expr | - | - | - | - | Two nurses called in sick today. | If you call in sick, tell the chief resident.
+WRK051 | pick up a shift | يأخذ مناوبة إضافية | B2 | expr | - | - | - | - | She picked up an extra shift on Saturday. | Can anyone pick up a shift this weekend?
+WRK052 | work under pressure | يعمل تحت الضغط | B2 | expr | - | - | - | - | ER doctors must work under pressure. | She works well under pressure.
+WRK053 | learning curve | منحنى التعلّم | C1 | n | a | - | a steep learning curve | - | There is a steep learning curve in the first month of residency. | The new EHR system has a learning curve.
+WRK054 | the big picture | الصورة الكاملة (النظرة الشاملة) | C1 | n | - | - | - | - | Step back and look at the big picture. | A good resident never loses sight of the big picture.
+WRK055 | learn the ropes | يتعلّم أصول العمل | C1 | expr | - | - | informal | - | It takes a few weeks to learn the ropes. | The senior nurse helped me learn the ropes.
+WRK056 | get along with | يتفاهم مع | B2 | expr | - | - | irregular: got, gotten | - | I get along well with the nurses. | She does not get along with her new supervisor.
+WRK057 | step up | يتحمّل مسؤولية أكبر | C1 | expr | - | - | - | - | The intern stepped up when the team was short-staffed. | We need someone to step up and lead the project.
+WRK058 | short-staffed | يعاني من نقص الموظفين | C1 | adj | - | - | - | understaffed | The ward is short-staffed tonight. | When we are short-staffed, everyone works harder.
+WRK059 | professionalism | المهنية | C1 | n | - | - | uncountable | - | Professionalism includes being honest and on time. | A lack of professionalism can lead to dismissal.
+WRK060 | dress code | قواعد اللباس | B2 | n | a | - | - | - | The hospital dress code bans open shoes. | Follow the dress code during interviews.
+WRK061 | white coat | المعطف الأبيض | B2 | n | a | - | - | - | Medical students receive their white coats in the first year. | Some patients feel anxious when they see a white coat.
+WRK062 | badge | بطاقة التعريف | B2 | n | a | - | - | ID badge | Wear your badge at all times in the hospital. | I forgot my badge and could not open the door.
+WRK063 | locker | خزانة شخصية | B2 | n | a | - | - | - | Keep your bag in your locker during the shift. | The residents' lockers are next to the call room.
+# --- batch 22: applying for residency, licensing, career ---
+WRK064 | USMLE | امتحان الترخيص الطبي الأمريكي | C1 | n | - | - | United States Medical Licensing Examination | - | International graduates must pass the USMLE to train in the US. | She studies for the USMLE every evening.
+WRK065 | Step 1 | الخطوة الأولى من امتحان الترخيص | C1 | n | - | - | USMLE Step 1 | - | Step 1 is now graded as pass or fail. | He passed Step 1 on his first attempt.
+WRK066 | Step 2 CK | الخطوة الثانية (المعرفة السريرية) | C1 | n | - | - | Clinical Knowledge | - | Programs look closely at Step 2 CK scores. | She took Step 2 CK after her clinical rotations.
+WRK067 | Step 3 | الخطوة الثالثة من امتحان الترخيص | C1 | n | - | - | - | - | Most residents take Step 3 during their first or second year. | Passing Step 3 is required for a full medical license.
+WRK068 | ECFMG certification | شهادة الهيئة التعليمية للخريجين الأجانب | C1 | n | - | - | Educational Commission for Foreign Medical Graduates | ECFMG certificate | International medical graduates need ECFMG certification to enter residency. | Her ECFMG certification arrived in the mail.
+WRK069 | international medical graduate | خرّيج طب أجنبي | C1 | n | an | - | abbreviation: IMG | IMG | As an international medical graduate, he needed a visa. | Many hospitals in the US hire international medical graduates.
+WRK070 | the Match | نظام المطابقة (توزيع المتقدمين على برامج الإقامة) | C1 | n | - | - | National Resident Matching Program | NRMP | She got into internal medicine through the Match. | The Match results are released in March.
+WRK071 | match | يُقبَل في برنامج إقامة (عبر المطابقة) | C1 | v | - | - | match at / into a program | - | He matched at his first-choice program. | Not every applicant matches on the first try.
+WRK072 | rank list | قائمة ترتيب البرامج | C1 | n | a | - | - | - | Submit your rank list before the deadline. | She put the program in her hometown first on her rank list.
+WRK073 | personal statement | البيان الشخصي (رسالة الدافع) | C1 | n | a | - | - | - | Write your personal statement in clear, simple English. | His personal statement described why he chose pediatrics.
+WRK074 | letter of recommendation | رسالة توصية | B2 | n | a | letters of recommendation | abbreviation: LOR | LOR | Ask for a letter of recommendation at the end of the rotation. | Strong letters of recommendation are very important.
+WRK075 | curriculum vitae | السيرة الذاتية | C1 | n | a | curricula vitae | abbreviation: CV | CV; résumé; resume | Update your curriculum vitae before you apply. | Her curriculum vitae lists three publications.
+WRK076 | interview season | موسم المقابلات | C1 | n | - | - | - | - | Interview season runs from October to January. | He traveled to six cities during interview season.
+WRK077 | observership | فترة مراقبة سريرية (للأطباء الأجانب) | C1 | n | an | - | - | - | She did a two-month observership at a hospital in Boston. | An observership gives you some US clinical experience.
+WRK078 | US clinical experience | الخبرة السريرية في الولايات المتحدة | C1 | n | - | - | abbreviation: USCE | USCE | Many programs require US clinical experience. | He gained US clinical experience through an externship.
+WRK079 | externship | تدريب عملي خارجي | C1 | n | an | - | - | - | An externship lets you take part in patient care. | She found an externship in a community hospital.
+WRK080 | visa sponsorship | كفالة التأشيرة | C1 | n | - | - | uncountable | - | Not all programs offer visa sponsorship. | Ask the program about visa sponsorship before you apply.
+WRK081 | J-1 visa | تأشيرة التبادل جيه-1 | C1 | n | a | - | - | J1 visa | Most foreign residents train on a J-1 visa. | After a J-1 visa, you may have to return home for two years.
+WRK082 | H-1B visa | تأشيرة العمل إتش-1 بي | C1 | n | an | - | - | H1B visa | Some programs sponsor an H-1B visa. | An H-1B visa allows you to work for a specific employer.
+WRK083 | medical license | رخصة مزاولة الطب | C1 | n | a | - | - | - | You need a state medical license to practice independently. | Her medical license was renewed last month.
+WRK084 | state medical board | المجلس الطبي للولاية | C1 | n | a | - | - | medical board | Apply to the state medical board after Step 3. | The state medical board checks every doctor's training.
+WRK085 | licensure | منح رخصة المزاولة | C1 | n | - | - | uncountable | - | Licensure requirements differ from state to state. | The process of licensure can take several months.
+WRK086 | credentialing | اعتماد المؤهّلات | C1 | n | - | - | uncountable | - | Credentialing must be completed before you start work. | The credentialing office needs a copy of your diploma.
+WRK087 | diploma | شهادة التخرّج | B2 | n | a | - | - | - | Send a certified copy of your medical diploma. | His diploma was translated into English.
+WRK088 | transcript | كشف الدرجات | C1 | n | a | - | - | - | The university sent my transcript to the ECFMG. | Request an official transcript from your medical school.
+WRK089 | verify | يتحقّق من | B2 | v | - | - | - | - | The ECFMG verifies every medical diploma with the school. | We need to verify your identity.
+WRK090 | board certification | شهادة البورد (الاختصاص) | C1 | n | - | - | uncountable | - | Board certification shows that a doctor is an expert in a specialty. | She passed her board certification exam in pediatrics.
+WRK091 | board-certified | حاصل على شهادة البورد | C1 | adj | - | - | - | board certified | He is a board-certified cardiologist. | Only board-certified surgeons can join the group.
+WRK092 | continuing medical education | التعليم الطبي المستمر | C1 | n | - | - | abbreviation: CME | CME | Doctors must complete continuing medical education every year. | The conference offers continuing medical education credits.
+WRK093 | specialty | اختصاص | B2 | n | a | - | - | - | Which specialty are you interested in? | Dermatology is a very competitive specialty.
+WRK094 | primary care | الرعاية الأولية | B2 | n | - | - | uncountable | - | There is a shortage of doctors in primary care. | She chose primary care because she likes long-term relationships with patients.
+WRK095 | subspecialty | تخصّص دقيق | C1 | n | a | - | - | - | Cardiology is a subspecialty of internal medicine. | He wants to train in a pediatric subspecialty.
+WRK096 | internal medicine | الطب الباطني | B2 | n | - | - | uncountable | - | Many international graduates train in internal medicine. | Internal medicine residency lasts three years.
+WRK097 | pediatrics | طب الأطفال | B2 | n | - | - | uncountable | - | He loves working with children, so he chose pediatrics. | Pediatrics is a three-year residency.
+WRK098 | competitive | تنافسي | B2 | adj | - | - | - | - | Orthopedic surgery is very competitive. | She is a competitive applicant with high scores.
+WRK099 | applicant | متقدّم (مرشّح) | B2 | n | an | - | - | - | Each applicant has a 20-minute interview. | The program received 3,000 applicants this year.
+WRK100 | application | طلب التقديم | B2 | n | an | - | - | - | Submit your application through ERAS. | Her application was complete by September.
+WRK101 | ERAS | نظام التقديم الإلكتروني للإقامة | C1 | n | - | - | Electronic Residency Application Service | - | ERAS opens for applicants every June. | Upload your letters of recommendation to ERAS.
+WRK102 | submit | يقدّم (يسلّم) | B2 | v | - | - | - | - | Submit the form before Friday. | She submitted her application on the first day.
+WRK103 | enroll | يسجّل (يلتحق) | B2 | v | - | - | enroll in sth | - | He enrolled in a USMLE review course. | Enroll in the health plan within 30 days.
+WRK104 | graduate | يتخرّج | B2 | v | - | - | graduate from sth | - | She graduated from medical school in Cairo. | I will graduate next year and apply for residency.
+WRK105 | qualify | يتأهّل (يستوفي الشروط) | B2 | v | - | - | qualify for sth | - | You qualify for the program if you have passed Step 1. | He did not qualify for the scholarship.
+WRK106 | practice | يمارس (المهنة) | B2 | v | - | - | practice medicine / law | - | She wants to practice medicine in the United States. | He practices family medicine in Texas.
+WRK107 | get one's foot in the door | يحصل على فرصة أولى (يضع قدمه في الباب) | C1 | expr | - | - | informal; irregular: got, gotten | - | An observership can help you get your foot in the door. | Research is a good way to get your foot in the door.
+WRK108 | go the extra mile | يبذل جهدًا إضافيًا | C1 | expr | - | - | irregular: went, gone | - | Good residents go the extra mile for their patients. | She went the extra mile to find the family.
+WRK109 | meet the requirements | يستوفي الشروط | B2 | expr | - | - | irregular: met | - | Make sure you meet the requirements before applying. | He met all the requirements for the license.
+WRK110 | make a good impression | يترك انطباعًا جيدًا | B2 | expr | - | - | irregular: made | - | Arrive early to make a good impression. | She made a good impression on the program director.
+WRK111 | networking | بناء العلاقات المهنية | B2 | n | - | - | uncountable | - | Networking at conferences helped him find a mentor. | Networking is important for international graduates.
+WRK112 | poster | ملصق علمي | B2 | n | a | - | - | - | She presented a poster at the national conference. | Print your poster a week before the meeting.
+WRK113 | publication | منشور علمي | C1 | n | a | - | - | - | He has three publications in medical journals. | Publications make your application stronger.
+WRK114 | scholarship | منحة دراسية | B2 | n | a | - | - | - | She received a scholarship to study in the US. | Apply early for the scholarship.
+WRK115 | tuition | الرسوم الدراسية | B2 | n | - | - | uncountable | - | Medical school tuition is very high in the US. | He works part-time to pay his tuition.
+WRK116 | student loan | قرض دراسي | B2 | n | a | - | - | - | Most American doctors graduate with student loans. | She is still paying off her student loan.
+WRK117 | workplace | مكان العمل | B2 | n | a | - | - | - | The hospital has strict rules about workplace safety. | Harassment in the workplace must be reported.
+WRK118 | harassment | التحرّش (المضايقة) | C1 | n | - | - | uncountable | - | Report any harassment to the program director. | The hospital has a zero-tolerance policy on harassment.
+WRK119 | accountability | المساءلة | C1 | n | - | - | uncountable | - | Accountability means taking responsibility for your mistakes. | The new system improved accountability.
+WRK120 | initiative | المبادرة | C1 | n | - | - | take the initiative | - | She showed initiative by starting a research project. | Take the initiative and ask to do procedures.
+WRK121 | skill set | مجموعة المهارات | C1 | n | a | - | - | skillset | Her skill set includes ultrasound and research. | Residency helps you build a broad skill set.
+WRK122 | eligible | مؤهَّل (يحقّ له) | C1 | adj | - | - | eligible for sth | - | You are eligible for the Match after ECFMG certification. | She is not eligible for the loan.
+WRK123 | accredited | معتمد | C1 | adj | - | - | - | - | The residency program is fully accredited. | Only accredited medical schools are accepted.

@@ -1,0 +1,138 @@
+@theme symptoms SYM medicine
+# Symptoms and clinical signs
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 3: everyday symptom vocabulary ---
+SYM001 | shortness of breath | ضيق النفس (لغة عامة) | B2 | n | - | - | everyday; technical: dyspnea | - | The main symptom is shortness of breath on exertion. | Her shortness of breath gets worse when she lies flat.
+SYM002 | dyspnea | عسر التنفس (مصطلح طبي) | C1 | n | - | - | technical; everyday: shortness of breath | - | The patient reports dyspnea after climbing one flight of stairs. | Sudden dyspnea after surgery should raise concern for a pulmonary embolism.
+SYM003 | fainting | الإغماء (لغة عامة) | B2 | n | - | - | everyday; technical: syncope | - | Fainting in the heat is common in older people. | She had two episodes of fainting while standing in line.
+SYM004 | syncope | الغشي (مصطلح طبي للإغماء) | C1 | n | - | - | technical; everyday: fainting | - | Syncope during exercise needs a full cardiac workup. | He was admitted for syncope of unknown cause.
+SYM005 | itching | الحكة (لغة عامة) | B2 | n | - | - | everyday; technical: pruritus | - | The itching is worse at night. | Antihistamines can relieve the itching.
+SYM006 | pruritus | الحكاك (مصطلح طبي للحكة) | C1 | n | - | - | technical; everyday: itching | - | Generalized pruritus can be a sign of liver disease. | Her pruritus did not respond to topical steroids.
+SYM007 | swelling | التورّم (لغة عامة) | B2 | n | - | - | everyday; technical: edema | - | There is swelling around the left ankle. | The swelling went down after two days of ice and rest.
+SYM008 | edema | الوذمة (مصطلح طبي) | C1 | n | - | - | technical; everyday: swelling | - | He has pitting edema up to both knees. | Pulmonary edema is a complication of heart failure.
+SYM009 | dizziness | الدوخة | B2 | n | - | - | uncountable | - | Dizziness is a common side effect of this drug. | She complains of dizziness when she stands up quickly.
+SYM010 | vertigo | الدوار (الإحساس بدوران المكان) | C1 | n | - | - | uncountable | - | Vertigo makes the room seem to spin. | His vertigo started after a viral infection.
+SYM011 | nausea | الغثيان | B2 | n | - | - | uncountable | - | The chemotherapy caused severe nausea. | Take this medicine with food to reduce nausea.
+SYM012 | fatigue | الإرهاق | B2 | n | - | - | uncountable | - | Fatigue is a common symptom of anemia. | She reports fatigue that does not improve with rest.
+SYM013 | weakness | الضعف (الوهن العضلي) | B2 | n | - | - | uncountable | - | He noticed weakness in his right arm this morning. | Sudden weakness on one side of the body suggests a stroke.
+SYM014 | numbness | الخدر (فقدان الإحساس) | B2 | n | - | - | uncountable | - | She has numbness in her fingertips. | Numbness around the mouth can be a sign of low calcium.
+SYM015 | tingling | التنميل (الوخز) | B2 | n | - | - | uncountable | - | He feels tingling in both feet at night. | The tingling started after he slept on his arm.
+SYM016 | pins and needles | تنميل كوخز الإبر (لغة عامة) | B2 | expr | - | - | informal | - | My foot has pins and needles after sitting for so long. | Patients often describe nerve compression as pins and needles.
+SYM017 | palpitations | الخفقان | C1 | n | - | - | plural noun | - | She feels palpitations when she drinks coffee. | Palpitations with fainting need urgent evaluation.
+SYM018 | wheezing | الأزيز (صفير التنفس) | B2 | n | - | - | uncountable | - | We heard wheezing on both sides of the chest. | Her wheezing improved after two puffs of the inhaler.
+SYM019 | phlegm | البلغم (لغة عامة) | B2 | n | - | - | everyday; technical: sputum | - | He is coughing up yellow phlegm. | The phlegm has been green for three days.
+SYM020 | sputum | القشع (مصطلح طبي) | C1 | n | - | - | technical; everyday: phlegm | - | A sputum sample was sent for culture. | She is coughing up blood-stained sputum.
+SYM021 | heartburn | حرقة المعدة | B2 | n | - | - | uncountable | - | Spicy food gives him heartburn. | Her heartburn is worse when she lies down after meals.
+SYM022 | bloating | الشعور بالنفخة (لغة عامة) | B2 | n | - | - | uncountable | - | She complains of bloating after eating dairy. | Bloating and weight loss need further tests.
+SYM023 | constipation | الإمساك | B2 | n | - | - | uncountable | - | Constipation is a common side effect of opioids. | Drink more water to prevent constipation.
+SYM024 | diarrhea | الإسهال | B2 | n | - | - | uncountable | - | He has had watery diarrhea for two days. | Some antibiotics cause diarrhea as a side effect.
+SYM025 | rash | طفح جلدي | B2 | n | a | - | - | - | She developed a rash on her chest after starting the antibiotic. | The rash is red, raised and itchy.
+SYM026 | lump | كتلة (لغة عامة) | B2 | n | a | - | - | - | She found a lump in her left breast. | The lump in his neck is painless and hard.
+SYM027 | bruise | كدمة | B2 | n | a | - | - | - | She has a large bruise on her thigh. | He has had a bruise on his arm since he started taking blood thinners.
+SYM028 | jaundice | اليرقان | C1 | n | - | - | uncountable | - | Jaundice makes the skin and the eyes look yellow. | The newborn developed jaundice on day two.
+SYM029 | pallor | الشحوب | C1 | n | - | - | uncountable | - | Pallor of the conjunctivae suggests anemia. | Her pallor and fatigue worried the nurse.
+SYM030 | cyanosis | الزُّراق (ازرقاق الجلد) | C1 | n | - | - | uncountable | - | Central cyanosis is a sign of low oxygen. | The child had cyanosis of the lips.
+SYM031 | chills | القشعريرة | B2 | n | - | - | plural noun | - | He had a fever with chills overnight. | Chills and back pain may mean a kidney infection.
+SYM032 | night sweats | التعرق الليلي | B2 | n | - | - | plural noun | - | Night sweats and weight loss can be signs of tuberculosis. | She has had night sweats for two weeks.
+SYM033 | loss of appetite | فقدان الشهية (لغة عامة) | B2 | n | - | - | everyday; technical: anorexia | - | He reports loss of appetite and fatigue. | Loss of appetite is common in older patients with depression.
+SYM034 | weight loss | فقدان الوزن | B2 | n | - | - | uncountable | - | Unintentional weight loss must be investigated. | She had a weight loss of ten pounds in one month.
+SYM035 | insomnia | الأرق | B2 | n | - | - | uncountable | - | Insomnia is common during residency. | Her insomnia improved with better sleep habits.
+SYM036 | hoarseness | بحّة الصوت | C1 | n | - | - | uncountable | - | Hoarseness for more than three weeks needs a laryngoscopy. | Smoking can cause chronic hoarseness.
+SYM037 | blurred vision | تشوّش الرؤية | B2 | n | - | - | uncountable | - | High blood sugar can cause blurred vision. | She noticed blurred vision in one eye.
+SYM038 | double vision | ازدواج الرؤية (لغة عامة) | B2 | n | - | - | everyday; technical: diplopia | - | He has double vision when he looks to the left. | Sudden double vision can be a sign of a stroke.
+SYM039 | diplopia | الشَّفع (مصطلح طبي لازدواج الرؤية) | C1 | n | - | - | technical; everyday: double vision | - | Diplopia that disappears when one eye is covered is binocular. | The patient reports diplopia on lateral gaze.
+SYM040 | tremor | رُعاش (رجفة) | C1 | n | a | - | - | - | He has a tremor in both hands. | A resting tremor is typical of Parkinson's disease.
+SYM041 | seizure | نوبة اختلاجية (نوبة صرع) | B2 | n | a | - | - | - | She had a seizure at school this morning. | The seizure lasted about two minutes.
+SYM042 | cramp | تشنّج عضلي | B2 | n | a | - | - | - | He woke up with a cramp in his calf. | Menstrual cramps often start a day before the period.
+SYM043 | stiffness | التيبّس | B2 | n | - | - | uncountable | - | Morning stiffness lasts more than an hour in rheumatoid arthritis. | Neck stiffness with fever may suggest meningitis.
+SYM044 | tenderness | الإيلام عند الجس | C1 | n | - | - | uncountable | - | There is tenderness in the right lower quadrant. | Tenderness over the spine needs an X-ray.
+SYM045 | inflammation | الالتهاب | B2 | n | - | - | uncountable | - | Ice helps reduce inflammation after an injury. | The blood test shows signs of inflammation.
+SYM046 | discharge | إفرازات (سائل يخرج من الجسم) | B2 | n | - | - | also: discharge from the hospital | - | Green discharge is coming from his left ear. | She noticed vaginal discharge with a bad smell.
+SYM047 | drowsiness | النعاس | B2 | n | - | - | uncountable | - | This antihistamine may cause drowsiness. | Increasing drowsiness after a head injury is a warning sign.
+SYM048 | confusion | التشوّش الذهني | B2 | n | - | - | uncountable | - | Sudden confusion in older adults is often caused by infection. | Her confusion improved after we corrected the low sodium.
+SYM049 | incontinence | السلس (عدم التحكم بالبول أو البراز) | C1 | n | - | - | uncountable | - | Urinary incontinence is common after childbirth. | He developed new incontinence after the back injury.
+SYM050 | chest tightness | انقباض في الصدر | B2 | n | - | - | uncountable | - | She describes chest tightness when she walks in the cold. | Chest tightness with sweating needs an ECG immediately.
+SYM051 | ache | يؤلم (ألمًا مستمرًا) | B2 | v | - | - | - | - | My back aches after a long shift. | Her joints ache when the weather changes.
+SYM052 | throb | ينبض بالألم | C1 | v | - | - | - | - | His finger is throbbing after he hit it with a hammer. | The headache throbs on one side of her head.
+SYM053 | itch | يسبّب حكة (يحكّ) | B2 | v | - | - | - | - | The rash itches more at night. | His eyes itch every spring.
+SYM054 | swell | يتورّم | B2 | v | - | - | irregular: swelled, swollen; often: swell up | swell up | Her ankles swell by the end of the day. | His knee swelled up after the fall.
+SYM055 | faint | يُغمى عليه | B2 | v | - | - | - | - | He fainted while having his blood drawn. | Some people faint at the sight of blood.
+SYM056 | wheeze | يصدر أزيزًا عند التنفس | C1 | v | - | - | - | - | The child wheezes whenever she has a cold. | He started to wheeze after the bee sting.
+SYM057 | radiate | ينتشر (الألم إلى موضع آخر) | C1 | v | - | - | radiate to sth | - | The pain radiates to his left arm. | Her back pain radiates down the back of her leg.
+SYM058 | worsen | يسوء (يتفاقم) | B2 | v | - | - | - | - | His cough has worsened over the past week. | Symptoms usually worsen at night.
+SYM059 | subside | يخفّ (يهدأ) | C1 | v | - | - | - | - | The pain subsided after a dose of morphine. | The swelling should subside in a few days.
+SYM060 | shiver | يرتجف (من البرد) | B2 | v | - | - | - | - | She was shivering despite two blankets. | Patients often shiver as the fever rises.
+SYM061 | sweat | يتعرّق | B2 | v | - | - | - | - | He was sweating heavily when he arrived in the ER. | She sweats at night and has lost weight.
+SYM062 | dizzy | دائخ | B2 | adj | - | - | - | - | She feels dizzy when she stands up. | The new medication makes him dizzy.
+SYM063 | lightheaded | يشعر بخفة في الرأس (على وشك الإغماء) | B2 | adj | - | - | - | light-headed | He felt lightheaded after giving blood. | Stand up slowly if you feel lightheaded.
+SYM064 | nauseous | مصاب بالغثيان | B2 | adj | - | - | - | nauseated | The smell of food makes her nauseous. | He felt nauseous after the anesthesia.
+SYM065 | itchy | مثير للحكة | B2 | adj | - | - | - | - | The rash is red and itchy. | Her scalp has been itchy for weeks.
+SYM066 | numb | خدِر (فاقد الإحساس) | B2 | adj | - | - | - | - | His lips felt numb after the dental injection. | Two of her toes are numb.
+SYM067 | swollen | متورّم | B2 | adj | - | - | - | - | Her left leg is red and swollen. | The glands in his neck are swollen.
+SYM068 | tender | مؤلم عند اللمس | B2 | adj | - | - | - | - | The abdomen is tender in the right upper quadrant. | Her breasts are tender before her period.
+SYM069 | sore | موجوع (متألم) | B2 | adj | - | - | - | - | My muscles are sore after the gym. | He has a sore throat and a mild fever.
+SYM070 | pale | شاحب | B2 | adj | - | - | - | - | She looks pale and tired. | The child became pale and sweaty during the blood draw.
+SYM071 | drowsy | نعسان | B2 | adj | - | - | - | - | This cough syrup can make you drowsy. | The patient is drowsy but easy to wake.
+SYM072 | bloated | منتفخ البطن | B2 | adj | - | - | - | - | I feel bloated after every meal. | She looks bloated and uncomfortable.
+SYM073 | feverish | محموم (لغة عامة) | B2 | adj | - | - | everyday; technical: febrile | - | The child felt feverish during the night. | He is feverish and has a cough.
+SYM074 | short of breath | يعاني من ضيق النفس | B2 | expr | - | - | be / get short of breath | - | She gets short of breath after walking one block. | Tell me if you feel short of breath at night.
+SYM075 | pass out | يفقد الوعي (لغة عامة) | B2 | expr | - | - | informal | - | He passed out in the shower. | Did you pass out or just feel dizzy?
+SYM076 | throw up | يتقيّأ (لغة عامة) | B2 | expr | - | - | informal; irregular: threw, thrown | - | The child threw up twice in the car. | She throws up every morning during her pregnancy.
+SYM077 | come and go | يظهر ويختفي (متقطّع) | B2 | expr | - | - | - | - | The pain comes and goes. | Her palpitations come and go throughout the day.
+SYM078 | run a fever | ترتفع حرارته (يُصاب بالحمى) | B2 | expr | - | - | irregular: ran, run | - | The baby has been running a fever since yesterday. | If he runs a fever again, bring him back.
+# --- batch 4: technical terms, pain descriptors, course of symptoms ---
+SYM079 | hemoptysis | نفث الدم (مصطلح طبي) | C1 | n | - | - | technical; everyday: coughing up blood | - | Hemoptysis in a smoker requires a chest CT. | Massive hemoptysis is a medical emergency.
+SYM080 | cough up blood | يسعل دمًا (لغة عامة) | B2 | expr | - | - | everyday; technical: hemoptysis | - | He has been coughing up blood for a week. | Call us if you cough up blood again.
+SYM081 | hematemesis | القيء الدموي (مصطلح طبي) | C1 | n | - | - | technical; everyday: vomiting blood | - | Hematemesis suggests bleeding from the upper GI tract. | He presented with hematemesis after a night of heavy drinking.
+SYM082 | vomit blood | يتقيّأ دمًا (لغة عامة) | B2 | expr | - | - | everyday; technical: hematemesis | - | She vomited blood twice this morning. | If you vomit blood, go to the ER right away.
+SYM083 | hematuria | البيلة الدموية (مصطلح طبي) | C1 | n | - | - | technical; everyday: blood in the urine | - | Painless hematuria in an older man may indicate bladder cancer. | The urinalysis showed microscopic hematuria.
+SYM084 | blood in the urine | دم في البول (لغة عامة) | B2 | n | - | - | everyday; technical: hematuria | - | He noticed blood in the urine after a long run. | Blood in the urine should always be checked.
+SYM085 | dysuria | عسر التبول (مصطلح طبي) | C1 | n | - | - | technical; everyday: painful urination | painful urination | Dysuria and frequency suggest a urinary tract infection. | She denies dysuria or fever.
+SYM086 | dysphagia | عسر البلع (مصطلح طبي) | C1 | n | - | - | technical; everyday: trouble swallowing | - | Progressive dysphagia to solids may indicate esophageal cancer. | After the stroke, he developed dysphagia.
+SYM087 | trouble swallowing | صعوبة البلع (لغة عامة) | B2 | n | - | - | everyday; technical: dysphagia | difficulty swallowing | She has trouble swallowing pills. | Trouble swallowing after a stroke increases the risk of pneumonia.
+SYM088 | malaise | التوعّك | C1 | n | - | - | uncountable | - | He reports fever and general malaise. | Malaise is often the first symptom of a viral illness.
+SYM089 | lethargy | الخمول | C1 | n | - | - | uncountable | - | The infant's lethargy is a red flag. | Lethargy and confusion may indicate sepsis in older patients.
+SYM090 | diaphoresis | التعرّق الغزير (مصطلح طبي) | C1 | n | - | - | technical; everyday: sweating | - | Chest pain with diaphoresis suggests a heart attack. | The patient was pale with marked diaphoresis.
+SYM091 | photophobia | رُهاب الضوء | C1 | n | - | - | uncountable | - | Headache with photophobia and neck stiffness suggests meningitis. | She has photophobia during her migraines.
+SYM092 | tinnitus | طنين الأذن | C1 | n | - | - | uncountable | - | He complains of tinnitus in his left ear. | High doses of aspirin can cause tinnitus.
+SYM093 | nocturia | التبول الليلي | C1 | n | - | - | uncountable | - | Nocturia is a common symptom of an enlarged prostate. | She has nocturia three times a night.
+SYM094 | polyuria | البُوال (كثرة التبول) | C1 | n | - | - | uncountable | - | Polyuria and thirst are classic signs of diabetes. | His polyuria began after he started lithium.
+SYM095 | amenorrhea | انقطاع الطمث | C1 | n | - | - | uncountable | - | Pregnancy is the most common cause of amenorrhea. | She has had amenorrhea for six months.
+SYM096 | hallucination | هلوسة | C1 | n | a | - | - | - | He reports visual hallucinations at night. | Alcohol withdrawal can cause hallucinations.
+SYM097 | agitation | الهياج | C1 | n | - | - | uncountable | - | The patient's agitation worsened at night. | Agitation is common in delirium.
+SYM098 | anorexia | فقدان الشهية (مصطلح طبي) | C1 | n | - | - | technical; everyday: loss of appetite | - | Anorexia and weight loss are common in advanced cancer. | In medical notes, anorexia means loss of appetite, not an eating disorder.
+SYM099 | flank pain | ألم الخاصرة | C1 | n | - | - | uncountable | - | Flank pain with fever suggests pyelonephritis. | He has severe left flank pain that comes in waves.
+SYM100 | abdominal distension | انتفاخ البطن (مصطلح طبي) | C1 | n | - | - | technical; everyday: bloating | - | Abdominal distension and vomiting suggest bowel obstruction. | The nurse noted increasing abdominal distension.
+SYM101 | clubbing | تعجّر الأصابع | C1 | n | - | - | uncountable | - | Finger clubbing can be a sign of lung cancer. | Clubbing is seen in several chronic lung diseases.
+SYM102 | rigors | النوافض (رعشة شديدة مع الحمى) | C1 | n | - | - | plural noun | - | He had rigors and a temperature of 104 degrees. | Rigors suggest that bacteria have entered the bloodstream.
+SYM103 | febrile | محموم (مصطلح طبي) | C1 | adj | - | - | technical; everyday: feverish | - | The child is febrile and irritable. | She has been febrile for three days despite antibiotics.
+SYM104 | afebrile | غير محموم (بلا حمى) | C1 | adj | - | - | technical | - | The patient has been afebrile for 48 hours. | She is afebrile and her pain is improving.
+SYM105 | lethargic | خامل | C1 | adj | - | - | - | - | The baby is lethargic and feeding poorly. | He became lethargic and confused overnight.
+SYM106 | clammy | رطب بارد (دبِق) | C1 | adj | - | - | - | - | His skin was cold and clammy. | She looked pale and clammy in the waiting room.
+SYM107 | jaundiced | مصاب باليرقان | C1 | adj | - | - | - | - | The patient looks jaundiced this morning. | His eyes are jaundiced and his urine is dark.
+SYM108 | cyanotic | مزرَقّ | C1 | adj | - | - | - | - | The baby became cyanotic during feeding. | Her lips were cyanotic on arrival.
+SYM109 | intermittent | متقطّع | C1 | adj | - | - | - | - | She has intermittent chest pain. | The pain is intermittent and lasts a few minutes.
+SYM110 | persistent | مستمر (مُلحّ) | B2 | adj | - | - | - | - | He has had a persistent cough since the winter. | Persistent headaches need further investigation.
+SYM111 | excruciating | مبرّح (لا يُطاق) | C1 | adj | - | - | - | - | The pain of a kidney stone can be excruciating. | She describes excruciating pain in her lower back.
+SYM112 | dull | كليل (ألم خفيف مستمر) | B2 | adj | - | - | - | - | He has a dull ache in his lower back. | The pain is dull and constant.
+SYM113 | sharp | حادّ (ألم واخز) | B2 | adj | - | - | - | - | She feels a sharp pain when she breathes in. | The pain is sharp and gets worse when he moves.
+SYM114 | stabbing | طاعن (ألم كالطعنة) | B2 | adj | - | - | - | - | He describes a stabbing pain in his chest. | The stabbing pain started suddenly.
+SYM115 | burning | حارق (ألم كالحرق) | B2 | adj | - | - | - | - | She feels a burning pain when she urinates. | He has a burning sensation in his feet.
+SYM116 | crushing | ساحق (ألم ضاغط شديد) | C1 | adj | - | - | - | - | He describes crushing chest pain. | The crushing pain spread to his jaw.
+SYM117 | colicky | مغصي (يأتي على شكل موجات) | C1 | adj | - | - | - | - | Kidney stones cause colicky pain. | She has colicky abdominal pain and vomiting.
+SYM118 | productive | منتج (سعال مع بلغم) | C1 | adj | - | - | productive cough | - | He has a productive cough with green sputum. | Her cough became productive on the third day.
+SYM119 | onset | بداية (ظهور الأعراض) | C1 | n | an | - | - | - | The headache had a sudden onset while she was at the gym. | What was the onset of the pain like?
+SYM120 | flare-up | هجمة (تفاقم مفاجئ) | B2 | n | a | - | - | flare | She had a flare-up of her eczema. | Stress can trigger a flare-up of arthritis.
+SYM121 | red flag | علامة إنذار | C1 | n | a | - | - | - | Weight loss is a red flag in a patient with back pain. | Always ask about red flags such as night sweats.
+SYM122 | sensation | إحساس | B2 | n | a | - | - | - | She has a burning sensation in her chest. | He lost sensation in two fingers after the cut.
+SYM123 | discomfort | انزعاج (ألم خفيف) | B2 | n | - | - | uncountable | - | She feels some discomfort in her stomach after meals. | The injection may cause mild discomfort.
+SYM124 | deteriorate | يتدهور | C1 | v | - | - | - | - | His condition deteriorated rapidly overnight. | Her breathing deteriorated and she was moved to the ICU.
+SYM125 | aggravate | يفاقم (يزيد سوءًا) | C1 | v | - | - | - | - | Walking aggravates the pain in his hip. | Is the pain aggravated by deep breathing?
+SYM126 | relieve | يخفّف (يسكّن) | B2 | v | - | - | - | - | Does anything relieve the pain? | The pain is relieved by sitting forward.
+SYM127 | tingle | ينمّل (يوخز) | B2 | v | - | - | - | - | My fingers tingle when I raise my arms. | Her lips tingled after she ate the shrimp.
+SYM128 | feel faint | يشعر بأنه على وشك الإغماء | B2 | expr | - | - | irregular: felt | - | She felt faint in the hot waiting room. | Sit down if you feel faint.
+SYM129 | out of the blue | فجأة دون سابق إنذار | C1 | expr | - | - | informal | - | The pain started out of the blue. | Out of the blue, she lost the vision in one eye.
+SYM130 | on and off | بشكل متقطّع (من حين لآخر) | B2 | expr | - | - | - | off and on | I've had this cough on and off for a month. | The pain has been on and off since Monday.
+SYM131 | sick to one's stomach | يشعر بالغثيان (لغة عامة) | B2 | expr | - | - | American, informal | - | I've felt sick to my stomach since breakfast. | The smell made him sick to his stomach.
+SYM132 | keep sb up at night | يمنعه من النوم ليلًا | B2 | expr | - | - | irregular: kept | - | The itching keeps her up at night. | Does the cough keep you up at night?
+SYM133 | bear weight | يستند بوزنه على الطرف | C1 | expr | - | - | irregular: bore, borne | - | He cannot bear weight on his right leg. | She was able to bear weight on the ankle without pain.

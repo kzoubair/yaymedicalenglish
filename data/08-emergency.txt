@@ -1,0 +1,121 @@
+@theme emergency EMR medicine
+# Emergency and intensive care
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 15: emergency department, resuscitation, ICU ---
+EMR001 | emergency department | قسم الطوارئ | B2 | n | an | - | also: emergency room (ER) | ER; ED; emergency room | She was taken to the emergency department by ambulance. | The emergency department is busiest on weekend nights.
+EMR002 | triage | الفرز (حسب الأولوية) | C1 | n | - | - | uncountable | - | The triage nurse sees every patient first. | Triage decides who is treated first.
+EMR003 | paramedic | مسعف | B2 | n | a | - | - | EMT | The paramedics started CPR in the ambulance. | A paramedic gave him aspirin on the way to the hospital.
+EMR004 | cardiac arrest | توقّف القلب | C1 | n | a | - | - | - | He went into cardiac arrest in the waiting room. | Survival after cardiac arrest depends on early CPR.
+EMR005 | cardiopulmonary resuscitation | الإنعاش القلبي الرئوي | C1 | n | - | - | abbreviation: CPR | CPR | Start cardiopulmonary resuscitation if there is no pulse. | All residents are trained in cardiopulmonary resuscitation.
+EMR006 | defibrillator | جهاز إزالة الرجفان | C1 | n | a | - | automated external defibrillator (AED) | AED | Use the defibrillator as soon as it arrives. | There is a defibrillator next to the elevators.
+EMR007 | defibrillate | يصدم القلب كهربائيًا (يزيل الرجفان) | C1 | v | - | - | - | - | We defibrillated him twice before his heart restarted. | We defibrillated her once and her rhythm returned.
+EMR008 | resuscitate | يُنعش | C1 | v | - | - | - | - | The team resuscitated her after twenty minutes. | Some patients choose not to be resuscitated.
+EMR009 | code | نداء الإنعاش (كود) | C1 | n | a | - | also: code blue | code blue | A code was called on the fifth floor. | The resident ran the code until the attending arrived.
+EMR010 | crash cart | عربة الإنعاش | C1 | n | a | - | - | - | Bring the crash cart to room 12. | Check the crash cart at the start of every shift.
+EMR011 | airway | مجرى الهواء | B2 | n | an | - | - | - | Secure the airway before anything else. | His airway is at risk because of the facial burns.
+EMR012 | intubate | يُدخل أنبوب التنفس (يُنبّب) | C1 | v | - | - | - | - | We had to intubate him because he could not protect his airway. | She was intubated in the emergency department.
+EMR013 | intubation | التنبيب الرغامي | C1 | n | - | - | uncountable | - | Intubation is needed if the patient cannot breathe on his own. | Prepare all the drugs before intubation.
+EMR014 | ventilator | جهاز التنفس الاصطناعي | B2 | n | a | - | informal: vent | - | He has been on a ventilator for three days. | The ventilator breathes for the patient.
+EMR015 | mechanical ventilation | التهوية الآلية | C1 | n | - | - | uncountable | - | Patients on mechanical ventilation need sedation. | Mechanical ventilation can damage the lungs.
+EMR016 | oxygen mask | قناع الأكسجين | B2 | n | an | - | - | - | Put an oxygen mask on the patient right away. | A simple oxygen mask delivers up to 60 percent oxygen.
+EMR017 | shock | الصدمة (هبوط الدوران) | C1 | n | - | - | medical sense: poor perfusion | - | He is in septic shock and needs fluids. | Shock is a state of poor perfusion of the organs.
+EMR018 | hemorrhage | النزف (مصطلح طبي) | C1 | n | a | - | technical; everyday: bleeding | - | She had a hemorrhage after giving birth. | A brain hemorrhage can cause sudden coma.
+EMR019 | bleeding | النزيف (لغة عامة) | B2 | n | - | - | everyday; technical: hemorrhage | - | Apply firm pressure to stop the bleeding. | The bleeding stopped after ten minutes of pressure.
+EMR020 | trauma | الرَّضح (الإصابة الجسدية) | C1 | n | - | - | uncountable | - | He was brought in after major trauma. | The trauma team is waiting in bay 3.
+EMR021 | concussion | ارتجاج الدماغ | B2 | n | a | - | - | - | He had a concussion after the football game. | Rest is important after a concussion.
+EMR022 | burn | حرق | B2 | n | a | - | - | - | She has second-degree burns on her arm. | Cool the burn under running water for 20 minutes.
+EMR023 | laceration | جرح قطعي (تمزّق جلدي) | C1 | n | a | - | technical; everyday: cut | - | He has a deep laceration on his forehead. | The laceration needed ten stitches.
+EMR024 | stitches | غُرز جراحية (لغة عامة) | B2 | n | - | - | plural; technical: sutures | - | She needs stitches for the cut on her hand. | The stitches can be removed in ten days.
+EMR025 | poisoning | تسمّم | B2 | n | - | - | uncountable | - | Carbon monoxide poisoning causes headache and confusion. | Call poison control if you suspect poisoning.
+EMR026 | anaphylaxis | التأق (صدمة تحسّسية) | C1 | n | - | - | uncountable | - | Anaphylaxis is treated first with epinephrine. | Peanuts can cause anaphylaxis in sensitive people.
+EMR027 | epinephrine | الإبينفرين (الأدرينالين) | C1 | n | - | - | uncountable | adrenaline | Give epinephrine into the thigh muscle. | Epinephrine is used during cardiac arrest.
+EMR028 | choke | يختنق (بجسم عالق) | B2 | v | - | - | choke on sth | - | The child choked on a piece of candy. | He is choking and cannot speak.
+EMR029 | Heimlich maneuver | مناورة هايمليك | C1 | n | - | - | used with "the" | abdominal thrusts | The waiter performed the Heimlich maneuver on the choking man. | Learn the Heimlich maneuver in a first aid class.
+EMR030 | first aid | الإسعافات الأولية | B2 | n | - | - | uncountable | - | She gave first aid until the ambulance arrived. | Every hospital worker should know basic first aid.
+EMR031 | stretcher | نقالة | B2 | n | a | - | - | gurney | The patient was carried in on a stretcher. | Lift the stretcher on the count of three.
+EMR032 | wheelchair | كرسي متحرّك | B2 | n | a | - | - | - | He left the hospital in a wheelchair. | Bring a wheelchair for the patient in room 4.
+EMR033 | unconscious | فاقد الوعي | B2 | adj | - | - | - | - | He was found unconscious on the floor. | An unconscious patient cannot protect his airway.
+EMR034 | unresponsive | لا يستجيب | C1 | adj | - | - | - | - | The patient is unresponsive even to pain. | She was found unresponsive in her bed.
+EMR035 | stable | مستقر | B2 | adj | - | - | - | - | After two liters of fluid, his vital signs are stable. | She is stable enough to go to the ward.
+EMR036 | unstable | غير مستقر | B2 | adj | - | - | - | - | The patient is hemodynamically unstable. | An unstable patient should not go to the CT scanner.
+EMR037 | critically ill | في حالة حرجة | C1 | adj | - | - | - | - | Critically ill patients are cared for in the ICU. | She has been critically ill for a week.
+EMR038 | intensive care unit | وحدة العناية المركزة | B2 | n | an | - | abbreviation: ICU | ICU | He was transferred to the intensive care unit. | Visiting hours in the intensive care unit are limited.
+EMR039 | life support | أجهزة دعم الحياة | B2 | n | - | - | uncountable | - | He has been on life support since the accident. | The family decided to withdraw life support.
+EMR040 | sedation | التهدئة الدوائية | C1 | n | - | - | uncountable | - | The patient needs sedation for the procedure. | We stop sedation every morning to check his neurological status.
+EMR041 | Glasgow Coma Scale | مقياس غلاسكو للغيبوبة | C1 | n | - | - | used with "the"; abbreviation: GCS | GCS | His Glasgow Coma Scale score is 8. | Use the Glasgow Coma Scale to assess consciousness.
+EMR042 | coma | غيبوبة | B2 | n | a | - | - | - | She was in a coma for two weeks. | A very low blood sugar can cause a coma.
+EMR043 | status epilepticus | الحالة الصرعية | C1 | n | - | - | uncountable | - | A seizure lasting more than five minutes is status epilepticus. | Status epilepticus is treated with IV benzodiazepines.
+EMR044 | respiratory failure | القصور التنفسي | C1 | n | - | - | uncountable | - | He developed respiratory failure and was intubated. | Severe pneumonia can lead to respiratory failure.
+EMR045 | respiratory distress | الضائقة التنفسية | C1 | n | - | - | uncountable | - | The child is in respiratory distress. | Signs of respiratory distress include nasal flaring and retractions.
+EMR046 | hypotension | هبوط ضغط الدم | C1 | n | - | - | opposite: hypertension | low blood pressure | Hypotension after the fall suggests internal bleeding. | Sepsis can cause severe hypotension.
+EMR047 | tachycardia | تسرّع القلب | C1 | n | - | - | uncountable | - | Pain and fever can cause tachycardia. | She has a sinus tachycardia of 130.
+EMR048 | bradycardia | بطء القلب | C1 | n | - | - | uncountable | - | High doses of beta-blockers can cause bradycardia. | Athletes often have bradycardia at rest.
+EMR049 | hypoxia | نقص الأكسجة | C1 | n | - | - | uncountable | - | Hypoxia can cause confusion and agitation. | Give oxygen to correct the hypoxia.
+EMR050 | fluid resuscitation | الإنعاش بالسوائل | C1 | n | - | - | uncountable | - | Start fluid resuscitation with two liters of saline. | Fluid resuscitation is the first step in septic shock.
+EMR051 | central line | قثطرة وريدية مركزية | C1 | n | a | - | - | central venous catheter | We placed a central line in the internal jugular vein. | Central lines carry a risk of infection.
+EMR052 | arterial line | خطّ شرياني | C1 | n | an | - | informal: art line | art line; A-line | An arterial line allows continuous blood pressure monitoring. | Put in an arterial line before starting the pressors.
+EMR053 | vasopressor | رافع للضغط (قابض للأوعية) | C1 | n | a | - | informal: pressor | pressor | She needs a vasopressor to keep her blood pressure up. | Norepinephrine is the first-line vasopressor in septic shock.
+EMR054 | stabilize | يُثبّت حالته (يجعله مستقرًا) | B2 | v | - | - | - | - | Stabilize the patient before you transfer him. | Her blood pressure stabilized after the fluids.
+EMR055 | transfer | ينقل (مريضًا) | B2 | v | - | - | transfer sb to sth | - | He was transferred to a trauma center. | We will transfer her to the ICU tonight.
+EMR056 | admit | يُدخل إلى المستشفى | B2 | v | - | - | admit sb to sth | - | We are going to admit you for observation. | She was admitted to the ICU with sepsis.
+EMR057 | collapse | ينهار (يسقط فجأة) | B2 | v | - | - | - | - | He collapsed while running a marathon. | She collapsed in the parking lot.
+EMR058 | bleed | ينزف | B2 | v | - | - | irregular: bled, bled | - | The wound is still bleeding. | He bled heavily after the injury.
+EMR059 | revive | يُنعش (يعيد الوعي) | C1 | v | - | - | - | - | Paramedics revived him with naloxone. | They tried to revive her, but it was too late.
+EMR060 | call a code | يُطلق نداء الإنعاش | C1 | expr | - | - | - | - | The nurse called a code when the patient stopped breathing. | Call a code and start chest compressions.
+EMR061 | life or death | مسألة حياة أو موت | B2 | expr | - | - | as an adjective: life-or-death | life-or-death | Early treatment of sepsis can be a matter of life or death. | In a cardiac arrest, every minute can mean life or death.
+EMR062 | on the scene | في موقع الحادث | B2 | expr | - | - | - | at the scene | Paramedics were on the scene within eight minutes. | The police were already on the scene.
+EMR063 | lose consciousness | يفقد الوعي | B2 | expr | - | - | irregular: lost | - | Did he lose consciousness after the fall? | She lost consciousness for about a minute.
+EMR064 | regain consciousness | يستعيد الوعي | C1 | expr | - | - | - | - | He regained consciousness in the ambulance. | Patients may be confused when they regain consciousness.
+EMR065 | come to | يستفيق (لغة عامة) | C1 | expr | - | - | informal; irregular: came | - | When she came to, she did not remember the accident. | He came to after a few seconds.
+EMR066 | do not resuscitate | عدم الإنعاش (أمر طبي) | C1 | expr | - | - | abbreviation: DNR | DNR | She has a do not resuscitate order in her chart. | A do not resuscitate order must be documented clearly.
+# --- batch 16: first aid, trauma, monitoring, words of comfort ---
+EMR067 | chest compressions | الضغطات الصدرية | C1 | n | - | - | plural noun | compressions | Push hard and fast during chest compressions. | Chest compressions should be at least two inches deep.
+EMR068 | rescue breaths | أنفاس الإنقاذ | C1 | n | - | - | plural noun | - | Give two rescue breaths after 30 compressions. | Rescue breaths are not required for untrained bystanders.
+EMR069 | bystander | أحد الحاضرين (شاهد عيان) | C1 | n | a | - | - | - | A bystander started CPR before the ambulance arrived. | Bystander CPR doubles the chance of survival.
+EMR070 | recovery position | وضعية الإفاقة | B2 | n | - | - | used with "the" | - | Put the unconscious patient in the recovery position. | The recovery position keeps the airway open.
+EMR071 | tourniquet | عاصبة (رباط ضاغط) | C1 | n | a | - | - | - | A tourniquet stopped the bleeding from his leg. | Note the time when the tourniquet was applied.
+EMR072 | splint | جبيرة مؤقتة | B2 | n | a | - | - | - | Put a splint on the arm before moving the patient. | The splint keeps the broken bone from moving.
+EMR073 | cast | جبيرة جبسية | B2 | n | a | - | - | - | She will wear a cast for six weeks. | Keep the cast dry when you shower.
+EMR074 | neck brace | طوق الرقبة | B2 | n | a | - | technical: cervical collar | cervical collar; C-collar | Keep the neck brace on until the X-ray is read. | Paramedics put a neck brace on him at the scene.
+EMR075 | frostbite | قضمة الصقيع | C1 | n | - | - | uncountable | - | He lost two toes to frostbite. | Frostbite is common among homeless people in the winter.
+EMR076 | hypothermia | انخفاض حرارة الجسم | C1 | n | - | - | uncountable | - | The hiker was treated for hypothermia. | Hypothermia can cause an irregular heartbeat.
+EMR077 | heatstroke | ضربة الشمس (ضربة حرارية) | B2 | n | - | - | uncountable | heat stroke | Heatstroke is a medical emergency in older adults. | The marathon runner collapsed with heatstroke.
+EMR078 | drowning | الغرق | B2 | n | - | - | - | - | Drowning is a leading cause of death in young children. | The boy was rescued from drowning at the lake.
+EMR079 | gunshot wound | جرح بطلق ناري | B2 | n | a | - | abbreviation: GSW | GSW | He arrived with a gunshot wound to the abdomen. | Gunshot wounds are common in urban trauma centers.
+EMR080 | stab wound | جرح طعني | B2 | n | a | - | - | - | She has a stab wound to the chest. | Stab wounds can damage the organs underneath.
+EMR081 | motor vehicle accident | حادث سير | C1 | n | a | - | abbreviation: MVA; everyday: car crash | MVA; car crash; motor vehicle collision | He was injured in a motor vehicle accident. | The patient was a restrained driver in a motor vehicle accident.
+EMR082 | head injury | إصابة الرأس | B2 | n | a | - | - | - | Patients on blood thinners with a head injury need a CT. | He was confused after the head injury.
+EMR083 | internal bleeding | نزيف داخلي | B2 | n | - | - | uncountable | - | The CT showed internal bleeding in the abdomen. | Internal bleeding may cause shock without any visible blood.
+EMR084 | hemodynamically | من الناحية الدورانية | C1 | adv | - | - | hemodynamically stable / unstable | - | He is hemodynamically stable after the transfusion. | Hemodynamically unstable patients need urgent surgery.
+EMR085 | urgently | بشكل عاجل | B2 | adv | - | - | - | - | She needs to be seen urgently. | The surgeon was called urgently to the ER.
+EMR086 | promptly | دون تأخير | C1 | adv | - | - | - | - | Treat sepsis promptly to save lives. | The nurse responded promptly to the alarm.
+EMR087 | rapidly | بسرعة | B2 | adv | - | - | - | - | His condition worsened rapidly over an hour. | Give the fluids rapidly through two large IVs.
+EMR088 | transfusion | نقل الدم | C1 | n | a | - | - | blood transfusion | She received a blood transfusion for severe anemia. | Some patients refuse transfusion for religious reasons.
+EMR089 | blood type | فصيلة الدم | B2 | n | a | - | - | blood group | Do you know your blood type? | O-negative is the universal donor blood type.
+EMR090 | rapid response team | فريق الاستجابة السريعة | C1 | n | a | - | abbreviation: RRT | RRT | Call the rapid response team if a patient is getting worse. | The rapid response team arrived within two minutes.
+EMR091 | alarm | إنذار (منبّه الجهاز) | B2 | n | an | - | - | - | The monitor alarm went off when his heart rate dropped. | Never ignore a ventilator alarm.
+EMR092 | flatline | خطّ مستقيم على جهاز المراقبة | C1 | n | a | - | informal; technical: asystole | asystole | The monitor suddenly showed a flatline. | A flatline is not treated with a shock.
+EMR093 | ventilate | يقدّم تهوية اصطناعية | C1 | v | - | - | - | - | Ventilate the patient with a bag and mask. | He was ventilated for a week after the surgery.
+EMR094 | sedate | يهدّئ دوائيًا | C1 | v | - | - | - | - | We had to sedate him because he was very agitated. | Sedate the patient before intubation.
+EMR095 | suction | يشفط | C1 | v | - | - | - | - | Suction the airway to remove the blood. | The nurse suctioned the secretions from his tube.
+EMR096 | extubate | ينزع أنبوب التنفس | C1 | v | - | - | - | - | We plan to extubate her tomorrow morning. | He was extubated after two days on the ventilator.
+EMR097 | crash | تنهار حالته فجأة (لغة عامة) | C1 | v | - | - | informal | - | The patient in bed 3 is crashing. | Her blood pressure crashed after the drug was given.
+EMR098 | dispatch | يُرسل (سيارة إسعاف) | C1 | v | - | - | - | - | An ambulance was dispatched to the scene. | Dispatchers can guide callers through CPR.
+EMR099 | conscious | واعٍ | B2 | adj | - | - | - | - | He was conscious and talking when he arrived. | Is the patient conscious and breathing?
+EMR100 | comatose | في غيبوبة | C1 | adj | - | - | - | - | She remained comatose after the cardiac arrest. | Comatose patients need careful skin care.
+EMR101 | combative | عدواني (يقاوم بعنف) | C1 | adj | - | - | - | - | The intoxicated patient became combative with the nurses. | Combative patients may need sedation.
+EMR102 | intoxicated | مخمور (تحت تأثير مادة) | C1 | adj | - | - | formal | - | He was intoxicated when he crashed the car. | Intoxicated patients may hide serious injuries.
+EMR103 | septic | إنتاني | C1 | adj | - | - | - | - | The patient is septic and needs antibiotics now. | She became septic from a urinary tract infection.
+EMR104 | hypotensive | منخفض الضغط | C1 | adj | - | - | - | - | He is hypotensive with a pressure of 80 over 50. | She became hypotensive after the first dose.
+EMR105 | tachycardic | متسرّع القلب | C1 | adj | - | - | - | - | The patient is tachycardic and sweaty. | He was tachycardic at 140 beats per minute.
+EMR106 | hang in there | اصمد (عبارة تشجيع) | B2 | expr | - | - | informal | - | Hang in there, the doctor is on the way. | She told the frightened patient to hang in there.
+EMR107 | It's going to be okay. | سيكون كل شيء على ما يرام. | B2 | expr | - | - | reassuring phrase | It's going to be OK.; It is going to be okay. | "It's going to be okay," the nurse said as she held his hand. | Do not say "It's going to be okay" if you are not sure.
+EMR108 | stay with me | ابقَ معي (حافظ على وعيك) | B2 | expr | - | - | - | - | "Stay with me," the paramedic said to the drowsy man. | Keep talking and stay with me.
+EMR109 | in the nick of time | في اللحظة الأخيرة | C1 | expr | - | - | informal | just in time | The defibrillator arrived in the nick of time. | He reached the hospital in the nick of time.
+EMR110 | golden hour | الساعة الذهبية | C1 | n | - | - | used with "the" | - | Treatment in the golden hour after trauma saves lives. | The golden hour is the first hour after a serious injury.
+EMR111 | mass casualty incident | حادث إصابات جماعية | C1 | n | a | - | abbreviation: MCI | MCI | The hospital activated its plan for a mass casualty incident. | Triage is critical in a mass casualty incident.
+EMR112 | chest tube | أنبوب صدري | C1 | n | a | - | - | - | A chest tube was placed to drain the pneumothorax. | The chest tube is draining blood.
+EMR113 | bag valve mask | قناع الإنعاش ذو الكيس | C1 | n | a | - | - | Ambu bag; BVM | Use a bag valve mask until the anesthesiologist arrives. | Squeeze the bag valve mask once every six seconds.
+EMR114 | pulseless | بلا نبض | C1 | adj | - | - | - | - | The patient is pulseless, so start CPR. | A pulseless patient needs immediate compressions.
+EMR115 | life-saving | منقذ للحياة | B2 | adj | - | - | - | lifesaving | Epinephrine can be life-saving in anaphylaxis. | She received life-saving surgery after the accident.
+EMR116 | observation | المراقبة (تحت الملاحظة) | B2 | n | - | - | for observation | - | He was kept overnight for observation. | The observation unit is next to the ER.

@@ -1,0 +1,127 @@
+@theme pharmacology PHA medicine
+# Pharmacology and prescriptions
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 11: prescriptions, forms, routes, instructions ---
+PHA001 | prescription | وصفة طبية | B2 | n | a | - | - | - | The doctor wrote a prescription for antibiotics. | You need a prescription to buy this medicine.
+PHA002 | prescribe | يصف (دواءً) | B2 | v | - | - | prescribe sth for sth | - | I'm going to prescribe an antibiotic for your infection. | She was prescribed painkillers after the surgery.
+PHA003 | dose | جرعة | B2 | n | a | - | - | - | The usual dose is 500 milligrams twice a day. | Reduce the dose in patients with kidney disease.
+PHA004 | dosage | نظام الجرعات (مقدارها) | C1 | n | a | - | - | - | Check the dosage on the label before giving the medicine. | The dosage depends on the child's weight.
+PHA005 | side effect | أثر جانبي | B2 | n | a | - | - | - | Drowsiness is a common side effect of this drug. | Tell me if you notice any side effects.
+PHA006 | adverse reaction | تفاعل دوائي ضار | C1 | n | an | - | - | adverse drug reaction | Report any adverse reaction to the pharmacy. | She had an adverse reaction to the contrast dye.
+PHA007 | painkiller | مسكّن (لغة عامة) | B2 | n | a | - | everyday; technical: analgesic | pain reliever | He takes painkillers for his back pain. | This painkiller can upset your stomach.
+PHA008 | analgesic | مسكّن الألم (مصطلح طبي) | C1 | n | an | - | technical; everyday: painkiller | - | Acetaminophen is a safe analgesic for most patients. | Give an analgesic before you move the patient.
+PHA009 | antibiotic | مضاد حيوي | B2 | n | an | - | - | - | Take the antibiotic until the course is finished. | Antibiotics do not work against viruses.
+PHA010 | anti-inflammatory | مضاد للالتهاب | C1 | adj | - | - | - | - | Ibuprofen has both analgesic and anti-inflammatory effects. | She takes an anti-inflammatory drug for her arthritis.
+PHA011 | blood thinner | مميّع للدم (لغة عامة) | B2 | n | a | - | everyday; technical: anticoagulant | - | He is on a blood thinner because of atrial fibrillation. | Blood thinners increase the risk of bleeding.
+PHA012 | anticoagulant | مضاد التخثّر (مصطلح طبي) | C1 | n | an | - | technical; everyday: blood thinner | - | Warfarin is an oral anticoagulant. | Stop the anticoagulant five days before surgery.
+PHA013 | antihistamine | مضاد الهيستامين | C1 | n | an | - | - | - | Take an antihistamine for the itching. | Some older antihistamines cause drowsiness.
+PHA014 | sedative | مهدّئ | C1 | n | a | - | - | - | The patient was given a sedative before the procedure. | Sedatives can depress breathing in older adults.
+PHA015 | steroid | ستيرويد (كورتيزون) | B2 | n | a | - | - | - | She was given a short course of oral steroids. | Long-term steroid use can weaken the bones.
+PHA016 | vaccine | لقاح | B2 | n | a | - | - | - | The flu vaccine is recommended every year. | Children receive several vaccines in the first two years.
+PHA017 | inhaler | بخّاخ (جهاز استنشاق) | B2 | n | an | - | - | - | Use your inhaler before you exercise. | Show me how you use the inhaler.
+PHA018 | ointment | مرهم | B2 | n | an | - | - | - | Apply the ointment twice a day to the rash. | This ointment contains a mild steroid.
+PHA019 | tablet | قرص دوائي | B2 | n | a | - | - | - | Take one tablet every morning with water. | The tablets can be crushed if he cannot swallow them.
+PHA020 | capsule | كبسولة | B2 | n | a | - | - | - | Swallow the capsule whole with a glass of water. | Each capsule contains 20 milligrams of omeprazole.
+PHA021 | syrup | شراب دوائي | B2 | n | a | - | - | - | The child prefers the syrup to tablets. | This cough syrup contains codeine.
+PHA022 | drops | قطرات | B2 | n | - | - | plural noun | - | Put two drops in each eye at night. | The ear drops will soften the wax.
+PHA023 | injection | حقنة (مصطلح عام) | B2 | n | an | - | - | - | She gets an injection of vitamin B12 every month. | The vaccine is given as an injection into the arm.
+PHA024 | shot | حقنة (لغة عامة) | B2 | n | a | - | American, informal | - | Did you get your flu shot this year? | The nurse will give you a shot in the arm.
+PHA025 | over-the-counter | يُصرف دون وصفة طبية | B2 | adj | - | - | abbreviation: OTC | OTC | Ibuprofen is available over the counter. | Many over-the-counter cold medicines contain acetaminophen.
+PHA026 | generic | جنيس (دواء غير مسجّل باسم تجاري) | B2 | adj | - | - | - | - | The generic version is much cheaper. | Ask the pharmacist for the generic drug.
+PHA027 | brand name | الاسم التجاري | B2 | n | a | - | - | - | Tylenol is a brand name for acetaminophen. | The brand name and the generic drug work the same way.
+PHA028 | pharmacist | صيدلي | B2 | n | a | - | - | - | The pharmacist checked for drug interactions. | Ask your pharmacist if you have any questions.
+PHA029 | pharmacy | صيدلية | B2 | n | a | - | - | drugstore | You can pick up the medicine at the pharmacy tomorrow. | The hospital pharmacy is open 24 hours a day.
+PHA030 | refill | إعادة صرف الوصفة | B2 | n | a | - | - | - | I need a refill of my blood pressure medicine. | The prescription allows three refills.
+PHA031 | drug interaction | تداخل دوائي | C1 | n | a | - | - | - | Warfarin has many drug interactions. | The pharmacist warned her about a dangerous drug interaction.
+PHA032 | contraindication | مضادّ استطباب | C1 | n | a | - | a contraindication to sth | - | Pregnancy is a contraindication to this drug. | Check for contraindications before giving thrombolytics.
+PHA033 | indication | استطباب (دواعي الاستعمال) | C1 | n | an | - | - | - | The main indication for this drug is high blood pressure. | What is the indication for the antibiotic?
+PHA034 | adherence | الالتزام بالعلاج | C1 | n | - | - | uncountable | compliance | Poor adherence is a common cause of treatment failure. | Once-daily dosing usually improves adherence.
+PHA035 | overdose | جرعة زائدة | B2 | n | an | - | - | - | He was admitted after an overdose of sleeping pills. | An acetaminophen overdose can damage the liver.
+PHA036 | tolerance | التحمّل الدوائي | C1 | n | - | - | uncountable | - | Patients can develop tolerance to opioids. | Tolerance means that higher doses are needed for the same effect.
+PHA037 | withdrawal | الانسحاب (أعراض الامتناع) | C1 | n | - | - | uncountable | - | Alcohol withdrawal can cause seizures. | Stopping the drug suddenly can cause withdrawal symptoms.
+PHA038 | dependence | الاعتماد (على الدواء) | C1 | n | - | - | uncountable | - | Long-term use of benzodiazepines can lead to dependence. | Physical dependence is different from addiction.
+PHA039 | addiction | الإدمان | B2 | n | - | - | addiction to sth | - | Opioid addiction is a major problem in the US. | He was treated for addiction to painkillers.
+PHA040 | placebo | دواء وهمي | C1 | n | a | - | - | - | Half of the patients received a placebo. | The new drug worked better than placebo.
+PHA041 | administer | يُعطي (الدواء) | C1 | v | - | - | formal | - | The nurse administered the medication intravenously. | Administer oxygen to keep the saturation above 92 percent.
+PHA042 | dispense | يصرف (الدواء) | C1 | v | - | - | - | - | The pharmacy dispensed a 30-day supply. | Antibiotics are dispensed only with a prescription.
+PHA043 | taper | يخفّض الجرعة تدريجيًا | C1 | v | - | - | taper (off) | taper off | We will taper the steroids over two weeks. | Do not stop the drug suddenly; taper it slowly.
+PHA044 | discontinue | يوقف (الدواء) | C1 | v | - | - | formal | - | Discontinue the drug if a rash appears. | Her statin was discontinued because of muscle pain.
+PHA045 | adjust | يعدّل | B2 | v | - | - | adjust the dose | - | We need to adjust the dose for her kidney function. | His insulin was adjusted after the blood test.
+PHA046 | apply | يدهن (يضع على الجلد) | B2 | v | - | - | - | - | Apply a thin layer of cream to the affected area. | Apply the patch to clean, dry skin.
+PHA047 | inject | يحقن | B2 | v | - | - | - | - | She injects insulin before every meal. | The drug is injected into the muscle.
+PHA048 | interact | يتداخل (مع دواء آخر) | B2 | v | - | - | interact with sth | - | Grapefruit juice interacts with some statins. | This antibiotic can interact with birth control pills.
+PHA049 | fill a prescription | يصرف الوصفة من الصيدلية | B2 | expr | - | - | - | - | You can fill the prescription at any pharmacy. | She never filled the prescription because it was too expensive.
+PHA050 | wear off | يزول مفعوله | B2 | expr | - | - | irregular: wore, worn | - | The anesthetic will wear off in a few hours. | When the painkiller wore off, the pain came back.
+PHA051 | kick in | يبدأ مفعوله (لغة عامة) | B2 | expr | - | - | informal | - | It takes about 30 minutes for the medicine to kick in. | The antibiotics finally kicked in after two days.
+PHA052 | on an empty stomach | على معدة فارغة | B2 | expr | - | - | - | - | Take this tablet on an empty stomach. | Taking ibuprofen on an empty stomach can cause stomach pain.
+PHA053 | as needed | عند الحاجة | B2 | expr | - | - | abbreviation: PRN | PRN | Take one tablet every six hours as needed for pain. | The nurse can give morphine as needed.
+PHA054 | twice a day | مرتين في اليوم | B2 | expr | - | - | abbreviation: BID | twice daily; BID | Take one capsule twice a day with meals. | The cream should be applied twice a day.
+PHA055 | oral | فموي | B2 | adj | - | - | - | - | Oral antibiotics are enough for a mild infection. | She was switched from IV to oral medication.
+PHA056 | intravenous | وريدي | C1 | adj | - | - | abbreviation: IV | IV | He was given intravenous fluids in the ER. | Intravenous antibiotics are needed for severe pneumonia.
+PHA057 | topical | موضعي | C1 | adj | - | - | - | - | A topical steroid cream can help the rash. | Topical treatments are applied directly to the skin.
+PHA058 | intramuscular | عضلي (في العضل) | C1 | adj | - | - | abbreviation: IM | IM | The vaccine is given as an intramuscular injection. | Intramuscular injections are usually given in the thigh or the arm.
+PHA059 | subcutaneous | تحت الجلد | C1 | adj | - | - | abbreviation: subcut, SC | subcut | Insulin is given as a subcutaneous injection. | Heparin can be injected into the subcutaneous fat of the abdomen.
+PHA060 | effective | فعّال | B2 | adj | - | - | - | - | This drug is very effective against migraines. | Exercise is an effective treatment for mild depression.
+PHA061 | orally | عن طريق الفم | C1 | adv | - | - | - | by mouth; PO | The drug is taken orally once a day. | She cannot take anything orally before surgery.
+PHA062 | intravenously | عن طريق الوريد | C1 | adv | - | - | - | IV | The antibiotic is given intravenously every eight hours. | Fluids were given intravenously in the ambulance.
+PHA063 | topically | موضعيًا | C1 | adv | - | - | - | - | Apply the cream topically to the affected area. | Steroids applied topically have fewer side effects.
+PHA064 | sublingually | تحت اللسان | C1 | adv | - | - | - | - | Nitroglycerin is taken sublingually during chest pain. | Place the tablet sublingually and let it dissolve.
+# --- batch 12: drug classes, pharmacokinetics, US pharmacy system ---
+PHA065 | beta-blocker | حاصر بيتا | C1 | n | a | - | - | beta blocker | Metoprolol is a beta-blocker used for high blood pressure. | Beta-blockers slow the heart rate and lower blood pressure.
+PHA066 | ACE inhibitor | مثبّط الإنزيم المحوِّل للأنجيوتنسين | C1 | n | an | - | - | - | ACE inhibitors can cause a dry cough. | Lisinopril is an ACE inhibitor that also protects the kidneys.
+PHA067 | diuretic | مُدِرّ للبول | C1 | n | a | - | - | - | A diuretic helps remove extra fluid in heart failure. | Diuretics can lower the potassium level.
+PHA068 | statin | ستاتين (خافض للكوليسترول) | C1 | n | a | - | - | - | She takes a statin to lower her cholesterol. | Statins can occasionally cause muscle pain.
+PHA069 | opioid | أفيوني (مسكّن أفيوني) | C1 | n | an | - | - | - | Morphine is an opioid used for severe pain. | Opioids can cause constipation and drowsiness.
+PHA070 | NSAID | مضاد التهاب غير ستيرويدي | C1 | n | an | - | nonsteroidal anti-inflammatory drug | - | Ibuprofen is an NSAID that can irritate the stomach. | Avoid NSAIDs in patients with kidney disease.
+PHA071 | antidepressant | مضاد الاكتئاب | C1 | n | an | - | - | - | Antidepressants take several weeks to work. | She was started on an antidepressant by her psychiatrist.
+PHA072 | antiviral | مضاد الفيروسات | C1 | n | an | - | - | - | Antivirals work best when they are started early. | He was given an antiviral for shingles.
+PHA073 | antifungal | مضاد الفطريات | C1 | n | an | - | - | - | An antifungal cream will treat the athlete's foot. | Oral antifungals can affect the liver.
+PHA074 | antiemetic | مضاد القيء | C1 | n | an | - | - | - | Give an antiemetic before the chemotherapy. | Ondansetron is a commonly used antiemetic.
+PHA075 | laxative | مليّن | C1 | n | a | - | - | - | Start a laxative with the opioid to prevent constipation. | Laxatives should not be used for weeks without advice.
+PHA076 | antacid | مضاد الحموضة | C1 | n | an | - | - | - | Take an antacid for occasional heartburn. | Antacids can reduce the absorption of some antibiotics.
+PHA077 | bronchodilator | موسّع القصبات | C1 | n | a | - | - | - | Albuterol is a fast-acting bronchodilator. | The bronchodilator relieved her wheezing in minutes.
+PHA078 | insulin | الإنسولين | B2 | n | - | - | uncountable | - | He injects insulin four times a day. | The pancreas stops making insulin in type 1 diabetes.
+PHA079 | chemotherapy | العلاج الكيميائي | B2 | n | - | - | informal: chemo | chemo | She lost her hair during chemotherapy. | The chemotherapy is given every three weeks.
+PHA080 | antidote | ترياق | C1 | n | an | - | an antidote for / to sth | - | Naloxone is the antidote for an opioid overdose. | There is no antidote for this poison.
+PHA081 | pharmacokinetics | الحرائك الدوائية | C1 | n | - | - | uncountable, takes a singular verb | - | Age affects the pharmacokinetics of many drugs. | Pharmacokinetics describes how the body handles a drug.
+PHA082 | half-life | عمر النصف | C1 | n | a | half-lives | - | half life | The drug has a long half-life, so it is taken once a day. | The half-life of the drug is about eight hours.
+PHA083 | efficacy | الفعالية (في الدراسات) | C1 | n | - | - | formal | - | The trial compared the efficacy of two vaccines. | The efficacy of the drug was lower in older patients.
+PHA084 | therapeutic range | المجال العلاجي | C1 | n | a | - | - | - | Her INR is within the therapeutic range. | Lithium has a narrow therapeutic range.
+PHA085 | regimen | نظام علاجي | C1 | n | a | - | - | - | The treatment regimen includes four drugs. | Keep the regimen simple so that the patient can follow it.
+PHA086 | course | شوط علاجي (مدة العلاج) | B2 | n | a | - | a course of sth | - | Finish the whole course of antibiotics. | She was given a five-day course of steroids.
+PHA087 | vial | قارورة دواء صغيرة | C1 | n | a | - | - | - | Draw up the medication from the vial. | Each vial contains 10 milligrams of the drug.
+PHA088 | syringe | محقنة | B2 | n | a | - | - | - | Use a new syringe for every injection. | The nurse filled the syringe with saline.
+PHA089 | IV drip | تسريب وريدي (لغة عامة) | B2 | n | an | - | informal | drip | He was put on an IV drip in the ER. | The IV drip contains saline and potassium.
+PHA090 | patch | لصاقة دوائية | B2 | n | a | - | - | - | She uses a nicotine patch to help her quit smoking. | Change the pain patch every three days.
+PHA091 | suppository | تحميلة | C1 | n | a | - | - | - | The child was given a suppository for the fever. | Insert the suppository after a bowel movement.
+PHA092 | label | ملصق العبوة | B2 | n | a | - | - | - | Read the label before you take the medicine. | The label says to avoid alcohol.
+PHA093 | expiration date | تاريخ انتهاء الصلاحية | B2 | n | an | - | - | - | Check the expiration date on the box. | Do not use the drops after the expiration date.
+PHA094 | milligram | ملليغرام | B2 | n | a | - | abbreviation: mg | mg | The starting dose is five milligrams. | Each tablet contains 500 milligrams of acetaminophen.
+PHA095 | polypharmacy | تعدّد الأدوية | C1 | n | - | - | uncountable | - | Polypharmacy increases the risk of falls in older adults. | Review the medication list to reduce polypharmacy.
+PHA096 | medication reconciliation | مطابقة قائمة الأدوية | C1 | n | - | - | uncountable | med rec | Medication reconciliation is done at every admission and discharge. | Errors are often found during medication reconciliation.
+PHA097 | titrate | يعاير الجرعة حسب الاستجابة | C1 | v | - | - | titrate sth to sth | - | Titrate the insulin to the blood sugar. | We titrated the oxygen to keep his saturation above 90 percent.
+PHA098 | wean | يفطم (يُنقص تدريجيًا) | C1 | v | - | - | wean sb off sth | - | We are weaning him off the ventilator. | She was weaned off the steroids over a month.
+PHA099 | crush | يسحق (الأقراص) | B2 | v | - | - | - | - | Do not crush extended-release tablets. | The nurse crushed the pills and mixed them with applesauce.
+PHA100 | dissolve | يذوب | B2 | v | - | - | - | - | Let the tablet dissolve under your tongue. | Dissolve the powder in a glass of water.
+PHA101 | metabolize | يستقلب | C1 | v | - | - | - | - | The liver metabolizes most drugs. | This drug is metabolized more slowly in older patients.
+PHA102 | counsel | يُرشد (يقدّم المشورة) | C1 | v | - | - | counsel sb about sth | - | The pharmacist counseled her about side effects. | Counsel patients about the risks of driving on this drug.
+PHA103 | extended-release | ممتدّ المفعول | C1 | adj | - | - | abbreviation: ER, XR | - | Extended-release tablets should be swallowed whole. | She takes an extended-release form of the drug once a day.
+PHA104 | potent | قوي المفعول | C1 | adj | - | - | - | - | Fentanyl is a very potent opioid. | This is a potent steroid cream, so use it sparingly.
+PHA105 | addictive | مسبّب للإدمان | B2 | adj | - | - | - | - | Opioids are highly addictive, so we prescribe them carefully. | Some sleeping pills can be addictive after a few weeks.
+PHA106 | well tolerated | جيّد التحمّل | C1 | adj | - | - | - | well-tolerated | The new drug was well tolerated in the trial. | Metformin is usually well tolerated if it is started slowly.
+PHA107 | first-line | خط أول (في العلاج) | C1 | adj | - | - | - | - | Metformin is the first-line treatment for type 2 diabetes. | First-line therapy failed, so we tried a second drug.
+PHA108 | expired | منتهي الصلاحية | B2 | adj | - | - | - | - | Do not take expired medication; return it to the pharmacy. | The inhaler had expired a year ago.
+PHA109 | sparingly | بكمية قليلة (باعتدال) | C1 | adv | - | - | - | - | Use the steroid cream sparingly on the face. | Antibiotics should be prescribed sparingly to limit resistance.
+PHA110 | stat | فورًا (أمر عاجل) | C1 | adv | - | - | from Latin statim; used in orders | - | Give the first dose of antibiotics stat. | The attending ordered a CT scan stat.
+PHA111 | build up a tolerance | يكتسب تحمّلًا للدواء | C1 | expr | - | - | irregular: built | - | Patients can build up a tolerance to sleeping pills. | He built up a tolerance to the painkillers within weeks.
+PHA112 | come off | يتوقّف عن تناول دواء | B2 | expr | - | - | irregular: came; come off sth | - | She wants to come off her antidepressant. | Do not come off the steroids suddenly.
+PHA113 | be on sth | يتناول دواءً بانتظام | B2 | expr | - | - | - | - | He is on two blood thinners after his stent. | She has been on insulin for ten years.
+PHA114 | at bedtime | عند النوم | B2 | expr | - | - | abbreviation: QHS | - | Take one tablet at bedtime with water. | Statins are often taken at bedtime.
+PHA115 | prior authorization | الموافقة المسبقة (من شركة التأمين) | C1 | n | - | - | uncountable; informal: prior auth | prior auth | The insurance company requires prior authorization for this drug. | We are still waiting for the prior authorization.
+PHA116 | copay | حصة المريض من الدفع | B2 | n | a | - | - | co-pay; copayment | The copay for the brand-name drug is fifty dollars. | Her copay went down after she switched to the generic.
+PHA117 | formulary | قائمة الأدوية المعتمدة | C1 | n | a | - | - | - | The drug is not on the hospital formulary. | Check the formulary before you prescribe.
+PHA118 | black box warning | تحذير الصندوق الأسود | C1 | n | a | - | the strongest FDA warning | boxed warning | This antidepressant has a black box warning for young people. | Read the black box warning before prescribing.
+PHA119 | trough level | المستوى الأدنى للدواء في الدم | C1 | n | a | - | - | trough | Check the vancomycin trough level before the fourth dose. | Her trough level was too high, so we reduced the dose.
+PHA120 | loading dose | الجرعة التحميلية | C1 | n | a | - | - | - | A loading dose helps the drug reach a steady level quickly. | He received a loading dose of amiodarone.
+PHA121 | maintenance dose | جرعة المداومة | C1 | n | a | - | - | - | After the loading dose, start the maintenance dose. | The maintenance dose is 100 milligrams a day.
+PHA122 | booster | جرعة معزّزة | B2 | n | a | - | - | booster shot | Adults need a tetanus booster every ten years. | She got her COVID-19 booster last month.

@@ -1,0 +1,139 @@
+@theme anatomy ANA medicine
+# Anatomy and physiology
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 1: structures, organs, functions ---
+ANA001 | artery | شريان | B2 | n | an | - | - | - | The radial artery is easy to palpate at the wrist. | Plaque had narrowed the left coronary artery by 70 percent.
+ANA002 | vein | وريد | B2 | n | a | - | - | - | We drew blood from a vein in the patient's left arm. | The nurse could not find a good vein for the IV line.
+ANA003 | capillary | شعيرة دموية | C1 | n | a | - | - | - | Oxygen diffuses from each capillary into the surrounding tissue. | Press the nail bed and watch the capillary refill.
+ANA004 | tendon | وتر (عضلي) | B2 | n | a | - | - | - | The Achilles tendon connects the calf muscles to the heel bone. | He tore a tendon in his hand while playing basketball.
+ANA005 | ligament | رباط | B2 | n | a | - | - | - | The anterior cruciate ligament stabilizes the knee. | She sprained a ligament in her ankle during the race.
+ANA006 | cartilage | غضروف | B2 | n | - | - | uncountable | - | Cartilage covers the ends of the bones in a joint. | Osteoarthritis slowly wears away the cartilage of the knee.
+ANA007 | joint | مفصل | B2 | n | a | - | - | - | The hip is a ball-and-socket joint. | Her finger joints are swollen and stiff in the morning.
+ANA008 | spine | العمود الفقري | B2 | n | a | - | - | spinal column; vertebral column | The spine protects the spinal cord. | An MRI of the spine showed a herniated disc.
+ANA009 | vertebra | فقرة (من فقرات العمود الفقري) | C1 | n | a | vertebrae | - | - | The fracture involved the fifth lumbar vertebra. | Each vertebra has a body and an arch.
+ANA010 | spinal cord | الحبل الشوكي | B2 | n | a | - | - | - | The spinal cord runs through the vertebral canal. | A spinal cord injury can cause paralysis below the level of the lesion.
+ANA011 | skull | جمجمة | B2 | n | a | - | - | - | The skull protects the brain from injury. | The CT scan showed a fracture at the base of the skull.
+ANA012 | rib | ضلع | B2 | n | a | - | - | - | He broke a rib when he fell off his bike. | The heart lies behind the ribs and the sternum.
+ANA013 | pelvis | الحوض (العظمي) | B2 | n | a | - | - | - | The pelvis supports the organs of the lower abdomen. | An X-ray of the pelvis ruled out a fracture.
+ANA014 | limb | طرف (من أطراف الجسم) | B2 | n | a | - | - | - | The upper limb includes the arm, the forearm and the hand. | Check the pulses in each limb after the injury.
+ANA015 | abdomen | البطن | B2 | n | an | - | - | - | The abdomen is soft and nontender. | She complained of pain in the lower abdomen.
+ANA016 | thorax | الصدر (مصطلح تشريحي) | C1 | n | a | - | technical; everyday word: chest | - | The thorax contains the heart and the lungs. | A CT of the thorax was ordered to look for metastases.
+ANA017 | diaphragm | الحجاب الحاجز | B2 | n | a | - | - | - | The diaphragm is the main muscle of breathing. | Free air under the diaphragm suggests a perforated bowel.
+ANA018 | kidney | كلية | B2 | n | a | - | - | - | She donated a kidney to her brother. | A stone was blocking the drainage of the left kidney.
+ANA019 | bladder | المثانة | B2 | n | a | - | - | - | The bladder stores urine until it is emptied. | The ultrasound showed residual urine in the bladder after voiding.
+ANA020 | bowel | الأمعاء (لغة سريرية عامة) | B2 | n | a | - | often plural: bowels | bowels | The surgeon removed a section of the bowel. | Bowel sounds are present in all four quadrants.
+ANA021 | intestine | الأمعاء (مصطلح تشريحي) | B2 | n | an | - | small / large intestine | - | The small intestine absorbs most nutrients. | Food passes from the stomach into the small intestine.
+ANA022 | gland | غدة | B2 | n | a | - | - | - | The thyroid gland sits in the front of the neck. | Sweat glands help control body temperature.
+ANA023 | thyroid | الغدة الدرقية | B2 | n | a | - | - | thyroid gland | The thyroid produces hormones that regulate metabolism. | Her thyroid is enlarged but not tender.
+ANA024 | hormone | هرمون | B2 | n | a | - | - | - | Insulin is a hormone made by the pancreas. | Stress raises the level of the hormone cortisol.
+ANA025 | pancreas | البنكرياس | B2 | n | a | - | - | - | The pancreas releases insulin into the blood. | A tumor in the head of the pancreas can block the bile duct.
+ANA026 | spleen | الطحال | B2 | n | a | - | - | - | The spleen removes old red blood cells from the circulation. | After the car accident, his spleen had to be removed.
+ANA027 | gallbladder | المرارة | B2 | n | a | - | - | - | The gallbladder stores bile made by the liver. | She had her gallbladder removed because of gallstones.
+ANA028 | bile | الصفراء (العصارة الصفراوية) | C1 | n | - | - | uncountable | - | Bile helps the body digest fats. | A stone was blocking the flow of bile.
+ANA029 | esophagus | المريء | B2 | n | an | - | - | - | The esophagus carries food from the throat to the stomach. | Acid reflux can damage the lining of the esophagus.
+ANA030 | womb | الرحم (لغة عامة) | B2 | n | a | - | everyday word; technical: uterus | - | The baby grows in the mother's womb. | The patient asked whether the fibroids were inside her womb.
+ANA031 | uterus | الرحم (مصطلح طبي) | C1 | n | a | uteri | technical; everyday word: womb | - | The uterus is enlarged to the size of a 20-week pregnancy. | An ultrasound of the uterus showed two small fibroids.
+ANA032 | ovary | مبيض | B2 | n | an | - | - | - | Each ovary normally releases an egg once a month. | The ultrasound found a cyst on her left ovary.
+ANA033 | nerve | عصب | B2 | n | a | - | - | - | The median nerve passes through the carpal tunnel. | Diabetes can damage the nerves in the feet.
+ANA034 | tissue | نسيج (من أنسجة الجسم) | B2 | n | - | - | uncountable in this sense | - | Scar tissue formed around the wound. | The pathologist examined a sample of the tissue under a microscope.
+ANA035 | organ | عضو (من أعضاء الجسم) | B2 | n | an | - | - | - | The skin is the largest organ of the body. | She is on the waiting list for an organ transplant.
+ANA036 | cell | خلية | B2 | n | a | - | - | - | Red blood cells carry oxygen around the body. | The tumor is made of abnormal cells that divide quickly.
+ANA037 | circulation | الدورة الدموية | B2 | n | - | - | uncountable | - | Smoking reduces circulation to the hands and feet. | Regular exercise improves blood circulation.
+ANA038 | digestion | الهضم | B2 | n | - | - | uncountable | - | Digestion begins in the mouth with saliva. | Fiber helps digestion and prevents constipation.
+ANA039 | metabolism | الأيض (الاستقلاب) | C1 | n | - | - | uncountable | - | Thyroid hormones increase the rate of metabolism. | Her metabolism slowed down after menopause.
+ANA040 | immune system | الجهاز المناعي | B2 | n | an | - | - | - | Chemotherapy weakens the immune system. | In rheumatoid arthritis, the immune system attacks the joints.
+ANA041 | bloodstream | مجرى الدم | B2 | n | - | - | used with "the" | - | The drug is absorbed into the bloodstream within an hour. | Bacteria entered her bloodstream through the catheter.
+ANA042 | lobe | فص | B2 | n | a | - | - | - | The right lung has three lobes. | The tumor is in the frontal lobe of the brain.
+ANA043 | cavity | تجويف | B2 | n | a | - | - | - | The abdominal cavity contains the stomach and the bowel. | The heart lies in the chest cavity, between the lungs.
+ANA044 | membrane | غشاء | B2 | n | a | - | - | - | A thin membrane covers each lung. | The mucous membrane of her mouth looks dry.
+ANA045 | tract | سبيل (جهاز أنبوبي في الجسم) | C1 | n | a | - | urinary / digestive / respiratory tract | - | She has a urinary tract infection. | The digestive tract runs from the mouth to the anus.
+ANA046 | vessel | وعاء (دموي) | B2 | n | a | - | - | blood vessel | A blood vessel ruptured in her brain. | The vessels of the retina can be seen with an ophthalmoscope.
+ANA047 | valve | صمام | B2 | n | a | - | - | - | The mitral valve separates the left atrium from the left ventricle. | He had his aortic valve replaced last year.
+ANA048 | ventricle | بطين | C1 | n | a | - | - | - | The left ventricle pumps blood into the aorta. | The echo shows a dilated right ventricle.
+ANA049 | atrium | أذين | C1 | n | an | atria | adjective: atrial | - | Blood returns from the lungs to the left atrium. | In atrial fibrillation, the atrium does not contract normally.
+ANA050 | aorta | الشريان الأبهر | C1 | n | an | - | - | - | The aorta is the largest artery in the body. | The CT showed a tear in the wall of the aorta.
+ANA051 | heartbeat | نبضة القلب | B2 | n | a | - | - | - | The midwife listened to the baby's heartbeat. | He felt an irregular heartbeat while he was resting.
+ANA052 | contract | ينقبض | B2 | v | - | - | noun: contraction | - | The heart muscle contracts about 70 times a minute. | When a muscle contracts, it becomes shorter and thicker.
+ANA053 | pump | يضخ | B2 | v | - | - | - | - | The heart pumps about five liters of blood per minute. | A weak heart cannot pump enough blood to the kidneys.
+ANA054 | filter | يرشّح (يصفّي) | B2 | v | - | - | - | - | The kidneys filter waste from the blood. | The liver filters toxins from the blood that comes from the gut.
+ANA055 | secrete | يفرز | C1 | v | - | - | noun: secretion | - | The stomach secretes acid to digest food. | The adrenal glands secrete adrenaline in response to stress.
+ANA056 | absorb | يمتص | B2 | v | - | - | noun: absorption | - | Most nutrients are absorbed in the small intestine. | This drug is poorly absorbed when it is taken with food.
+ANA057 | circulate | يسري (في الدورة الدموية) | B2 | v | - | - | - | - | Blood circulates through the whole body in about one minute. | Antibodies circulate in the blood for months after an infection.
+ANA058 | digest | يهضم | B2 | v | - | - | - | - | Some adults cannot digest lactose. | Fatty food takes longer to digest.
+ANA059 | regulate | ينظّم | B2 | v | - | - | - | - | The hypothalamus regulates body temperature. | Insulin regulates the level of sugar in the blood.
+ANA060 | excrete | يطرح (يُخرج من الجسم) | C1 | v | - | - | noun: excretion | - | The kidneys excrete most of this drug unchanged. | Excess water-soluble vitamins are excreted in the urine.
+ANA061 | dilate | يتوسّع | C1 | v | - | - | noun: dilation | - | The pupils dilate in the dark. | Nitroglycerin dilates the coronary arteries.
+ANA062 | constrict | يتضيّق (ينقبض الوعاء) | C1 | v | - | - | noun: constriction | - | Cold makes the blood vessels in the skin constrict. | The airways constrict during an asthma attack.
+ANA063 | anterior | أمامي | C1 | adj | - | - | opposite: posterior | - | The anterior wall of the heart was damaged by the infarction. | She has a cut on the anterior surface of her forearm.
+ANA064 | posterior | خلفي | C1 | adj | - | - | opposite: anterior | - | The kidneys lie against the posterior wall of the abdomen. | He has a posterior dislocation of the shoulder.
+ANA065 | lateral | وحشي (جانبي) | C1 | adj | - | - | opposite: medial | - | The lateral side of the ankle is swollen. | We ordered a lateral X-ray of the chest.
+ANA066 | medial | إنسي (باتجاه خط الوسط) | C1 | adj | - | - | opposite: lateral | - | The medial meniscus is often injured in sports. | The pain is on the medial side of the knee.
+ANA067 | proximal | داني (قريب من الجذع) | C1 | adj | - | - | opposite: distal | - | She has a fracture of the proximal femur. | There is weakness of the proximal muscles of the legs.
+ANA068 | distal | قاصي (بعيد عن الجذع) | C1 | adj | - | - | opposite: proximal | - | The distal pulses are weak in the right foot. | He fell and broke the distal end of his radius.
+ANA069 | cardiac | قلبي | B2 | adj | - | - | - | - | Cardiac muscle never gets tired. | He was admitted to the cardiac unit after his heart attack.
+ANA070 | renal | كلوي | C1 | adj | - | - | - | - | Her renal function has gotten worse this week. | Renal failure can cause swelling of the legs.
+ANA071 | pulmonary | رئوي | C1 | adj | - | - | - | - | The pulmonary artery carries blood to the lungs. | He has a history of chronic pulmonary disease.
+ANA072 | vascular | وعائي | C1 | adj | - | - | - | - | Smoking is a major risk factor for vascular disease. | The vascular surgeon reviewed the CT angiogram.
+ANA073 | hepatic | كبدي | C1 | adj | - | - | - | - | The hepatic veins drain blood from the liver. | Hepatic enzymes were mildly elevated.
+ANA074 | abdominal | بطني | B2 | adj | - | - | - | - | She had abdominal pain for three days. | The abdominal wall is weak around the old scar.
+# --- batch 2: technical vs everyday terms, blood, nervous system, physiology ---
+ANA075 | sternum | عظم القص (مصطلح طبي) | C1 | n | a | - | technical; everyday word: breastbone | breastbone | The sternum is divided during open-heart surgery. | She has tenderness over the lower sternum.
+ANA076 | collarbone | الترقوة (لغة عامة) | B2 | n | a | - | everyday word; technical: clavicle | - | He broke his collarbone playing football. | The collarbone connects the arm to the trunk.
+ANA077 | clavicle | الترقوة (مصطلح طبي) | C1 | n | a | - | technical; everyday word: collarbone | - | The X-ray shows a fracture of the middle third of the clavicle. | The clavicle is the bone most often fractured during birth.
+ANA078 | shoulder blade | لوح الكتف (لغة عامة) | B2 | n | a | - | everyday word; technical: scapula | - | He has a sharp pain under his right shoulder blade. | The shoulder blade moves when you lift your arm.
+ANA079 | scapula | لوح الكتف (مصطلح طبي) | C1 | n | a | scapulae | technical; everyday word: shoulder blade | - | A fracture of the scapula usually follows major trauma. | The scapula has three borders and three angles.
+ANA080 | thighbone | عظم الفخذ (لغة عامة) | B2 | n | a | - | everyday word; technical: femur | - | The thighbone is the strongest bone in the body. | He broke his thighbone in a motorcycle crash.
+ANA081 | femur | عظم الفخذ (مصطلح طبي) | C1 | n | a | - | technical; everyday word: thighbone | - | The femur is the longest bone in the body. | Elderly patients often fracture the neck of the femur after a fall.
+ANA082 | kneecap | صابونة الركبة (لغة عامة) | B2 | n | a | - | everyday word; technical: patella | - | She dislocated her kneecap while dancing. | The kneecap protects the front of the knee joint.
+ANA083 | patella | الرضفة (مصطلح طبي) | C1 | n | a | patellae | technical; everyday word: kneecap | - | Tap the tendon just below the patella to test the reflex. | The patella slid out of place during the game.
+ANA084 | trachea | الرغامى (مصطلح طبي) | C1 | n | a | - | technical; everyday word: windpipe | - | The trachea divides into the right and left main bronchi. | On examination, the trachea is in the midline.
+ANA085 | windpipe | القصبة الهوائية (لغة عامة) | B2 | n | a | - | everyday word; technical: trachea | - | A piece of food got stuck in his windpipe. | The windpipe carries air down to the lungs.
+ANA086 | bronchus | قصبة هوائية (شعبة) | C1 | n | a | bronchi | - | - | The tumor is blocking the right main bronchus. | Inhaled objects often lodge in the right bronchus.
+ANA087 | alveolus | سنخ رئوي | C1 | n | an | alveoli | - | - | Gas exchange takes place across the wall of each alveolus. | In pneumonia, fluid fills the alveoli.
+ANA088 | larynx | الحنجرة (مصطلح طبي) | C1 | n | a | - | technical; everyday word: voice box | voice box | The larynx contains the vocal cords. | A tumor of the larynx can cause hoarseness.
+ANA089 | pleura | الجنبة (غشاء الجنب) | C1 | n | - | - | used with "the" | - | Fluid can collect between the two layers of the pleura. | The tumor has spread to the pleura.
+ANA090 | colon | القولون | B2 | n | a | - | - | - | A colonoscopy examines the inside of the colon. | Part of her colon was removed because of cancer.
+ANA091 | rectum | المستقيم | C1 | n | a | - | - | - | The rectum stores stool before it is passed. | Bleeding from the rectum must always be investigated.
+ANA092 | appendix | الزائدة الدودية | B2 | n | an | - | - | - | Her appendix was removed when she was twelve. | An inflamed appendix can burst within 48 hours.
+ANA093 | ureter | الحالب | C1 | n | a | - | - | - | A stone is stuck in the left ureter. | Each ureter carries urine from a kidney to the bladder.
+ANA094 | urethra | الإحليل | C1 | n | a | - | - | - | Urine leaves the bladder through the urethra. | Women have a shorter urethra than men.
+ANA095 | prostate | البروستاتا | B2 | n | a | - | - | prostate gland | An enlarged prostate can make urination difficult. | The prostate is examined during a rectal exam.
+ANA096 | cervix | عنق الرحم | C1 | n | a | cervices | - | - | A Pap smear collects cells from the cervix. | During labor, the cervix opens to ten centimeters.
+ANA097 | placenta | المشيمة | C1 | n | a | - | - | - | The placenta supplies the fetus with oxygen and nutrients. | The placenta was delivered ten minutes after the baby.
+ANA098 | fetus | الجنين | C1 | n | a | - | - | - | The fetus has a normal heart rate. | Alcohol can harm the developing fetus.
+ANA099 | bone marrow | نقي العظم | B2 | n | - | - | uncountable | - | Bone marrow produces blood cells. | A sample of bone marrow was taken from her hip.
+ANA100 | lymph node | عقدة لمفية | B2 | n | a | - | - | - | A lymph node in his neck is enlarged. | The surgeon removed several lymph nodes from her armpit.
+ANA101 | plasma | البلازما | C1 | n | - | - | uncountable | - | Plasma is the liquid part of the blood. | She received fresh frozen plasma before the operation.
+ANA102 | platelet | صفيحة دموية | C1 | n | a | - | - | - | Platelets stick together to plug a damaged blood vessel. | His platelet count is very low after chemotherapy.
+ANA103 | hemoglobin | الهيموغلوبين (خضاب الدم) | C1 | n | - | - | uncountable | - | Hemoglobin carries oxygen in red blood cells. | Her hemoglobin dropped from 12 to 8 overnight.
+ANA104 | antibody | جسم مضاد | B2 | n | an | - | - | - | The body makes antibodies against the virus. | The test detected an antibody against the thyroid gland.
+ANA105 | enzyme | إنزيم | B2 | n | an | - | - | - | Enzymes in saliva start breaking down starch. | Lactase is the enzyme that breaks down lactose.
+ANA106 | neuron | عصبون (خلية عصبية) | C1 | n | a | - | - | - | Each neuron sends signals to thousands of other cells. | Motor neurons control voluntary movement.
+ANA107 | reflex | منعكس (فعل انعكاسي) | B2 | n | a | - | - | - | The doctor tapped his knee to test the reflex. | Her reflexes are brisk and symmetrical.
+ANA108 | brainstem | جذع الدماغ | C1 | n | a | - | - | brain stem | The brainstem controls breathing and heart rate. | A stroke in the brainstem can be life-threatening.
+ANA109 | cerebellum | المخيخ | C1 | n | a | - | - | - | The cerebellum coordinates balance and movement. | Alcohol affects the cerebellum and causes an unsteady gait.
+ANA110 | cortex | القشرة (الدماغية أو الكظرية) | C1 | n | a | cortices | - | - | The motor cortex controls voluntary movement. | The adrenal cortex produces cortisol.
+ANA111 | pituitary gland | الغدة النخامية | C1 | n | a | - | - | pituitary | The pituitary gland is often called the master gland. | A tumor of the pituitary gland can affect vision.
+ANA112 | adrenal gland | الغدة الكظرية | C1 | n | an | - | - | - | Each kidney has an adrenal gland on top of it. | A small tumor was found in the right adrenal gland.
+ANA113 | retina | الشبكية | C1 | n | a | - | - | - | Diabetes can damage the blood vessels of the retina. | The retina converts light into nerve signals.
+ANA114 | cornea | القرنية | C1 | n | a | - | - | - | She scratched her cornea with a contact lens. | The cornea is the clear front surface of the eye.
+ANA115 | eardrum | طبلة الأذن | B2 | n | an | - | - | - | An ear infection can cause the eardrum to burst. | The left eardrum looks red and bulging.
+ANA116 | homeostasis | الاستتباب (التوازن الداخلي) | C1 | n | - | - | uncountable | - | The kidneys play a key role in homeostasis. | Severe infection disrupts normal homeostasis.
+ANA117 | perfusion | التروية | C1 | n | - | - | uncountable | - | Poor perfusion of the brain can cause confusion. | The scan showed reduced perfusion of the left kidney.
+ANA118 | oxygenation | الأكسجة | C1 | n | - | - | uncountable | - | Her oxygenation improved on high-flow oxygen. | We monitor oxygenation with a pulse oximeter.
+ANA119 | blood supply | الإمداد الدموي | B2 | n | a | - | - | - | The heart muscle gets its blood supply from the coronary arteries. | A tight cast can cut off the blood supply to the hand.
+ANA120 | innervate | يعصّب (يمدّ بالأعصاب) | C1 | v | - | - | noun: innervation | - | The ulnar nerve innervates the little finger. | The diaphragm is innervated by the phrenic nerve.
+ANA121 | supply | يغذّي (يمدّ بالدم) | B2 | v | - | - | supply sth with sth | - | The coronary arteries supply the heart muscle with blood. | The left anterior descending artery supplies the front of the heart.
+ANA122 | drain | يصرّف (ينزح) | B2 | v | - | - | - | - | The jugular veins drain blood from the head. | Lymph from the breast drains to the armpit.
+ANA123 | clot | يتخثّر | B2 | v | - | - | - | - | Blood clots more slowly in patients on warfarin. | Her blood did not clot normally after the tooth extraction.
+ANA124 | inhale | يستنشق (يشهق) | B2 | v | - | - | opposite: exhale | breathe in | Inhale deeply and hold your breath. | He inhaled a lot of smoke during the fire.
+ANA125 | exhale | يزفر | B2 | v | - | - | opposite: inhale | breathe out | Exhale slowly through your mouth. | Patients with COPD struggle to exhale fully.
+ANA126 | peripheral | محيطي (طرفي) | C1 | adj | - | - | - | - | Peripheral nerves connect the spinal cord to the limbs. | We placed a peripheral IV line in his hand.
+ANA127 | superficial | سطحي | B2 | adj | - | - | opposite: deep | - | The cut is superficial and does not need stitches. | Superficial veins can be seen under the skin.
+ANA128 | physiological | فيزيولوجي (وظيفي طبيعي) | C1 | adj | - | - | - | physiologic | A slight drop in blood pressure during sleep is physiological. | Pregnancy causes many physiological changes.
+ANA129 | anatomical | تشريحي | C1 | adj | - | - | - | anatomic | Learn the anatomical position before the dissection. | The CT clearly shows the anatomical relationships of the tumor.
+ANA130 | neurological | عصبي (متعلق بالجهاز العصبي) | B2 | adj | - | - | - | neurologic | He has no neurological deficits. | A neurological exam was performed after the fall.
+ANA131 | respiratory | تنفسي | B2 | adj | - | - | - | - | The respiratory rate is 18 breaths per minute. | Smoking increases the risk of respiratory infections.
+ANA132 | gastrointestinal | هضمي (معدي معوي) | C1 | adj | - | - | - | GI | Nausea is a common gastrointestinal side effect. | She was referred to a gastrointestinal specialist.
+ANA133 | musculoskeletal | عضلي هيكلي | C1 | adj | - | - | - | - | Back pain is the most common musculoskeletal complaint. | The musculoskeletal exam was normal.
+ANA134 | skeletal | هيكلي (عظمي) | C1 | adj | - | - | - | - | Skeletal muscle is under voluntary control. | The X-ray shows a skeletal deformity of the chest wall.

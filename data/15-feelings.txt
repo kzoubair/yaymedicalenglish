@@ -1,0 +1,115 @@
+@theme feelings FEE general
+# Feelings and opinions
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 29: emotions, reactions, idioms of feeling ---
+FEE001 | frustrated | محبَط (منزعج) | B2 | adj | - | - | frustrated with / about sth | - | I was frustrated when the computer system crashed during rounds. | Patients get frustrated when they wait for hours.
+FEE002 | frustration | الإحباط | B2 | n | - | - | uncountable | - | I understand your frustration with the long wait. | Frustration is common during the first months of residency.
+FEE003 | relieved | مرتاح (بعد زوال القلق) | B2 | adj | - | - | relieved to hear / that | - | She was relieved to hear that the tumor was benign. | I was relieved when I passed Step 1.
+FEE004 | relief | الارتياح | B2 | n | - | - | - | - | It was a huge relief to get my visa. | The family felt relief when he woke up.
+FEE005 | grateful | ممتنّ | B2 | adj | - | - | grateful for sth / to sb | thankful | I am grateful for your help with my application. | The family was grateful to the nurses.
+FEE006 | gratitude | الامتنان | C1 | n | - | - | uncountable | - | The patient expressed her gratitude with a card. | I want to express my gratitude to my mentors.
+FEE007 | thrilled | مسرور جدًا | B2 | adj | - | - | - | - | I was thrilled to match at my first choice. | She was thrilled with the results of her surgery.
+FEE008 | devastated | مفجوع (محطَّم) | C1 | adj | - | - | - | - | The family was devastated by the news. | He was devastated when he failed the exam.
+FEE009 | ashamed | يشعر بالعار | B2 | adj | - | - | ashamed of sth / to do sth | - | Patients may feel ashamed to talk about their drinking. | Don't be ashamed to ask for help.
+FEE010 | guilty | يشعر بالذنب | B2 | adj | - | - | feel guilty about sth | - | I feel guilty when I don't call my parents. | She felt guilty about missing her son's birthday.
+FEE011 | guilt | الشعور بالذنب | C1 | n | - | - | uncountable | - | Many caregivers feel guilt when they need a break. | Guilt is common after the death of a family member.
+FEE012 | regret | يندم | B2 | v | - | - | regret doing sth | - | I regret not studying harder for the first exam. | You won't regret choosing this specialty.
+FEE013 | insecure | غير واثق بنفسه | B2 | adj | - | - | - | - | I felt insecure about my English at first. | Insecure students often do not ask questions.
+FEE014 | self-confidence | الثقة بالنفس | B2 | n | - | - | uncountable | confidence | Daily practice slowly builds self-confidence. | Her self-confidence grew during the rotation.
+FEE015 | skeptical | متشكّك | C1 | adj | - | - | skeptical about / of sth | - | I am skeptical about this new treatment. | Some patients are skeptical of vaccines.
+FEE016 | enthusiastic | متحمّس | B2 | adj | - | - | enthusiastic about sth | - | The students were enthusiastic about the new course. | She is enthusiastic about research.
+FEE017 | indifferent | غير مبالٍ | C1 | adj | - | - | indifferent to sth | - | He seemed indifferent to the results. | Patients notice when a doctor seems indifferent.
+FEE018 | resentful | ممتعض | C1 | adj | - | - | - | - | She felt resentful about the extra shifts. | Resentful coworkers can damage a team.
+FEE019 | resent | يستاء من | C1 | v | - | - | resent doing sth | - | He resented being blamed for the error. | Some patients resent being told what to do.
+FEE020 | content | قانع (راضٍ بما لديه) | C1 | adj | - | - | content with sth | - | I'm content with a small apartment for now. | He seems content with his life in the city.
+FEE021 | furious | غاضب جدًا | B2 | adj | - | - | - | - | The patient was furious about the billing mistake. | She was furious when her flight was canceled.
+FEE022 | apprehensive | متوجّس | C1 | adj | - | - | apprehensive about sth | - | He was apprehensive about his first night on call. | Many patients are apprehensive before surgery.
+FEE023 | hopeful | يحدوه الأمل | B2 | adj | - | - | - | - | We are hopeful that the treatment will work. | The family remains hopeful despite the bad news.
+FEE024 | optimistic | متفائل | B2 | adj | - | - | opposite: pessimistic | - | I'm optimistic about my chances in the Match. | The surgeon is optimistic about her recovery.
+FEE025 | pessimistic | متشائم | B2 | adj | - | - | opposite: optimistic | - | Don't be so pessimistic; your scores are good. | He is pessimistic about the future of the clinic.
+FEE026 | uneasy | قلِق (غير مطمئن) | C1 | adj | - | - | - | - | I felt uneasy about the patient's sudden calm. | Something about the X-ray made her uneasy.
+FEE027 | nostalgic | يحنّ إلى الماضي | C1 | adj | - | - | - | - | The smell of mint tea makes me nostalgic. | She gets nostalgic when she talks about her childhood in Fez.
+FEE028 | moved | متأثّر في أعماقه | B2 | adj | - | - | - | - | I was deeply moved by the patient's story. | The team was moved by the family's letter.
+FEE029 | touched | متأثّر بلفتة لطيفة | B2 | adj | - | - | - | - | I was touched that the patient remembered my name. | She was touched by the gift from her students.
+FEE030 | heartbroken | مكسور القلب | B2 | adj | - | - | - | - | The parents were heartbroken after the loss. | He was heartbroken when his grandmother died.
+FEE031 | anxiety | القلق | B2 | n | - | - | uncountable | - | Exam anxiety is very common among students. | Breathing exercises can reduce anxiety.
+FEE032 | sympathy | المواساة (الشفقة) | B2 | n | - | - | uncountable | - | I have a lot of sympathy for families in this situation. | She sent a card to express her sympathy.
+FEE033 | resentment | الاستياء | C1 | n | - | - | uncountable | - | There was resentment about the new schedule. | Unfair treatment of staff creates resentment.
+FEE034 | satisfaction | الرضا | B2 | n | - | - | uncountable | - | Patient satisfaction is measured after every visit. | I get a lot of satisfaction from helping people.
+FEE035 | morale | الروح المعنوية | C1 | n | - | - | uncountable | - | Morale on the ward was low after the layoffs. | A good team leader improves morale.
+FEE036 | appreciate | يقدّر | B2 | v | - | - | - | - | I really appreciate your help. | Patients appreciate it when you sit down and listen.
+FEE037 | sympathize | يتعاطف مع (يواسي) | C1 | v | - | - | sympathize with sb | - | I completely sympathize with your situation. | The nurse sympathized with the tired mother.
+FEE038 | cope | يتأقلم (يتعامل مع الضغط) | B2 | v | - | - | cope with sth | - | How do you cope with stress during residency? | She is coping well with the diagnosis.
+FEE039 | comfort | يواسي | B2 | v | - | - | - | console | The nurse comforted the crying child. | We tried to comfort the family.
+FEE040 | admire | يُعجب بـ | B2 | v | - | - | - | - | I admire her calm under pressure. | Students admire attendings who teach well.
+FEE041 | doubt | يشكّ | B2 | v | - | - | doubt that | - | I doubt that the pain is cardiac. | She never doubted her decision to study medicine.
+FEE042 | vent | يُفرّغ غضبه بالكلام | C1 | v | - | - | informal | - | Sometimes patients just need to vent. | I vented to my roommate after a terrible shift.
+FEE043 | point of view | وجهة نظر | B2 | n | a | points of view | - | viewpoint | From the patient's point of view, the wait is too long. | I understand your point of view, but I disagree.
+FEE044 | from my perspective | من منظوري | B2 | expr | - | - | - | from my point of view | From my perspective, the plan is too risky. | From my perspective, teaching is the best part of the job.
+FEE045 | to be honest | لأكون صادقًا | B2 | expr | - | - | - | honestly | To be honest, I was not ready for the exam. | To be honest, I don't remember the dose.
+FEE046 | I couldn't agree more. | أتّفق معك تمامًا. | C1 | expr | - | - | strong agreement | I could not agree more. | "I couldn't agree more," the attending said. | When she suggested a break, I said, "I couldn't agree more."
+FEE047 | That's a fair point. | هذه نقطة وجيهة. | B2 | expr | - | - | polite partial agreement | That is a fair point. | "That's a fair point," he said, "but the risk is still high." | That's a fair point, and I will think about it.
+FEE048 | I see your point. | أفهم وجهة نظرك. | B2 | expr | - | - | polite partial agreement | - | I see your point, but we need more evidence. | "I see your point," she replied politely.
+FEE049 | on the fence | متردّد (لم يحسم رأيه) | C1 | expr | - | - | informal | - | I'm still on the fence about which specialty to choose. | The patient is on the fence about the surgery.
+FEE050 | have mixed feelings | لديه مشاعر متضاربة | B2 | expr | - | - | irregular: had, has | - | I have mixed feelings about leaving my country. | She had mixed feelings about the job offer.
+FEE051 | be torn | ممزّق بين خيارين | C1 | expr | - | - | be torn between A and B | - | I'm torn between surgery and internal medicine. | He was torn about moving so far from his family.
+FEE052 | take sth personally | يأخذ الأمر على محمل شخصي | B2 | expr | - | - | irregular: took, taken | - | Don't take it personally when a patient is rude. | She took the criticism personally.
+FEE053 | keep one's cool | يحافظ على هدوئه | C1 | expr | - | - | informal; irregular: kept | - | She kept her cool during the code. | Try to keep your cool with angry families.
+FEE054 | lose one's temper | يفقد أعصابه | B2 | expr | - | - | irregular: lost | - | He lost his temper with the nurse and later apologized. | Never lose your temper with a patient.
+FEE055 | get on sb's nerves | يثير أعصابه | B2 | expr | - | - | informal; irregular: got, gotten | - | The constant alarms get on my nerves. | His jokes started to get on her nerves.
+FEE056 | a weight off one's shoulders | زوال همّ ثقيل | C1 | expr | - | - | - | - | Passing the exam was a weight off my shoulders. | Getting the visa took a weight off her shoulders.
+FEE057 | over the moon | في غاية السعادة | C1 | expr | - | - | informal | - | She was over the moon when she matched. | My parents were over the moon about the news.
+FEE058 | at a loss for words | عاجز عن الكلام | C1 | expr | - | - | - | - | I was at a loss for words when they thanked me. | The family was at a loss for words after the diagnosis.
+# --- batch 30: giving opinions, attitudes, character, adverbs of attitude ---
+FEE059 | frankly | بصراحة | B2 | adv | - | - | - | - | Frankly, I think the plan is unrealistic. | She spoke frankly about her mistakes.
+FEE060 | admittedly | يجب الاعتراف بأنّ | C1 | adv | - | - | - | - | Admittedly, I made a mistake with the dose. | The hours are admittedly long, but the training is excellent.
+FEE061 | understandably | وهو أمر مفهوم | C1 | adv | - | - | - | - | The family was understandably upset. | Understandably, she was nervous before the operation.
+FEE062 | genuinely | حقًّا (بصدق) | C1 | adv | - | - | - | - | He genuinely cares about his patients. | I was genuinely surprised by the result.
+FEE063 | sincerely | بإخلاص | B2 | adv | - | - | - | - | I sincerely apologize for the delay. | She sincerely thanked the team.
+FEE064 | deeply | بعمق | B2 | adv | - | - | - | - | We are deeply sorry for your loss. | She deeply respects her mentor.
+FEE065 | argue | يحاجج (يرى بالحجة أنّ) | B2 | v | - | - | argue that | - | I would argue that the benefits outweigh the risks. | Some experts argue that screening starts too late.
+FEE066 | assume | يفترض | B2 | v | - | - | - | - | Don't assume the patient understands medical terms. | I assumed the results were normal.
+FEE067 | disapprove | لا يوافق على (يستنكر) | B2 | v | - | - | disapprove of sth | - | My parents disapprove of my long hours. | The attending disapproved of the shortcut.
+FEE068 | object | يعترض | C1 | v | - | - | object to sth | - | The family objected to the transfer. | Nobody objected to the new schedule.
+FEE069 | criticize | ينتقد | B2 | v | - | - | - | - | He criticized the hospital for the long wait. | Don't criticize colleagues in front of patients.
+FEE070 | endorse | يؤيّد رسميًا | C1 | v | - | - | - | - | The society endorses the new guidelines. | I fully endorse her application.
+FEE071 | consensus | إجماع (توافق) | C1 | n | a | - | reach a consensus | - | The team reached a consensus on the treatment. | There is no consensus on the best approach.
+FEE072 | bias | تحيّز | C1 | n | a | - | - | - | Be aware of your own bias toward patients. | Implicit bias can affect clinical decisions.
+FEE073 | prejudice | الأحكام المسبقة | C1 | n | - | - | - | - | Prejudice has no place in medicine. | She faced prejudice because of her accent.
+FEE074 | stance | موقف (رأي معلن) | C1 | n | a | - | - | position | What is the hospital's stance on visiting hours? | He changed his stance after reading the study.
+FEE075 | biased | متحيّز | C1 | adj | - | - | biased toward / against sth | - | The study was biased toward the new drug. | Try not to be biased by the first diagnosis.
+FEE076 | controversial | مثير للجدل | C1 | adj | - | - | - | - | Euthanasia is a controversial topic. | The new policy is controversial among the staff.
+FEE077 | unreasonable | غير معقول | B2 | adj | - | - | - | - | The patient's demands were unreasonable. | It is unreasonable to expect interns to work 30 hours.
+FEE078 | convincing | مقنع | B2 | adj | - | - | - | - | The evidence for the new drug is convincing. | She gave a convincing argument for surgery.
+FEE079 | open-minded | منفتح الذهن | B2 | adj | - | - | - | - | Be open-minded about other cultures. | An open-minded doctor listens to new ideas.
+FEE080 | stubborn | عنيد | B2 | adj | - | - | - | - | My grandfather is too stubborn to see a doctor. | The stubborn patient refused all tests.
+FEE081 | considerate | يراعي مشاعر الآخرين | B2 | adj | - | - | - | thoughtful | My roommate is quiet and very considerate. | It was considerate of you to call the family.
+FEE082 | arrogant | متعجرف | B2 | adj | - | - | - | - | Patients do not trust arrogant doctors. | He seemed arrogant, but he was just shy.
+FEE083 | humble | متواضع | B2 | adj | - | - | - | - | The best surgeons are often humble. | Stay humble and keep learning.
+FEE084 | resilient | صامد (يتعافى من الصعاب) | C1 | adj | - | - | - | - | Residents need to be resilient to survive long shifts. | Children are often more resilient than adults.
+FEE085 | resilience | المرونة النفسية | C1 | n | - | - | uncountable | - | Resilience helps doctors cope with stress. | The program teaches resilience to new interns.
+FEE086 | compassion | الرأفة | C1 | n | - | - | uncountable | - | Compassion is at the heart of good medicine. | She treated every patient with compassion.
+FEE087 | I'm not sure about that. | لست متأكّدًا من ذلك. | B2 | expr | - | - | polite disagreement | I am not sure about that. | "I'm not sure about that," she said after reading the X-ray. | When the student suggested surgery, the attending said, "I'm not sure about that."
+FEE088 | It depends. | هذا يتوقّف على الظروف. | B2 | expr | - | - | it depends on sth | - | "It depends," the surgeon said, "on the size of the tumor." | It depends on how you feel after the first dose.
+FEE089 | if you ask me | إن سألتني (في رأيي) | B2 | expr | - | - | informal | - | If you ask me, the patient should stay another night. | If you ask me, the schedule is too heavy.
+FEE090 | make up one's mind | يحسم قراره | B2 | expr | - | - | irregular: made | - | I can't make up my mind about the job offer. | She made up her mind to apply to surgery.
+FEE091 | change one's mind | يغيّر رأيه | B2 | expr | - | - | - | - | The patient changed his mind and agreed to the surgery. | If you change your mind, call me.
+FEE092 | see eye to eye | يتّفقان في الرأي | C1 | expr | - | - | irregular: saw, seen | - | The two surgeons don't see eye to eye on the case. | We rarely see eye to eye about politics.
+FEE093 | put oneself in sb's shoes | يضع نفسه مكان غيره | C1 | expr | - | - | irregular: put | - | Try to put yourself in the patient's shoes. | When I put myself in her shoes, I understood her anger.
+FEE094 | get sth off one's chest | يبوح بما يثقل صدره | C1 | expr | - | - | informal; irregular: got, gotten | - | It helps to get things off your chest. | She needed to get the mistake off her chest.
+FEE095 | bottle up | يكبت (مشاعره) | C1 | expr | - | - | bottle sth up | - | Don't bottle up your feelings after a bad day. | He bottled up his anger for months.
+FEE096 | cheer up | يبتهج (يُدخل البهجة) | B2 | expr | - | - | cheer sb up | - | The clowns cheered up the children on the ward. | Cheer up; you'll pass next time.
+FEE097 | freak out | يُصاب بالذعر (لغة عامة) | B2 | expr | - | - | informal | - | I freaked out when I saw my exam score. | Don't freak out; the test is only a screening.
+FEE098 | burst into tears | ينفجر بالبكاء | B2 | expr | - | - | irregular: burst, burst | - | She burst into tears when she heard the news. | The patient burst into tears in my office.
+FEE099 | mood swing | تقلّب المزاج | B2 | n | a | - | - | - | Mood swings are common during pregnancy. | He has mood swings when he doesn't sleep.
+FEE100 | temper | سرعة الغضب (الطبع الحادّ) | B2 | n | a | - | a short temper | - | He has a short temper when he is tired. | Control your temper with difficult patients.
+FEE101 | outburst | نوبة غضب | C1 | n | an | - | - | - | The patient apologized for his outburst. | Angry outbursts can be a sign of delirium.
+FEE102 | sense of humor | حسّ الفكاهة | B2 | n | a | - | - | - | A good sense of humor helps on night shifts. | She has a great sense of humor, even at three in the morning.
+FEE103 | peace of mind | راحة البال | C1 | n | - | - | uncountable | - | A second opinion gave him peace of mind. | Insurance gives you peace of mind.
+FEE104 | ambivalent | متضارب المشاعر | C1 | adj | - | - | ambivalent about sth | - | She is ambivalent about having children. | Many patients feel ambivalent about quitting smoking.
+FEE105 | bitter | حانق (يشعر بالمرارة) | B2 | adj | - | - | - | - | He is still bitter about losing his job. | The divorce left her bitter.
+FEE106 | envious | حاسد (يغبط غيره) | C1 | adj | - | - | envious of sb / sth | - | I was envious of my friend's high score. | Don't be envious of other people's success.
+FEE107 | overjoyed | مبتهج للغاية | C1 | adj | - | - | - | - | The parents were overjoyed when the baby was born healthy. | I was overjoyed to see my family at the airport.
+FEE108 | dismayed | مستاء بخيبة أمل | C1 | adj | - | - | - | - | We were dismayed by the long waiting list. | She was dismayed to learn that her visa was delayed.
+FEE109 | sentimental | رقيق المشاعر (يتأثّر بالذكريات) | C1 | adj | - | - | - | - | My mother is very sentimental about old photos. | He gets sentimental at graduations.
+FEE110 | emotional | متأثّر عاطفيًا (مؤثّر) | B2 | adj | - | - | - | - | It was an emotional day for the whole family. | She got emotional during her farewell speech.

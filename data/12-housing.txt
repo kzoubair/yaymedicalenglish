@@ -1,0 +1,128 @@
+@theme housing HOU general
+# Housing and paperwork
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 23: renting and living in an apartment ---
+HOU001 | lease | عقد الإيجار | B2 | n | a | - | - | - | We signed a one-year lease. | Read the lease carefully before you sign it.
+HOU002 | landlord | المالك المؤجِّر | B2 | n | a | - | - | - | The landlord fixed the heater the same day. | Call the landlord if the heating stops working.
+HOU003 | tenant | المستأجر | B2 | n | a | - | - | renter | The previous tenant left the apartment clean. | Tenants have the right to a safe home.
+HOU004 | security deposit | مبلغ الضمان (التأمين) | B2 | n | a | - | - | - | The security deposit is one month's rent. | You will get your security deposit back if there is no damage.
+HOU005 | utilities | المرافق (كهرباء وماء وغاز) | B2 | n | - | - | plural noun | - | Utilities are not included in the rent. | Utilities cost about 150 dollars a month.
+HOU006 | roommate | شريك السكن | B2 | n | a | - | - | - | I share a two-bedroom apartment with a roommate. | My roommate is a nursing student.
+HOU007 | studio | شقة استوديو | B2 | n | a | - | - | studio apartment | A studio near the hospital costs 1,800 dollars a month. | The studio has a small kitchen and a bathroom.
+HOU008 | sublet | يؤجّر من الباطن | C1 | v | - | - | irregular: sublet, sublet | - | I sublet my apartment while I was away. | Ask the landlord before you sublet your room.
+HOU009 | move in | ينتقل إلى السكن | B2 | expr | - | - | move in with sb | - | We move in on the first of the month. | She moved in with her cousin when she arrived.
+HOU010 | move out | يُخلي السكن | B2 | expr | - | - | - | - | Give 30 days' notice before you move out. | They moved out because the rent went up.
+HOU011 | furnished | مفروش | B2 | adj | - | - | - | - | The apartment is fully furnished. | A furnished room is easier when you first arrive.
+HOU012 | unfurnished | غير مفروش | B2 | adj | - | - | - | - | Unfurnished apartments are usually cheaper. | The house is unfurnished, so we need to buy a bed.
+HOU013 | appliance | جهاز منزلي | B2 | n | an | - | - | - | The kitchen has new appliances. | Is the washing machine one of the appliances included?
+HOU014 | maintenance request | طلب صيانة | C1 | n | a | - | - | work order | Submit a maintenance request online. | I put in a maintenance request for the broken lock.
+HOU015 | leak | تسرّب ماء | B2 | n | a | - | - | - | There is a leak under the kitchen sink. | Report any leak to the building manager.
+HOU016 | mold | العفن | B2 | n | - | - | uncountable | - | There is mold on the bathroom ceiling. | Mold can make asthma worse.
+HOU017 | pest control | مكافحة الحشرات | B2 | n | - | - | uncountable | exterminator | Call pest control if you see cockroaches. | Pest control comes to the building every month.
+HOU018 | eviction | الطرد من السكن | C1 | n | an | - | - | - | The family received an eviction notice. | Eviction is a major cause of homelessness.
+HOU019 | renter's insurance | تأمين المستأجر | C1 | n | - | - | uncountable | renters insurance | Renter's insurance covers your belongings if there is a fire. | The landlord requires renter's insurance.
+HOU020 | credit score | التصنيف الائتماني | C1 | n | a | - | - | - | A good credit score helps you rent an apartment. | New immigrants often have no credit score.
+HOU021 | credit history | السجل الائتماني | C1 | n | a | - | - | - | Without a credit history, you may need a co-signer. | Building a credit history takes time.
+HOU022 | background check | التحقّق من السوابق | B2 | n | a | - | - | - | The landlord runs a background check on every applicant. | Hospitals do a background check before you start.
+HOU023 | co-signer | الضامن (الكفيل المشارك) | C1 | n | a | - | - | cosigner; guarantor | My uncle agreed to be my co-signer. | Some landlords ask for a co-signer if you have no credit.
+HOU024 | application fee | رسوم الطلب | B2 | n | an | - | - | - | The application fee is 50 dollars and is not refundable. | Pay the application fee online.
+HOU025 | proof of income | إثبات الدخل | C1 | n | - | - | uncountable | - | You need proof of income to rent an apartment. | A letter from the hospital can serve as proof of income.
+HOU026 | pay stub | قسيمة الراتب | C1 | n | a | - | - | paystub | Bring your last two pay stubs. | The landlord asked for a recent pay stub.
+HOU027 | neighborhood | الحيّ السكني | B2 | n | a | - | - | - | It is a safe neighborhood near the hospital. | The neighborhood has good schools and parks.
+HOU028 | utility bill | فاتورة المرافق | B2 | n | a | - | - | - | A utility bill can be used as proof of address. | The utility bill is due on the fifteenth.
+HOU029 | proof of address | إثبات العنوان | C1 | n | - | - | uncountable | proof of residence | The bank needs proof of address. | A lease is accepted as proof of address.
+HOU030 | thermostat | منظّم الحرارة | B2 | n | a | - | - | - | Set the thermostat to 68 degrees. | The thermostat is in the hallway.
+HOU031 | heating | التدفئة | B2 | n | - | - | uncountable | heat | The heating is not working in my bedroom. | Heating is included in the rent.
+HOU032 | air conditioning | التكييف | B2 | n | - | - | abbreviation: AC | AC | The apartment has central air conditioning. | Air conditioning is essential in Texas in the summer.
+HOU033 | laundry room | غرفة الغسيل | B2 | n | a | - | - | - | The laundry room is in the basement. | There is a shared laundry room on each floor.
+HOU034 | renew | يجدّد | B2 | v | - | - | - | - | We renewed the lease for another year. | Renew your driver's license before it expires.
+HOU035 | terminate | يُنهي (عقدًا) | C1 | v | - | - | formal | - | You can terminate the lease with 60 days' notice. | The landlord terminated the contract after he stopped paying rent.
+HOU036 | evict | يطرد (مستأجرًا) | C1 | v | - | - | - | - | The landlord cannot evict you without a court order. | They were evicted for not paying rent.
+HOU037 | install | يركّب | B2 | v | - | - | - | - | The technician installed the internet on Monday. | We need to install a smoke detector.
+HOU038 | unpack | يُفرغ الحقائب | B2 | v | - | - | - | - | It took us a week to unpack all the boxes. | Unpack the kitchen boxes first.
+HOU039 | spacious | فسيح | B2 | adj | - | - | - | - | The living room is bright and spacious. | We found a spacious apartment for a good price.
+HOU040 | cramped | ضيّق ومكتظّ | C1 | adj | - | - | - | - | The studio is cramped but close to work. | Three students live in a cramped apartment.
+HOU041 | affordable | بسعر معقول | B2 | adj | - | - | - | - | It is hard to find affordable housing in New York. | The rent is affordable on a resident's salary.
+HOU042 | pet-friendly | يقبل الحيوانات الأليفة | B2 | adj | - | - | - | - | We need a pet-friendly building for our cat. | Pet-friendly apartments often charge a pet fee.
+HOU043 | refundable | قابل للاسترداد | C1 | adj | - | - | opposite: nonrefundable | - | The deposit is fully refundable if you leave the apartment clean. | Is the application fee refundable?
+HOU044 | break a lease | يفسخ عقد الإيجار مبكرًا | C1 | expr | - | - | irregular: broke, broken | - | Breaking a lease can cost two months' rent. | He broke his lease to move closer to the hospital.
+HOU045 | make ends meet | يغطّي نفقاته بالكاد | C1 | expr | - | - | irregular: made | - | It is hard to make ends meet on a student budget. | They work two jobs to make ends meet.
+HOU046 | give notice | يُخطر مسبقًا بالمغادرة | B2 | expr | - | - | irregular: gave, given | - | You must give notice 30 days before you leave. | She gave notice to her landlord in March.
+HOU047 | settle in | يستقرّ (يتأقلم مع المكان) | B2 | expr | - | - | - | - | Have you settled in to your new apartment? | It took her a month to settle in.
+HOU048 | real estate agent | وكيل عقارات | B2 | n | a | - | - | realtor | A real estate agent helped us find the house. | Real estate agents usually charge a fee.
+HOU049 | mortgage | قرض عقاري | C1 | n | a | - | - | home loan | They took out a 30-year mortgage. | Our mortgage payment is due on the first of the month.
+HOU050 | down payment | الدفعة الأولى | C1 | n | a | - | - | - | They saved for a down payment for five years. | A down payment of 20 percent avoids extra insurance.
+HOU051 | homeowner | مالك منزل | B2 | n | a | - | - | - | Homeowners pay property taxes every year. | Homeowners must keep the sidewalk clear of snow.
+HOU052 | property tax | ضريبة العقار | C1 | n | a | - | - | - | Property taxes are high in this county. | The property tax is paid twice a year.
+HOU053 | building manager | مدير المبنى | B2 | n | a | - | - | superintendent; super | Ask the building manager for a parking permit. | The building manager has a spare key.
+HOU054 | doorman | البوّاب | B2 | n | a | doormen | - | - | The doorman accepts packages for residents. | Our building has a doorman at night.
+HOU055 | smoke detector | كاشف الدخان | B2 | n | a | - | - | smoke alarm | Test the smoke detector every month. | The smoke detector went off when I was cooking.
+HOU056 | locksmith | فنّي الأقفال | B2 | n | a | - | - | - | I called a locksmith because I lost my keys. | The locksmith changed the lock in ten minutes.
+HOU057 | trash pickup | جمع النفايات | B2 | n | - | - | uncountable | garbage collection | Trash pickup is on Tuesdays. | Recycling and trash pickup are on different days.
+HOU058 | recycling | إعادة التدوير | B2 | n | - | - | uncountable | - | Put the recycling in the blue bin. | Recycling is collected every two weeks.
+HOU059 | move-in date | تاريخ الانتقال إلى السكن | B2 | n | a | - | - | - | Our move-in date is August first. | The landlord changed the move-in date.
+HOU060 | square feet | قدم مربعة | B2 | n | - | - | plural; singular: square foot | sq ft | The apartment is 600 square feet. | How many square feet is the bedroom?
+# --- batch 24: documents, immigration, banking, taxes, insurance ---
+HOU061 | paperwork | المعاملات الورقية | B2 | n | - | - | uncountable | - | There is a lot of paperwork when you move to a new country. | I spent the whole day on paperwork.
+HOU062 | fill out | يملأ (استمارة) | B2 | expr | - | - | fill sth out | fill in | Fill out this form and bring it back. | She filled out the application online.
+HOU063 | Social Security number | رقم الضمان الاجتماعي | C1 | n | a | - | abbreviation: SSN | SSN | You need a Social Security number to get paid. | Never share your Social Security number by email.
+HOU064 | driver's license | رخصة القيادة | B2 | n | a | - | - | - | You can use your driver's license as an ID. | She got her driver's license in Ohio.
+HOU065 | state ID | بطاقة هوية الولاية | C1 | n | a | - | - | state ID card | If you don't drive, get a state ID. | A state ID is accepted at the airport.
+HOU066 | green card | البطاقة الخضراء (الإقامة الدائمة) | B2 | n | a | - | - | permanent resident card | He got his green card after five years. | A green card allows you to live and work in the US permanently.
+HOU067 | work permit | تصريح العمل | B2 | n | a | - | - | work authorization; EAD | Her work permit expires next year. | You cannot start the job without a work permit.
+HOU068 | immigration | الهجرة (دائرة الهجرة) | B2 | n | - | - | uncountable | - | The immigration process can take years. | Bring your passport to the immigration interview.
+HOU069 | embassy | سفارة | B2 | n | an | - | - | - | I have a visa interview at the US embassy. | The embassy is closed on public holidays.
+HOU070 | consulate | قنصلية | C1 | n | a | - | - | - | The consulate issues visas to students. | Book an appointment at the consulate online.
+HOU071 | notarize | يوثّق لدى كاتب العدل | C1 | v | - | - | - | - | The signed letter must be notarized. | You can notarize documents at most banks.
+HOU072 | notary public | كاتب العدل | C1 | n | a | notaries public | - | notary | A notary public must witness your signature. | There is a notary public at the bank.
+HOU073 | certified copy | نسخة مصدّقة | C1 | n | a | - | - | - | Send a certified copy of your birth certificate. | The board accepts only certified copies.
+HOU074 | apostille | التصديق الدولي (أبوستيل) | C1 | n | an | - | - | - | Your diploma needs an apostille from the Ministry of Foreign Affairs. | Some countries cannot issue an apostille.
+HOU075 | certified translation | ترجمة معتمدة | C1 | n | a | - | - | - | Documents in Arabic need a certified translation. | The certified translation cost 40 dollars a page.
+HOU076 | birth certificate | شهادة الميلاد | B2 | n | a | - | - | - | Bring your birth certificate and your passport. | Her birth certificate is in French and Arabic.
+HOU077 | marriage certificate | وثيقة الزواج | B2 | n | a | - | - | - | We need a marriage certificate for the visa. | The marriage certificate must be translated.
+HOU078 | expire | تنتهي صلاحيته | B2 | v | - | - | - | - | My passport expires in March. | The visa expired, so he had to leave.
+HOU079 | valid | ساري المفعول | B2 | adj | - | - | opposite: invalid | - | Your passport must be valid for six months. | Is this ID still valid in another state?
+HOU080 | issue | يُصدر (وثيقة) | B2 | v | - | - | - | - | The embassy issued her visa in two weeks. | The license is issued by the state.
+HOU081 | biometrics appointment | موعد أخذ البصمات | C1 | n | a | - | - | - | Bring your passport to the biometrics appointment. | The biometrics appointment takes about 20 minutes.
+HOU082 | processing time | مدة معالجة الطلب | C1 | n | a | - | - | - | The processing time for the visa is three months. | Processing times are longer in the summer.
+HOU083 | backlog | تراكم الطلبات المتأخرة | C1 | n | a | - | - | - | There is a long backlog of green card applications. | The office is working through a backlog.
+HOU084 | status | الوضع القانوني (وضع الإقامة) | C1 | n | - | - | immigration status | - | Keep your immigration status up to date. | Her status changed from student to worker.
+HOU085 | tax return | الإقرار الضريبي | B2 | n | a | - | - | - | File your tax return by April 15. | I got a refund on my tax return.
+HOU086 | file | يقدّم (إقرارًا أو طلبًا) | B2 | v | - | - | file taxes; file for sth | - | You must file taxes even as a foreign resident. | She filed for a new visa last month.
+HOU087 | IRS | مصلحة الضرائب الأمريكية | C1 | n | - | - | Internal Revenue Service; used with "the" | Internal Revenue Service | The IRS sends letters, not emails. | Check the IRS website for the tax forms.
+HOU088 | refund | مبلغ مسترَدّ | B2 | n | a | - | - | - | I received a tax refund of 800 dollars. | You can ask for a refund within 30 days.
+HOU089 | deduction | خصم (ضريبي أو من الراتب) | C1 | n | a | - | - | - | Student loan interest is a tax deduction. | Check the deductions on your pay stub.
+HOU090 | W-2 | نموذج الأجور السنوي (دبليو-2) | C1 | n | a | - | tax form from the employer | W2 | Your employer sends you a W-2 every January. | You need your W-2 to file taxes.
+HOU091 | checking account | الحساب الجاري | B2 | n | a | - | - | - | Open a checking account for your salary. | My rent is paid from my checking account.
+HOU092 | savings account | حساب التوفير | B2 | n | a | - | - | - | Put some money in a savings account each month. | The savings account pays a little interest.
+HOU093 | direct deposit | الإيداع المباشر للراتب | C1 | n | - | - | uncountable | - | The hospital pays residents by direct deposit. | Set up direct deposit with human resources.
+HOU094 | wire transfer | حوالة مصرفية | C1 | n | a | - | - | - | I sent money to my parents by wire transfer. | A wire transfer usually takes one or two days.
+HOU095 | debit card | بطاقة الخصم المباشر | B2 | n | a | - | - | - | Use your debit card to pay at the store. | The bank mailed my new debit card.
+HOU096 | credit card | بطاقة ائتمان | B2 | n | a | - | - | - | A credit card helps you build a credit history. | Pay your credit card bill in full every month.
+HOU097 | overdraft fee | رسوم السحب على المكشوف | C1 | n | an | - | - | - | I paid an overdraft fee because my balance was too low. | Some banks do not charge an overdraft fee.
+HOU098 | balance | الرصيد | B2 | n | a | - | - | - | Check your account balance before you pay the rent. | My balance is low until payday.
+HOU099 | ATM | صرّاف آلي | B2 | n | an | - | automated teller machine | cash machine | There is an ATM in the hospital lobby. | The ATM charged me a three-dollar fee.
+HOU100 | premium | قسط التأمين | C1 | n | a | - | - | - | The monthly premium is taken from my paycheck. | Plans with low premiums often have high deductibles.
+HOU101 | deductible | مبلغ التحمّل (قبل تغطية التأمين) | C1 | n | a | - | - | - | My plan has a deductible of 1,000 dollars. | After you meet the deductible, insurance pays most costs.
+HOU102 | coverage | التغطية التأمينية | B2 | n | - | - | uncountable | - | Does your insurance give coverage for dental care? | Coverage starts on the first day of work.
+HOU103 | in-network | ضمن شبكة التأمين | C1 | adj | - | - | opposite: out-of-network | in network | Choose an in-network doctor to pay less. | Is this hospital in-network for my plan?
+HOU104 | out-of-pocket | يدفعه المريض من ماله الخاص | C1 | adj | - | - | - | out of pocket | Out-of-pocket costs can be high without good insurance. | He paid 200 dollars out of pocket.
+HOU105 | claim | مطالبة تأمينية | B2 | n | a | - | - | - | The insurance company denied my claim. | Submit the claim within 90 days.
+HOU106 | open enrollment | فترة التسجيل المفتوح | C1 | n | - | - | uncountable | - | Open enrollment for health insurance is in November. | You can change your plan during open enrollment.
+HOU107 | apply for | يتقدّم بطلب للحصول على | B2 | expr | - | - | apply for sth | - | Apply for a Social Security number after you arrive. | She applied for a green card through her employer.
+HOU108 | sign up | يسجّل (في خدمة) | B2 | expr | - | - | sign up for sth | - | Sign up for the bank's mobile app. | I signed up for a gym near the hospital.
+HOU109 | pay off | يسدّد (دينًا بالكامل) | B2 | expr | - | - | irregular: paid | - | It took him ten years to pay off his loans. | Pay off your credit card every month.
+HOU110 | deposit | يودِع (مالًا) | B2 | v | - | - | - | - | Deposit the check using the app. | I deposited my first paycheck yesterday.
+HOU111 | overdue | متأخّر عن موعده | B2 | adj | - | - | - | past due | The electricity bill is overdue. | Overdue payments can hurt your credit score.
+HOU112 | mandatory | إلزامي | B2 | adj | - | - | - | - | Health insurance is mandatory for international students. | Attendance at orientation is mandatory.
+HOU113 | optional | اختياري | B2 | adj | - | - | - | - | Dental insurance is optional but useful. | The second interview is optional.
+HOU114 | bureaucratic | بيروقراطي | C1 | adj | - | - | - | - | The visa process is slow and bureaucratic. | Bureaucratic delays postponed her start date.
+HOU115 | red tape | الروتين الإداري | C1 | n | - | - | uncountable, informal | - | There is a lot of red tape for foreign doctors. | We cut through the red tape with help from the hospital.
+HOU116 | jump through hoops | يمرّ بإجراءات معقّدة كثيرة | C1 | expr | - | - | informal | - | International graduates have to jump through many hoops. | I jumped through hoops to get my license.
+HOU117 | in person | حضوريًا (شخصيًا) | B2 | expr | - | - | - | - | You must apply for the passport in person. | Can I sign the documents online, or do I need to come in person?
+HOU118 | on file | محفوظ في الملف | C1 | expr | - | - | - | - | We have your address on file. | Keep a copy of your visa on file.
+HOU119 | up to date | محدَّث | B2 | expr | - | - | before a noun: up-to-date | up-to-date | Keep your address up to date with immigration. | Are your vaccinations up to date?
+HOU120 | human resources | الموارد البشرية | B2 | n | - | - | abbreviation: HR | HR | Human resources will help you with your visa forms. | Send your pay questions to human resources.
+HOU121 | orientation | البرنامج التعريفي (التوجيه) | B2 | n | an | - | - | - | New residents have a week of orientation in June. | Orientation includes training on the computer system.
+HOU122 | mailing address | العنوان البريدي | B2 | n | a | - | - | - | Use the hospital as your mailing address. | Update your mailing address with the bank.
+HOU123 | zip code | الرمز البريدي | B2 | n | a | - | - | postal code | What is the zip code of your new apartment? | Insurance prices depend on your zip code.

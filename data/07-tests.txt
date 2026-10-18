@@ -1,0 +1,125 @@
+@theme tests TST medicine
+# Tests and imaging
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 13: common tests, samples, imaging, results ---
+TST001 | blood test | تحليل دم | B2 | n | a | - | - | - | We ordered a blood test to check her iron. | The blood test results will be ready tomorrow.
+TST002 | complete blood count | تعداد الدم الكامل | C1 | n | a | - | abbreviation: CBC | CBC | A complete blood count showed a low platelet count. | Order a complete blood count before surgery.
+TST003 | basic metabolic panel | لوحة الاستقلاب الأساسية | C1 | n | a | - | abbreviation: BMP | BMP | The basic metabolic panel shows a low potassium. | Repeat the basic metabolic panel in the morning.
+TST004 | liver function tests | اختبارات وظائف الكبد | C1 | n | - | - | plural; abbreviation: LFTs | LFTs | His liver function tests are elevated. | Check the liver function tests before starting the statin.
+TST005 | urinalysis | تحليل البول | C1 | n | a | urinalyses | abbreviation: UA | UA | A urinalysis showed white blood cells and nitrites. | The urinalysis was normal, so an infection is unlikely.
+TST006 | urine sample | عيّنة بول | B2 | n | a | - | - | urine specimen | Please give us a urine sample in this cup. | The urine sample was sent to the lab.
+TST007 | blood culture | زرع الدم | C1 | n | a | - | - | - | Draw two sets of blood cultures before antibiotics. | The blood culture grew Staphylococcus aureus.
+TST008 | swab | مسحة | B2 | n | a | - | - | - | We took a throat swab to test for strep. | A nasal swab was used to test for COVID-19.
+TST009 | specimen | عيّنة (مصطلح مخبري) | C1 | n | a | - | formal | - | Label every specimen with the patient's name. | The specimen was sent to pathology.
+TST010 | sample | عيّنة | B2 | n | a | - | - | - | A blood sample was taken from her arm. | The lab needs a fresh stool sample.
+TST011 | biopsy | خزعة | B2 | n | a | - | - | - | A biopsy of the lump confirmed cancer. | The surgeon took a biopsy during the colonoscopy.
+TST012 | X-ray | صورة بالأشعة السينية | B2 | n | an | - | - | radiograph | The X-ray showed a broken wrist. | We need an X-ray to rule out a fracture.
+TST013 | CT scan | التصوير المقطعي المحوسب | B2 | n | a | - | - | CAT scan; CT | A CT scan of the head was normal. | The CT scan showed a small kidney stone.
+TST014 | MRI | التصوير بالرنين المغناطيسي | B2 | n | an | - | magnetic resonance imaging | magnetic resonance imaging | An MRI of the knee showed a torn ligament. | Patients with some pacemakers cannot have an MRI.
+TST015 | ultrasound | التصوير بالأمواج فوق الصوتية | B2 | n | an | - | - | sonogram | An ultrasound of the abdomen showed gallstones. | The ultrasound confirmed that the pregnancy is in the uterus.
+TST016 | ECG | تخطيط القلب الكهربائي | B2 | n | an | - | also EKG (common in the US) | EKG; electrocardiogram | The ECG shows ST elevation in the anterior leads. | Get an ECG on every patient with chest pain.
+TST017 | echocardiogram | تخطيط صدى القلب | C1 | n | an | - | informal: echo | echo | The echocardiogram showed a weak left ventricle. | She is scheduled for an echocardiogram next week.
+TST018 | endoscopy | التنظير الداخلي | C1 | n | an | - | - | - | An endoscopy showed a bleeding ulcer in the stomach. | He needs an upper endoscopy because of his trouble swallowing.
+TST019 | colonoscopy | تنظير القولون | C1 | n | a | - | - | - | A screening colonoscopy is recommended at 45. | The colonoscopy found two small polyps.
+TST020 | mammogram | تصوير الثدي الشعاعي | C1 | n | a | - | - | - | She has a mammogram every year. | The mammogram showed a suspicious area in the left breast.
+TST021 | Pap smear | مسحة عنق الرحم | C1 | n | a | - | - | Pap test | Her last Pap smear was normal three years ago. | A Pap smear can detect early changes in the cervix.
+TST022 | lumbar puncture | البزل القطني | C1 | n | a | - | everyday: spinal tap; abbreviation: LP | spinal tap; LP | A lumbar puncture confirmed meningitis. | Lie still on your side during the lumbar puncture.
+TST023 | arterial blood gas | غازات الدم الشرياني | C1 | n | an | - | abbreviation: ABG | ABG; blood gas | An arterial blood gas showed respiratory acidosis. | Draw the arterial blood gas from the radial artery.
+TST024 | contrast | مادة التباين | C1 | n | - | - | uncountable | contrast dye | The CT was done with IV contrast. | Ask about kidney problems before giving contrast.
+TST025 | lab | المختبر | B2 | n | a | - | short for laboratory | laboratory | Send the blood to the lab right away. | The lab called with a critical potassium level.
+TST026 | reference range | المجال المرجعي (القيم الطبيعية) | C1 | n | a | - | - | normal range | Her sodium is within the reference range. | Each lab sets its own reference range.
+TST027 | cholesterol | الكوليسترول | B2 | n | - | - | uncountable | - | His cholesterol is too high for his age. | A fasting blood test measures cholesterol.
+TST028 | blood sugar | سكر الدم (لغة عامة) | B2 | n | - | - | everyday; technical: blood glucose | - | Check your blood sugar before breakfast. | Her blood sugar was 300 when she came in.
+TST029 | blood glucose | غلوكوز الدم (مصطلح طبي) | C1 | n | - | - | technical; everyday: blood sugar | - | Fasting blood glucose above 126 suggests diabetes. | Monitor blood glucose every four hours.
+TST030 | white blood cell count | تعداد الكريات البيضاء | C1 | n | a | - | informal: white count | WBC count; white count | A high white blood cell count suggests infection. | Her white blood cell count is low after chemotherapy.
+TST031 | hemoglobin A1c | الهيموغلوبين السكري | C1 | n | - | - | uncountable | A1c; HbA1c | His hemoglobin A1c is 8 percent, so we will add a second drug. | Hemoglobin A1c reflects blood sugar over three months.
+TST032 | troponin | التروبونين | C1 | n | - | - | uncountable | - | An elevated troponin suggests damage to the heart muscle. | Repeat the troponin in three hours.
+TST033 | D-dimer | دي-دايمر (مؤشر التخثّر) | C1 | n | a | - | - | - | A normal D-dimer makes a blood clot unlikely. | The D-dimer was elevated, so we ordered a CT angiogram.
+TST034 | electrolytes | الشوارد (الكهارل) | C1 | n | - | - | plural noun | lytes | Check her electrolytes after the diarrhea. | The electrolytes were normal except for a low potassium.
+TST035 | order | يطلب (فحصًا) | B2 | v | - | - | order a test | - | Let's order a chest X-ray for this patient. | The resident ordered a CT scan of the abdomen.
+TST036 | rule out | يستبعد | B2 | expr | - | - | rule sth out | - | We need a CT to rule out a bleed. | Two normal troponin tests helped rule out a heart attack.
+TST037 | draw blood | يسحب الدم | B2 | expr | - | - | irregular: drew, drawn | - | The nurse will draw blood for the tests. | They drew blood from his arm at six in the morning.
+TST038 | interpret | يفسّر (يقرأ النتيجة) | B2 | v | - | - | - | - | The radiologist interpreted the scan within an hour. | Can you interpret this ECG for me?
+TST039 | confirm | يؤكّد | B2 | v | - | - | - | - | The biopsy confirmed the diagnosis of lymphoma. | An ultrasound will confirm the pregnancy.
+TST040 | detect | يكشف | B2 | v | - | - | - | - | Mammograms can detect breast cancer early. | The test detects the virus in the blood.
+TST041 | elevated | مرتفع (مصطلح طبي) | C1 | adj | - | - | technical; everyday: high | raised | Her blood pressure was elevated at every visit. | An elevated white count suggests infection.
+TST042 | abnormal | غير طبيعي | B2 | adj | - | - | - | - | The ECG is abnormal and needs a cardiology review. | Abnormal results will be discussed with you.
+TST043 | inconclusive | غير حاسم | C1 | adj | - | - | - | - | The first test was inconclusive, so we repeated it. | The biopsy was inconclusive because the sample was too small.
+TST044 | positive | إيجابي (نتيجة الفحص) | B2 | adj | - | - | - | - | Her pregnancy test came back positive. | A positive result needs a second test to confirm it.
+TST045 | negative | سلبي (نتيجة الفحص) | B2 | adj | - | - | - | - | The COVID-19 test was negative this morning. | A negative result does not completely exclude the disease.
+TST046 | false positive | إيجابي كاذب | C1 | n | a | - | - | - | A false positive can cause unnecessary anxiety. | The screening test has a high rate of false positives.
+TST047 | sensitivity | الحساسية (حساسية الاختبار) | C1 | n | - | - | uncountable | - | The test has a sensitivity of 95 percent. | High sensitivity means that few cases are missed.
+TST048 | specificity | النوعية (نوعية الاختبار) | C1 | n | - | - | uncountable | - | High specificity means few false positives. | The specificity of the D-dimer is low.
+TST049 | imaging | التصوير الطبي | B2 | n | - | - | uncountable | - | Imaging showed a mass in the left kidney. | Advanced imaging is expensive, so order it only when needed.
+TST050 | radiologist | طبيب الأشعة | B2 | n | a | - | - | - | The radiologist reported a small fracture. | Discuss the CT with the radiologist.
+TST051 | scan | يصوّر (بالأشعة) | B2 | v | - | - | - | - | They scanned his head after the fall. | Her abdomen was scanned to look for the source of the bleeding.
+TST052 | come back | تصدر (النتائج) | B2 | expr | - | - | irregular: came | - | The blood results came back normal this morning. | When will the biopsy come back?
+TST053 | fasting | صائم (قبل التحليل) | B2 | adj | - | - | - | - | A fasting blood test is needed for glucose. | Patients should be fasting for eight hours before the test.
+TST054 | nothing by mouth | لا شيء عن طريق الفم (صيام تام) | C1 | expr | - | - | abbreviation: NPO | NPO | The patient must take nothing by mouth after midnight. | He is to have nothing by mouth until the surgery.
+TST055 | workup | مجموعة الفحوصات التشخيصية | C1 | n | a | - | - | work-up | The workup for his anemia is ongoing. | A full cardiac workup was negative.
+TST056 | follow-up | متابعة | B2 | n | a | - | - | - | She needs a follow-up visit in two weeks. | The follow-up CT showed that the tumor had shrunk.
+TST057 | incidental finding | موجودة عرضية | C1 | n | an | - | - | incidentaloma | The kidney cyst was an incidental finding. | Incidental findings on CT are very common.
+TST058 | portable | محمول (يُنقل إلى السرير) | B2 | adj | - | - | - | - | We did a portable chest X-ray in the ICU. | A portable ultrasound was brought to the bedside.
+# --- batch 14: specific tests, lab values, reports ---
+TST059 | chest X-ray | صورة الصدر الشعاعية | B2 | n | a | - | abbreviation: CXR | CXR | The chest X-ray shows a large pleural effusion. | A chest X-ray is part of the workup for a chronic cough.
+TST060 | angiogram | تصوير الأوعية | C1 | n | an | - | - | - | A CT angiogram ruled out a pulmonary embolism. | The angiogram was done through the radial artery.
+TST061 | stress test | اختبار الجهد | C1 | n | a | - | - | exercise test | He walked on a treadmill during the stress test. | An abnormal stress test led to a cardiac catheterization.
+TST062 | cardiac catheterization | قثطرة القلب | C1 | n | a | - | informal: cardiac cath | cardiac cath; heart cath | Cardiac catheterization showed three blocked arteries. | She had a cardiac catheterization through her wrist.
+TST063 | Holter monitor | جهاز هولتر (تسجيل مستمر لتخطيط القلب) | C1 | n | a | - | - | - | He will wear a Holter monitor for 24 hours. | The Holter monitor recorded several long pauses.
+TST064 | EEG | تخطيط الدماغ الكهربائي | C1 | n | an | - | electroencephalogram | electroencephalogram | An EEG was done after her first seizure. | The EEG showed abnormal activity in the temporal lobe.
+TST065 | pulmonary function tests | اختبارات وظائف الرئة | C1 | n | - | - | plural; abbreviation: PFTs | PFTs | Pulmonary function tests confirmed COPD. | Do not use your inhaler before the pulmonary function tests.
+TST066 | spirometry | قياس التنفس | C1 | n | - | - | uncountable | - | Spirometry is used to diagnose asthma and COPD. | Take a deep breath and blow hard for the spirometry.
+TST067 | Gram stain | صبغة غرام | C1 | n | a | - | - | - | The Gram stain showed gram-positive cocci. | A Gram stain gives a quick idea of the bacteria.
+TST068 | pregnancy test | اختبار الحمل | B2 | n | a | - | - | - | Do a pregnancy test before any X-ray in women of childbearing age. | The home pregnancy test was positive.
+TST069 | PCR test | اختبار تفاعل البوليميراز المتسلسل | C1 | n | a | - | - | PCR | A PCR test detects the genetic material of the virus. | The PCR test result takes about a day.
+TST070 | rapid test | اختبار سريع | B2 | n | a | - | - | - | A rapid test for strep is ready in ten minutes. | Rapid tests are less sensitive than PCR.
+TST071 | dipstick | شريط الغمس (لتحليل البول) | C1 | n | a | - | - | - | The urine dipstick was positive for blood. | A dipstick test can be done at the bedside.
+TST072 | glucometer | جهاز قياس السكر | C1 | n | a | - | - | glucose meter | She checks her sugar with a glucometer. | The glucometer reading was 45 before breakfast.
+TST073 | radiation | الإشعاع | B2 | n | - | - | uncountable | - | A CT scan exposes the patient to radiation. | Pregnant women should avoid unnecessary radiation.
+TST074 | PET scan | التصوير المقطعي بالإصدار البوزيتروني | C1 | n | a | - | - | PET | A PET scan showed that the cancer had spread. | She needs a PET scan before chemotherapy.
+TST075 | DEXA scan | فحص كثافة العظام | C1 | n | a | - | - | bone density scan | A DEXA scan confirmed osteoporosis. | Women over 65 should have a DEXA scan.
+TST076 | C-reactive protein | البروتين المتفاعل سي | C1 | n | - | - | abbreviation: CRP | CRP | Her C-reactive protein is very high, which suggests inflammation. | C-reactive protein falls as the infection improves.
+TST077 | creatinine | الكرياتينين | C1 | n | - | - | uncountable | - | His creatinine has doubled since admission. | Creatinine is used to estimate kidney function.
+TST078 | potassium | البوتاسيوم | B2 | n | - | - | uncountable | - | Her potassium is dangerously low after the diarrhea. | Some diuretics can lower potassium in the blood.
+TST079 | sodium | الصوديوم | B2 | n | - | - | uncountable | - | Low sodium can cause confusion and seizures. | His sodium dropped to 128 overnight.
+TST080 | INR | النسبة المعيارية الدولية | C1 | n | an | - | international normalized ratio | - | Check the INR every week while she is on warfarin. | Her INR is 4.5, so hold tonight's dose.
+TST081 | indicate | يشير إلى | B2 | v | - | - | - | - | A high troponin indicates heart damage. | The results indicate a urinary tract infection.
+TST082 | reveal | يكشف (يُظهر) | B2 | v | - | - | - | - | The scan revealed a small tumor in the liver. | Blood tests revealed severe anemia and a low platelet count.
+TST083 | monitor | يراقب | B2 | v | - | - | - | - | We will monitor her heart overnight. | Monitor his urine output every hour.
+TST084 | correlate | يربط (يقارن بالحالة السريرية) | C1 | v | - | - | correlate with sth | - | Correlate the X-ray findings with the exam. | The lab results did not correlate with her symptoms.
+TST085 | quantify | يحدّد كمّيًا | C1 | v | - | - | - | - | The scan quantifies the amount of calcium in the arteries. | It is hard to quantify pain objectively.
+TST086 | calibrate | يعاير (الجهاز) | C1 | v | - | - | - | - | Calibrate the glucometer before you use it. | The machine is calibrated every morning.
+TST087 | invasive | باضع (تدخّلي) | C1 | adj | - | - | opposite: noninvasive | - | An angiogram is an invasive test. | Invasive procedures carry a risk of infection.
+TST088 | noninvasive | غير باضع | C1 | adj | - | - | - | non-invasive | An echocardiogram is a noninvasive test. | Noninvasive ventilation can avoid intubation.
+TST089 | diagnostic | تشخيصي | B2 | adj | - | - | diagnostic of sth | - | The biopsy is diagnostic of lymphoma. | Diagnostic tests should change management.
+TST090 | routine | روتيني | B2 | adj | - | - | - | - | She had routine blood tests at her annual visit. | Routine screening found the cancer early.
+TST091 | critical | حرج | B2 | adj | - | - | - | - | The lab called with a critical value. | The patient is still in critical condition.
+TST092 | borderline | حدّي | C1 | adj | - | - | - | - | His cholesterol is borderline high. | The test result was borderline, so we repeated it.
+TST093 | suspicious | مثير للشكّ | B2 | adj | - | - | - | - | There is a suspicious lesion on the mammogram. | Any suspicious mole should be removed.
+TST094 | consistent with | متوافق مع | C1 | expr | - | - | - | - | The findings are consistent with pneumonia. | The CT is consistent with appendicitis.
+TST095 | suggestive of | يوحي بـ | C1 | expr | - | - | - | - | The X-ray is suggestive of heart failure. | These findings are suggestive of a viral infection.
+TST096 | pending | قيد الانتظار (لم تصدر بعد) | C1 | adj | - | - | - | - | The blood cultures are still pending. | Several results were still pending at discharge.
+TST097 | false negative | سلبي كاذب | C1 | n | a | - | - | - | A false negative can delay treatment. | Testing too early can give a false negative.
+TST098 | trend | منحى (اتجاه) | B2 | n | a | - | - | - | The trend of her creatinine is going up. | Look at the trend, not just a single value.
+TST099 | threshold | عتبة (حدّ فاصل) | C1 | n | a | - | - | - | The threshold for treatment is a blood pressure of 130 over 80. | Lower the threshold for imaging in older patients.
+TST100 | artifact | تشويش صنعي (في الصورة أو التخطيط) | C1 | n | an | - | - | - | The ECG change was an artifact caused by movement. | Metal implants can cause artifact on the CT.
+TST101 | opacity | عتامة (ظلّ في الصورة) | C1 | n | an | - | - | - | There is an opacity in the right lower lobe. | The opacity cleared after antibiotics.
+TST102 | consolidation | تكثّف رئوي | C1 | n | - | - | uncountable | - | The X-ray shows consolidation in the left lung. | Consolidation is typical of bacterial pneumonia.
+TST103 | shadow | ظلّ (في الصورة، لغة عامة) | B2 | n | a | - | everyday | - | The doctor saw a shadow on his lung X-ray. | A shadow on the scan does not always mean cancer.
+TST104 | reading | قراءة (الجهاز) | B2 | n | a | - | - | - | The blood pressure reading was 160 over 95. | Take three readings and use the average.
+TST105 | turnaround time | وقت إصدار النتيجة | C1 | n | a | - | - | - | The turnaround time for this test is two days. | The lab improved its turnaround time.
+TST106 | tracing | تخطيط (منحنى مسجّل) | C1 | n | a | - | - | - | Compare this ECG tracing with the old one. | The tracing shows atrial fibrillation.
+TST107 | lead | مَسرى (قطب تخطيط القلب) | C1 | n | a | - | - | - | There is ST elevation in lead II. | Place the chest leads carefully.
+TST108 | scope | منظار (لغة عامة) | B2 | n | a | - | everyday | - | The doctor will put a scope down your throat. | The scope showed inflammation in the stomach.
+TST109 | send off | يرسل (عينة إلى المختبر) | B2 | expr | - | - | irregular: sent | - | We sent off a urine sample for culture. | Send off the blood cultures before the first dose of antibiotics.
+TST110 | keep an eye on | يُبقي عينه على (يراقب) | B2 | expr | - | - | informal; irregular: kept | - | We'll keep an eye on the mole. | Keep an eye on his blood pressure overnight.
+TST111 | run a test | يجري فحصًا | B2 | expr | - | - | irregular: ran, run | - | We'd like to run some tests. | They ran a few tests and everything was normal.
+TST112 | get the results back | يحصل على النتائج | B2 | expr | - | - | irregular: got, gotten | - | We should get the results back tomorrow. | When we get the results back, I'll call you.
+TST113 | abnormality | شذوذ (خلل) | C1 | n | an | - | - | - | The brain scan shows no abnormality. | Any abnormality on the ECG should be explained.
+TST114 | claustrophobic | يخاف من الأماكن المغلقة | C1 | adj | - | - | - | - | She is claustrophobic and needs a sedative for the MRI. | Open MRI machines help claustrophobic patients.
+TST115 | bilirubin | البيليروبين | C1 | n | - | - | uncountable | - | Her bilirubin is high, which explains the jaundice. | Bilirubin levels peak a few days after birth.
+TST116 | lipid panel | لوحة الدهون | C1 | n | a | - | - | lipid profile | Order a fasting lipid panel every five years. | His lipid panel shows a high LDL.
+TST117 | TSH | الهرمون المنبّه للدرقية | C1 | n | a | - | thyroid-stimulating hormone | thyroid-stimulating hormone | Her TSH is high, which suggests hypothyroidism. | Check the TSH six weeks after changing the dose.
+TST118 | stool test | تحليل البراز | B2 | n | a | - | - | - | A stool test can detect hidden blood. | The stool test was positive for parasites.
+TST119 | preliminary | أوّلي | C1 | adj | - | - | - | - | The preliminary report shows no fracture. | Preliminary results suggest a viral infection.
+TST120 | definitive | نهائي (قاطع) | C1 | adj | - | - | - | - | A biopsy is needed for a definitive diagnosis. | The definitive report will be ready next week.

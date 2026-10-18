@@ -1,0 +1,110 @@
+@theme transport TRA general
+# Transport
+# ID | english | arabic | level | nature | article | plural | info | alt | example 1 | example 2
+# --- batch 27: commuting, public transit, driving, parking ---
+TRA001 | commute | التنقّل اليومي إلى العمل | B2 | n | a | - | also a verb | - | My commute to the hospital takes 40 minutes. | A long commute is tiring after a night shift.
+TRA002 | commuter | مُتنقّل يومي | C1 | n | a | - | - | - | The train is full of commuters at eight. | Many commuters work on their laptops on the train.
+TRA003 | rush hour | ساعة الذروة | B2 | n | - | - | uncountable | - | Traffic is terrible at rush hour. | Avoid the highway during rush hour.
+TRA004 | traffic jam | ازدحام مروري | B2 | n | a | - | - | - | I was stuck in a traffic jam for an hour. | There is a traffic jam on the bridge.
+TRA005 | subway | قطار الأنفاق (المترو) | B2 | n | a | - | - | metro | I take the subway to work every day. | The subway is the fastest way to get downtown.
+TRA006 | fare | أجرة الركوب | B2 | n | a | - | - | - | The bus fare is two dollars and fifty cents. | Students can get a reduced fare.
+TRA007 | transit pass | بطاقة النقل العام | C1 | n | a | - | - | monthly pass | A monthly transit pass saves money. | The hospital pays for part of your transit pass.
+TRA008 | public transportation | النقل العام | B2 | n | - | - | uncountable | public transit; mass transit | Public transportation is good in Boston. | Many residents use public transportation to save money.
+TRA009 | bus stop | موقف الحافلات | B2 | n | a | - | - | - | The bus stop is right in front of the hospital. | Wait for me at the bus stop.
+TRA010 | platform | رصيف المحطة | B2 | n | a | - | - | - | The train to the airport leaves from platform 2. | Stand behind the yellow line on the platform.
+TRA011 | round-trip | ذهاب وعودة | B2 | adj | - | - | - | round trip | A round-trip ticket is cheaper than two one-way tickets. | How much is a round-trip flight to Cairo?
+TRA012 | one-way | باتجاه واحد (ذهاب فقط) | B2 | adj | - | - | - | one way | I bought a one-way ticket to New York. | This is a one-way street.
+TRA013 | rideshare | خدمة النقل التشاركي | C1 | n | a | - | - | ride-share | I took a rideshare home after the night shift. | Rideshares are expensive during rush hour.
+TRA014 | cab | سيارة أجرة | B2 | n | a | - | - | taxi | Let's take a cab to the airport. | It's hard to find a cab in the rain.
+TRA015 | pick sb up | يقلّ شخصًا بالسيارة | B2 | expr | - | - | - | - | Can you pick me up at the hospital at six? | My roommate picked me up from the airport.
+TRA016 | drop sb off | يُنزل شخصًا في مكان ما | B2 | expr | - | - | - | - | I'll drop you off at the main entrance. | She dropped her son off at school before her shift.
+TRA017 | carpool | مشاركة السيارة | B2 | n | a | - | - | - | Four nurses share a carpool to the hospital. | Join a carpool to save on gas.
+TRA018 | gas station | محطة وقود | B2 | n | a | - | - | - | Stop at the gas station before we get on the highway. | The gas station is open 24 hours.
+TRA019 | gas | البنزين | B2 | n | - | - | uncountable; short for gasoline | gasoline | Gas prices went up again this week. | We need to get gas before the trip.
+TRA020 | highway | طريق سريع | B2 | n | a | - | - | freeway | Take the highway north for ten miles. | There was an accident on the highway.
+TRA021 | exit | مخرج (من الطريق السريع) | B2 | n | an | - | - | - | Take exit 12 to get to the hospital. | I missed my exit and had to turn around.
+TRA022 | intersection | تقاطع طرق | B2 | n | an | - | - | - | Turn left at the next intersection. | The accident happened at a busy intersection.
+TRA023 | crosswalk | ممرّ المشاة | B2 | n | a | - | - | - | Always cross the street at the crosswalk. | Cars must stop for people in the crosswalk.
+TRA024 | sidewalk | رصيف المشاة | B2 | n | a | - | - | - | Walk on the sidewalk, not in the street. | The sidewalk is icy this morning.
+TRA025 | traffic light | إشارة المرور | B2 | n | a | - | - | stoplight | Turn right at the second traffic light. | The traffic light is broken, so drive carefully.
+TRA026 | speed limit | الحدّ الأقصى للسرعة | B2 | n | a | - | - | - | The speed limit here is 30 miles per hour. | He got a ticket for driving over the speed limit.
+TRA027 | speeding ticket | مخالفة السرعة | B2 | n | a | - | - | - | I got a speeding ticket on my way to work. | A speeding ticket can raise your insurance.
+TRA028 | parking lot | موقف السيارات | B2 | n | a | - | - | - | The hospital parking lot is full by seven. | Staff must park in the back parking lot.
+TRA029 | parking garage | مرآب سيارات متعدّد الطوابق | B2 | n | a | - | - | - | The parking garage is next to the emergency entrance. | Parking in the garage costs ten dollars a day.
+TRA030 | parking permit | تصريح الوقوف | C1 | n | a | - | - | - | Residents get a parking permit for the staff garage. | Display your parking permit on the dashboard.
+TRA031 | tow | يسحب (سيارة) | C1 | v | - | - | - | tow away | My car was towed because I parked in a fire lane. | They will tow any car without a permit.
+TRA032 | car insurance | تأمين السيارة | B2 | n | - | - | uncountable | auto insurance | Car insurance is required in almost every state. | Car insurance is expensive for new drivers.
+TRA033 | rental car | سيارة مستأجرة | B2 | n | a | - | - | - | We picked up a rental car at the airport. | The rental car must be returned with a full tank.
+TRA034 | flat tire | إطار مثقوب | B2 | n | a | - | - | - | I had a flat tire on the way to the hospital. | Do you know how to change a flat tire?
+TRA035 | break down | يتعطّل (سيارة) | B2 | expr | - | - | irregular: broke, broken | - | My car broke down on the highway. | If the car breaks down, call roadside assistance.
+TRA036 | roadside assistance | المساعدة على الطريق | C1 | n | - | - | uncountable | - | Roadside assistance came in 40 minutes. | My insurance includes roadside assistance.
+TRA037 | mechanic | ميكانيكي | B2 | n | a | - | - | - | The mechanic said the brakes need to be replaced. | Find a mechanic you can trust.
+TRA038 | road test | اختبار القيادة العملي | C1 | n | a | - | - | driving test | I passed my road test on the second try. | Bring your own car to the road test.
+TRA039 | DMV | إدارة المركبات الآلية | B2 | n | - | - | Department of Motor Vehicles; used with "the" | Department of Motor Vehicles | I spent three hours at the DMV. | Make an appointment at the DMV to get your license.
+TRA040 | license plate | لوحة السيارة | B2 | n | a | - | - | - | The police wrote down his license plate. | Each state has different license plates.
+TRA041 | seat belt | حزام الأمان | B2 | n | a | - | - | seatbelt | Always wear your seat belt, even on short trips. | Seat belts save thousands of lives every year.
+TRA042 | car seat | مقعد الطفل في السيارة | B2 | n | a | - | - | - | The baby cannot leave the hospital without a car seat. | Install the car seat in the back.
+TRA043 | pedestrian | أحد المشاة | B2 | n | a | - | - | - | A pedestrian was hit by a car near the hospital. | Pedestrians have the right of way in the crosswalk.
+TRA044 | cyclist | راكب درّاجة | B2 | n | a | - | - | - | The cyclist was not wearing a helmet. | Drivers must give cyclists enough space.
+TRA045 | bike lane | مسار الدرّاجات | B2 | n | a | - | - | - | There is a bike lane all the way to the hospital. | Don't park in the bike lane.
+TRA046 | merge | يندمج في مسار السير | C1 | v | - | - | - | - | Merge into the left lane after the bridge. | Be careful when trucks merge onto the highway.
+TRA047 | yield | يُفسح الطريق | C1 | v | - | - | yield to sb | - | Yield to pedestrians at the crosswalk. | You must yield to ambulances with flashing lights.
+TRA048 | pull over | يركن على جانب الطريق | B2 | expr | - | - | pull sb over (police) | - | Pull over to let the ambulance pass. | The police officer pulled him over for speeding.
+TRA049 | get stuck in traffic | يعلق في زحمة السير | B2 | expr | - | - | irregular: got, gotten | - | I got stuck in traffic and was late for rounds. | If you get stuck in traffic, call the team.
+TRA050 | hop on | يركب بسرعة | C1 | expr | - | - | informal | - | Hop on the next bus; it goes to the hospital. | I hopped on the train at the last second.
+TRA051 | get off | ينزل (من وسيلة نقل) | B2 | expr | - | - | irregular: got, gotten | - | Get off the bus at the third stop. | I got off the train at the wrong station.
+TRA052 | congested | مزدحم بالسيارات | C1 | adj | - | - | - | - | The roads are congested during rush hour. | The city center is congested on weekdays.
+TRA053 | accessible | سهل الوصول (مهيّأ لذوي الإعاقة) | B2 | adj | - | - | wheelchair accessible | - | The station is accessible by wheelchair. | All hospital entrances are wheelchair accessible.
+TRA054 | delayed | متأخّر (رحلة أو قطار) | B2 | adj | - | - | - | - | My flight was delayed by two hours. | The train is delayed because of snow.
+TRA055 | nonstop | مباشر (دون توقّف) | B2 | adj | - | - | - | non-stop; direct | There is a nonstop flight from Dubai to Chicago. | The nonstop bus to the airport takes 30 minutes.
+# --- batch 28: flying, directions, around the hospital, adverbs of place ---
+TRA056 | boarding pass | بطاقة الصعود إلى الطائرة | B2 | n | a | - | - | - | Show your boarding pass at the gate. | You can print your boarding pass at home.
+TRA057 | carry-on | حقيبة اليد (أمتعة المقصورة) | B2 | n | a | - | - | carry-on bag | You can bring one carry-on and one personal item. | My carry-on was too big for the overhead bin.
+TRA058 | checked bag | حقيبة مشحونة | B2 | n | a | - | - | checked luggage | The first checked bag costs 30 dollars. | My checked bag did not arrive in Boston.
+TRA059 | baggage claim | منطقة استلام الأمتعة | B2 | n | - | - | - | - | I'll meet you at baggage claim after the flight. | Baggage claim is on the lower level.
+TRA060 | layover | توقّف مؤقّت بين رحلتين | B2 | n | a | - | - | stopover | I have a three-hour layover in Frankfurt. | A long layover can be very tiring.
+TRA061 | connecting flight | رحلة ربط | B2 | n | a | - | - | connection | I missed my connecting flight in Paris. | Your connecting flight leaves from gate B12.
+TRA062 | customs | الجمارك | B2 | n | - | - | plural form, used with "go through" | - | You must declare food at customs. | Customs took an hour at JFK.
+TRA063 | security checkpoint | نقطة التفتيش الأمني | C1 | n | a | - | - | security | Take your laptop out at the security checkpoint. | There was a long line at the security checkpoint.
+TRA064 | port of entry | منفذ الدخول | C1 | n | a | ports of entry | - | - | Your visa is checked at the port of entry. | Boston was my port of entry to the US.
+TRA065 | itinerary | خطّ سير الرحلة | C1 | n | an | - | - | - | Email me your itinerary before you travel. | The itinerary includes two flights and a train.
+TRA066 | aisle seat | مقعد بجانب الممرّ | B2 | n | an | - | - | - | I prefer an aisle seat on long flights. | Can I change to an aisle seat?
+TRA067 | window seat | مقعد بجانب النافذة | B2 | n | a | - | - | - | She booked a window seat to see the view. | The window seat was already taken.
+TRA068 | turbulence | المطبّات الهوائية | C1 | n | - | - | uncountable | - | Fasten your seat belt during turbulence. | There was heavy turbulence over the Atlantic.
+TRA069 | check in | يسجّل الوصول | B2 | expr | - | - | check in at / for sth | - | Check in online 24 hours before the flight. | We checked in at the hotel at three.
+TRA070 | board | يصعد إلى (الطائرة أو القطار) | B2 | v | - | - | - | - | Passengers in group two may now board. | We boarded the plane 30 minutes late.
+TRA071 | land | تهبط (الطائرة) | B2 | v | - | - | - | - | The plane landed safely in the snow. | Call me as soon as you land.
+TRA072 | take off | تُقلع (الطائرة) | B2 | expr | - | - | irregular: took, taken | - | The flight took off on time. | The plane takes off in ten minutes.
+TRA073 | block | مربّع سكني (بين شارعين) | B2 | n | a | - | - | - | The pharmacy is two blocks from here. | Walk three blocks north and turn right.
+TRA074 | landmark | معلَم بارز | C1 | n | a | - | - | - | The hospital is a well-known landmark in the city. | Use the big church as a landmark.
+TRA075 | directions | إرشادات الطريق | B2 | n | - | - | plural noun | - | Can you give me directions to the train station? | I used my phone for directions.
+TRA076 | GPS | نظام تحديد المواقع العالمي | B2 | n | - | - | Global Positioning System | - | The GPS sent us the wrong way. | Turn on the GPS before you leave.
+TRA077 | shortcut | طريق مختصر | B2 | n | a | - | - | - | I know a shortcut through the park. | The shortcut saved us ten minutes.
+TRA078 | detour | تحويلة (طريق بديل) | C1 | n | a | - | - | - | There is a detour because of road work. | We took a detour to avoid the accident.
+TRA079 | road work | أعمال الطرق | B2 | n | - | - | uncountable | roadwork; construction | Road work slowed down traffic on Main Street. | Expect delays because of road work.
+TRA080 | toll | رسوم المرور على الطريق | C1 | n | a | - | - | - | There is a three-dollar toll on the bridge. | Pay the toll with your phone.
+TRA081 | lane | حارة مرورية | B2 | n | a | - | - | - | Stay in the right lane until the exit. | The highway has four lanes in each direction.
+TRA082 | U-turn | استدارة كاملة (يوتيرن) | B2 | n | a | - | make a U-turn | - | You cannot make a U-turn here. | Make a U-turn at the next light.
+TRA083 | head | يتّجه | B2 | v | - | - | head to / for / north | - | I'm heading to the hospital now. | Head north on Main Street.
+TRA084 | navigate | يجد طريقه (يتنقّل) | C1 | v | - | - | - | - | It took me months to navigate the subway system. | Use an app to navigate the city.
+TRA085 | honk | يطلق البوق | B2 | v | - | - | - | - | The driver honked at the cyclist. | Don't honk near the hospital.
+TRA086 | frequent | متكرّر | B2 | adj | - | - | - | - | Buses are frequent during the day. | There are frequent trains to the airport.
+TRA087 | scenic | ذو مناظر خلّابة | C1 | adj | - | - | - | - | We took the scenic route along the coast. | The drive is long but scenic.
+TRA088 | downtown | في وسط المدينة | B2 | adv | - | - | also an adjective and a noun | - | I work downtown, near the main hospital. | Let's take the train downtown.
+TRA089 | nearby | بالقرب | B2 | adv | - | - | also an adjective | - | Is there a pharmacy nearby that is open late? | She lives nearby, so she walks to work.
+TRA090 | overseas | في الخارج (ما وراء البحار) | B2 | adv | - | - | - | abroad | Her parents live overseas in Morocco. | I call my family overseas every Sunday.
+TRA091 | straight ahead | إلى الأمام مباشرةً | B2 | adv | - | - | - | - | Go straight ahead for two blocks. | The emergency entrance is straight ahead.
+TRA092 | en route | أثناء الطريق (في طريقه إلى) | C1 | adv | - | - | from French | - | The ambulance is en route to the hospital. | I'm en route and will be there in ten minutes.
+TRA093 | get lost | يضلّ الطريق | B2 | expr | - | - | irregular: got, gotten | - | I got lost on my first day in the hospital. | It's easy to get lost in a big city.
+TRA094 | give sb a ride | يوصله بالسيارة | B2 | expr | - | - | irregular: gave, given | - | Can you give me a ride to the station? | My coworker gave me a ride home.
+TRA095 | on the way | في طريقه (قادم) | B2 | expr | - | - | - | - | I'll stop at the store on the way home. | The ambulance is on the way.
+TRA096 | run late | يتأخّر | B2 | expr | - | - | irregular: ran, run | - | I'm running late because of the snow. | Tell the team you're running late.
+TRA097 | miss the bus | يفوته الباص | B2 | expr | - | - | - | - | I missed the bus and had to walk. | If you miss the bus, the next one is in ten minutes.
+TRA098 | catch a flight | يلحق بطائرة | B2 | expr | - | - | irregular: caught | - | I need to catch a flight at six in the morning. | She caught a flight to Chicago for her interview.
+TRA099 | passenger | راكب | B2 | n | a | - | - | - | The passenger in the front seat was injured. | All passengers must wear a seat belt.
+TRA100 | vehicle | مركبة | B2 | n | a | - | - | - | Move your vehicle out of the ambulance bay. | The vehicle hit a tree at high speed.
+TRA101 | ambulance bay | موقف سيارات الإسعاف | C1 | n | an | - | - | - | Never park in the ambulance bay. | The ambulance bay is next to the trauma room.
+TRA102 | helipad | مهبط المروحيات | C1 | n | a | - | - | helicopter pad | The trauma patient arrived on the helipad. | The helipad is on the roof of the hospital.
+TRA103 | fender bender | حادث اصطدام بسيط | C1 | n | a | - | informal | - | I had a fender bender in the parking lot. | Nobody was hurt in the fender bender.
+TRA104 | hit-and-run | حادث صدم وهروب | C1 | n | a | - | - | - | The pedestrian was the victim of a hit-and-run. | Police are looking for the driver in the hit-and-run.
+TRA105 | DUI | القيادة تحت تأثير الكحول | C1 | n | a | - | driving under the influence | DWI | He was arrested for a DUI. | A DUI can cost you your driver's license.
